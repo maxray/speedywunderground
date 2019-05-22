@@ -1,5 +1,5 @@
 ---
-name: Release 2 
+name: Release 2 - MP3 ONLY
 price: 39.99
 slug: release-2
 sku: release-2
