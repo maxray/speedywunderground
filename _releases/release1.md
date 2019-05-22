@@ -4,6 +4,8 @@ price: 119.99
 slug: release-1
 sku: release-1
 image: https://via.placeholder.com/150
+file-guid:
+shippable:
 layout: productdetails
 ---
 ### Release 1 Intro

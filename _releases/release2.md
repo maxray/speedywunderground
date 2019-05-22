@@ -5,7 +5,7 @@ slug: release-2
 sku: release-2
 image: https://via.placeholder.com/150
 file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
-shippable: false
+shippable:
 layout: productdetails
 ---
 ### Release 2 Intro (Digital Download)

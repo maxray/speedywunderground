@@ -4,6 +4,8 @@ price: 11.99
 slug: tote-bag
 sku: t-b
 image: https://via.placeholder.com/150
+file-guid:
+shippable:
 layout: productdetails
 ---
 ### Tote Bag
