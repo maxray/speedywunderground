@@ -4,7 +4,7 @@ price: 39.99
 slug: release-2
 sku: release-2
 image: https://via.placeholder.com/150
-file: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
+file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
 layout: productdetails
 ---
 ### Release 2 Intro (Digital Download)
