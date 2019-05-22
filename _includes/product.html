@@ -11,7 +11,10 @@
     data-item-image="{{ product.image }}"
     data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
     data-item-price="{{ product.price }}"
+    
+    {%- if product.shippable -%}
     data-item-shippable = "{{ product.shippable }}"
+    {%- endif -%}
     data-item-file-guid="{{ product.file-guid }}">
     Buy it for £ {{ product.price }}
   </button>
