@@ -5,7 +5,7 @@ slug: t-shirt
 sku: t-s
 image: https://via.placeholder.com/150
 file-guid:
-shippable: true
+shippable:
 layout: productdetails
 ---
 ### T Shirt
