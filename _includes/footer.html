@@ -52,6 +52,10 @@ document.addEventListener('snipcart.ready', function() {
       myCartUpdate();
     });
 
+    Snipcart.subscribe('item.updated', function (item) {
+      myCartUpdate();
+    });
+
 
 });
 </script>
