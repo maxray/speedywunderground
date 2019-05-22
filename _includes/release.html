@@ -1,0 +1,19 @@
+<div class="release">
+  
+  <a class="release" href="{{ site.baseurl }}{{ release.url }}">
+    <img src="{{ product.image }}" alt="{{ release.name }}" class="thumbnail"/>
+    <p>{{ release.name }}</p>
+  </a>
+  
+  <button class="snipcart-add-item"
+    data-item-name="{{ release.name }}"
+    data-item-id="{{ release.sku }}"
+    data-item-image="{{ release.image }}"
+    data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
+    data-item-price="{{ release.price }}"
+    data-item-shippable = "{{ release.shippable }}"
+    data-item-file-guid="{{ release.file-guid }}">
+    Buy it for £ {{ release.price }}
+  </button>
+
+</div>
