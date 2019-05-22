@@ -14,7 +14,13 @@
     {%- if release.shippable -%}
     data-item-shippable = "{{ release.shippable }}"
     {%- endif -%}
-    data-item-file-guid="{{ release.file-guid }}">
+
+    {%- if release.file-guid -%}
+    data-item-file-guid="{{ release.file-guid }}"
+    {%- endif -%}
+    
+    
+    >
     Buy it for £ {{ release.price }}
   </button>
 
