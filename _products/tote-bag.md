@@ -3,7 +3,7 @@ name: Tote Bag
 price: 11.99
 slug: tote-bag
 sku: t-b
-image: http://d.gr-assets.com/books/1422538855l/23158207.jpg
+image: https://via.placeholder.com/150
 layout: productdetails
 ---
 ### Tote Bag

@@ -3,7 +3,7 @@ name: Release 1
 price: 119.99
 slug: release-1
 sku: release-1
-image: http://d.gr-assets.com/books/1422538855l/23158207.jpg
+image: https://via.placeholder.com/150
 layout: productdetails
 ---
 ### Release 1 Intro

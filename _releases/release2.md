@@ -3,7 +3,7 @@ name: Release 2
 price: 39.99
 slug: release-2
 sku: release-2
-image: http://d.gr-assets.com/books/1422538855l/23158207.jpg
+image: https://via.placeholder.com/150
 file: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
 layout: productdetails
 ---

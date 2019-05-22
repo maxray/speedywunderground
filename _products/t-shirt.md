@@ -3,7 +3,7 @@ name: T Shirt
 price: 20.99
 slug: t-shirt
 sku: t-s
-image: http://d.gr-assets.com/books/1422538855l/23158207.jpg
+image: https://via.placeholder.com/150
 layout: productdetails
 ---
 ### T Shirt
