@@ -43,6 +43,8 @@ document.addEventListener('snipcart.ready', function() {
       console.log(count);
       if (count != 0) {
         $("#my-cart").html('<a href="#" class="snipcart-checkout">'+ count + 'Items</a>');
+      } else {
+        $("#my-cart").html('');
       }
     }
 
