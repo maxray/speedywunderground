@@ -25,10 +25,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 api_key: OGIyYTBkODgtNzJkZS00MjI1LWEwOTUtNDcwOGZiNDA1OGVmNjM2OTQxMTA2MDUxMTYxMzQ3
 collections:
-    - products
-        output: true
-    - releases
-        output: true
+  products:
+    title: Products
+    output: true
+  releases:
+    title: Releases
+    output: true
 
 
 # Build settings
