@@ -33,3 +33,10 @@
   </div>
 
 </footer>
+
+<script>
+document.addEventListener('snipcart.ready', function() {
+    var count = Snipcart.api.items.count();
+    console.log(count);
+});
+</script>
