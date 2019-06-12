@@ -5,7 +5,7 @@
 
   <body>
     
-    <div class="background" style="background-image: url({{ site.baseurl }}{{page.image }})">
+    <div class="background"  {% if page.image %} style="background-image: url({{ site.baseurl }}{{page.image }})" {% endif %}>
         <div class="triangle"></div>
         <div class="t-line"></div>
         <div class="black"></div>
