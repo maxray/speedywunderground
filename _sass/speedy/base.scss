@@ -27,7 +27,10 @@ html , body {
 }
 
 .wrapper {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-columns: 50vw 1fr;
+    
+    @media only screen and (min-width: 768px) {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: 50vw 1fr;
+    }
 }

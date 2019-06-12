@@ -37,6 +37,10 @@
     background-repeat:no-repeat;
     background-position: top right;
 
+    @media only screen and (max-width: 768px) {
+        opacity:.5;
+    }
+
 }
 
 .background .black {
