@@ -44,32 +44,7 @@
     line-height: 50px;
 }
 
-.product-info button , .add-cart {
-    border: solid 1px white;
-    color:white;
-    padding:5px 20px;
-    background-color:#000000;
-    transition: all .75s ease;
-    font-size:1rem;
-    text-transform:uppercase;
-    cursor:pointer;
-}
 
-.product-info button:hover  , .add-cart:hover{
-   background-color:#f7bb00;
-}
-
-button {
-    margin: 0;
-    padding: 0;
-    background: none;
-    border: none;
-    border-radius: 0;
-    outline: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-}
 
 .slide-buttons{
     padding: 0rem 0 2rem 0;
