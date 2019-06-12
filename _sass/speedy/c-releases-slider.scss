@@ -1,10 +1,11 @@
 #releases {
 
-    width: calc(100% - 4rem);
-    margin: 2rem;
+    width: 100%;
+   
     
 
     @media only screen and (min-width: 768px) {
+        width: calc(100% - 4rem);
         grid-column:  2/-1;
         max-width:50vw;
         margin:0;
@@ -43,7 +44,7 @@
     line-height: 50px;
 }
 
-.product-info button {
+.product-info button , .add-cart {
     border: solid 1px white;
     color:white;
     padding:5px 20px;
@@ -54,7 +55,7 @@
     cursor:pointer;
 }
 
-.product-info button:hover {
+.product-info button:hover  , .add-cart:hover{
    background-color:#f7bb00;
 }
 

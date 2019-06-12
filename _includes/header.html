@@ -7,11 +7,12 @@
     <h1 class="site-title">{{ site.title | escape }}</h1>
     <nav id="nav">
         <ul>
+         
         <li class="active current" data-col="#00cc00"><a href="{{site.baseurl}}/" id="current">Home</a></li>
-        <li class="inactive" data-col="#ff0000"><a href="2.html">About Us</a></li>
-          <li class="inactive" data-col="#ffff00"><a href="3.html">Studio</a></li>
-          <li class="inactive" data-col="#ffdd00"><a href="4.html">Shop</a></li>
-          <li class="inactive" data-col="#ffdd00"><a href="4.html">Contact</a></li>
+        <li class="inactive" data-col="#ff0000"><a href="{{site.baseurl}}/about/">About Us</a></li>
+          <li class="inactive" data-col="#ffff00"><a href="{{site.baseurl}}/Studio/">Studio</a></li>
+          <li class="inactive" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/">Shop</a></li>
+          <li class="inactive" data-col="#ffdd00"><a href="{{site.baseurl}}/contact/">Contact</a></li>
         </ul>
         <div class="hline"></div> 
     </nav>

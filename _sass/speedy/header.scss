@@ -1,4 +1,4 @@
-header {
+.site-header {
     padding:2rem;
     display: flex;
     flex-direction: row;
@@ -10,8 +10,13 @@ header {
 .site-title {
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 1.5rem;
     letter-spacing: 1px;
+    width: 70%;
+
+    @media only screen and (min-width: 768px) {
+        font-size: 2rem;
+    }
 }
 
 .hline {
