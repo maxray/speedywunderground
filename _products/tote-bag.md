@@ -1,13 +1,14 @@
 ---
+title: Tote Bag
 name: Tote Bag
 price: 11.99
-slug: tote-bag
 sku: t-b
 image: https://via.placeholder.com/150
-file-guid:
-shippable:
+file-guid: 
+shippable: 
 layout: productdetails
 ---
+
 ### Tote Bag
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper ante non vehicula eleifend.
 Phasellus ut feugiat tellus, vitae malesuada mi. Sed placerat ultrices enim, id fermentum ante tincidunt nec.

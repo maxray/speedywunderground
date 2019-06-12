@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Contact Speedy Wunderground
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
 
 ### Contact Details here

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: The Studio
-permalink: /studio/
+permalink: "/studio/"
+layout: page
 ---
 
 ### All about the studio
