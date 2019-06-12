@@ -19,10 +19,10 @@ defaults:
     path: ''
     type: releases
   values:
-    layout: "productdetails"
-    price:
-    sku:
-    image:
+    layout: productdetails
+    price: 
+    sku: 
+    image: 
     file-guid: 
     shippable: 
 - scope:
