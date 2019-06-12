@@ -3,6 +3,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    position: relative;
 
 }
 
@@ -11,4 +12,17 @@ header {
     font-weight: 500;
     font-size: 2rem;
     letter-spacing: 1px;
+}
+
+.hline {
+           
+    display:none;
+    height: 1px;
+    width: 100%;
+    background-color: white;
+
+    @media only screen and (min-width: 768px) {
+        display: block;
+    }
+   
 }

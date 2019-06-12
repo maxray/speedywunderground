@@ -33,6 +33,12 @@ document.addEventListener('snipcart.ready', function() {
 
 });
 
+
+TweenMax.from(".triangle", 3, {height:0});
+TweenMax.from(".t-line", 3, {opacity:0});
+TweenMax.from(".hline", 3, {opacity:0});
+
+
 function mobileSwitch() {
     var element = document.getElementById("js-nav");
     element.classList.toggle("is-active"); 
@@ -41,6 +47,15 @@ function mobileSwitch() {
     var element = document.getElementById("nav");
     element.classList.toggle("mobile-menu-on"); 
 }
+
+$(document).ready(function(){
+  $('.js-releases').slick({
+    autoplay: true,
+    autoplaySpeed: 2000,
+    prevArrow: $('.prev'),
+    nextArrow: $('.next'),
+  });
+});
 
 
 </script>

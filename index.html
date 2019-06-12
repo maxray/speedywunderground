@@ -1,15 +1,24 @@
 ---
-layout: products
-title: Store
+layout: default
+title: Home
 ---
 
-<h3> Merch</h3>
+<section id="releases">
+    <h3>Latest Releases</h3>
+    <div class="slide-buttons">
+        <button class="prev slick-arrow prev-arrow"> < </button>
+        <button class="next slick-arrow next-arrow"> > </button>
+     </div>
+    <ul class="js-releases">
+        {% for release in site.releases%}
+        {% include release.html %}
+        {% endfor %}
+    </ul>
+    
+</section>
+
+<!-- <h3> Merch</h3>
 {% for product in site.products %}
   {% include product.html %}
-{% endfor %}
+{% endfor %} -->
 
-<h3>Releases</h3>
-
-{% for release in site.releases%}
-  {% include release.html %}
-{% endfor %}

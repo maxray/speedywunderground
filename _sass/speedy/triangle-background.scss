@@ -1,0 +1,72 @@
+.background {
+    display: grid;
+    grid-template-columns: 50vw 1fr;
+    grid-template-rows: 1fr 1fr;
+    background: url(images/bg1png.png);
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    // z-index: -1;
+    overflow: hidden;
+    position:fixed;
+}
+
+@media only screen and (max-width: 768px) {
+    .background {
+        grid-template-columns: 1fr;
+ 
+    }
+}
+
+.background .triangle {
+    background: url(images/triangle.svg);
+    mix-blend-mode: soft-light;
+    background-repeat:no-repeat;
+    grid-column: 1/2;
+    grid-row: 1/-1;
+    background-position: top right;
+
+}
+
+.background .t-line {
+    background: url(images/line.svg);
+    background-size:cover;
+    grid-column: 1/2;
+    grid-row: 1/-1;
+    background-repeat:no-repeat;
+    background-position: top right;
+
+}
+
+.background .black {
+    grid-column: 2/-1;
+    grid-row: 1/-1;
+    background: rgba(0,0,0,0);
+}
+
+.line {
+    width: 100vh;
+    height: calc(100vh * 1.5);
+    background-color: #f7bb00;
+    transform: rotate(45deg);
+    position: absolute;
+    mix-blend-mode: soft-light;
+    left: 0;
+    top: 0;
+    transform-origin: top right;
+    transform-style: preserve-3D;
+    opacity: 0;
+}
+
+.white-line {
+    width: 100vh;
+    height: calc(100vh * 1.5);
+    border-right: solid 1px white;
+    transform: rotate(45deg);
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-origin: top right;
+    transform-style: preserve-3D;
+}

@@ -1,27 +1,22 @@
-<div class="release">
-  
-  <a class="release" href="{{ site.baseurl }}{{ release.url }}">
-    <img src="{{ release.image }}" alt="{{ release.name }}" class="thumbnail"/>
-    <p>{{ release.name }}</p>
-  </a>
-  
-  <button class="snipcart-add-item"
-    data-item-name="{{ release.name }}"
-    data-item-id="{{ release.sku }}"
-    data-item-image="{{ release.image }}"
-    data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
-    data-item-price="{{ release.price }}"
-    {%- if release.shippable -%}
-    data-item-shippable = "{{ release.shippable }}"
-    {%- endif -%}
+<li>
+    <div class="release product-info">
+        <h4>{{ release.name }}</h4>
+        <button>Listen</button>
+        <button class="snipcart-add-item"
+          data-item-name="{{ release.name }}"
+          data-item-id="{{ release.sku }}"
+          data-item-image="{{ release.image }}"
+          data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
+          data-item-price="{{ release.price }}"
+          {%- if release.shippable -%}
+          data-item-shippable = "{{ release.shippable }}"
+          {%- endif -%}
 
-    {%- if release.file-guid -%}
-    data-item-file-guid="{{ release.file-guid }}"
-    {%- endif -%}
-    
-    
-    >
-    Buy it for £ {{ release.price }}
-  </button>
+          {%- if release.file-guid -%}
+          data-item-file-guid="{{ release.file-guid }}"
+          {%- endif -%}>
+              Buy it for £ {{ release.price }}
+        </button>
+    </div>
+</li>
 
-</div>
