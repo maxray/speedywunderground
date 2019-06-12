@@ -1,0 +1,9 @@
+a {
+    transition: all .75s ease;
+    text-decoration: none;
+    color: var(--white);
+}
+
+a:hover {
+    color: var(--main-color);
+}
