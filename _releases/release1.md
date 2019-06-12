@@ -1,13 +1,14 @@
 ---
-name: Release 1 
+title: Release1
+name: Release 1
 price: 119.99
-slug: release-1
 sku: release-1
 image: https://via.placeholder.com/150
-file-guid:
-shippable:
+file-guid: 
+shippable: 
 layout: productdetails
 ---
+
 ### Release 1 Intro
 Tote Bag Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper ante non vehicula eleifend.
 Phasellus ut feugiat tellus, vitae malesuada mi. Sed placerat ultrices enim, id fermentum ante tincidunt nec.
