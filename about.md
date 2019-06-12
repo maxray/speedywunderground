@@ -1,7 +1,7 @@
 ---
 title: About Speedy Wunderground
 permalink: "/about/"
-thumbnail_image: 
+thumbnail_image: "/uploads/Screen%20Shot%202019-06-12%20at%2009.20.16.png"
 image: 
 ---
 
