@@ -32,7 +32,16 @@ collections:
   releases:
     title: Releases
     output: true
-
+- scope:
+    path: ''
+    type: releases
+  values:
+    price: 119.99
+    sku:
+    image:
+    file-guid:
+    shippable:
+    layout: productdetails
 
 # Build settings
 markdown: kramdown
