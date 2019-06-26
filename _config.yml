@@ -20,7 +20,7 @@ defaults:
     type: releases
   values:
     layout: productdetails
-    categories:
+    categories: 
     price: 
     sku: 
     image: 
