@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW028
+mp3-asset: "/uploads/SW028%20-%20I%20Feel%20Fine.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
