@@ -26,7 +26,7 @@ defaults:
     image: 
     file-guid: 
     shippable:
-    sample-mp3:
+    mp3-asset:
 - scope:
     path: ''
     type: pages
