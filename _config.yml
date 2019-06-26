@@ -25,7 +25,8 @@ defaults:
     sku: 
     image: 
     file-guid: 
-    shippable: 
+    shippable:
+    sample-mp3:
 - scope:
     path: ''
     type: pages
