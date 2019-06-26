@@ -42,6 +42,16 @@ document.addEventListener('snipcart.ready', function() {
       myCartUpdate();
     });
 
+    $(".js-product-size").on('change', function(e) {
+        e.preventDefault(); 
+        $(this).next().attr('data-item-custom1-value' , this.value);
+    });
+
+    $(".js-product-colour").on('change', function(e) {
+        e.preventDefault(); 
+        $(this).next().attr('data-item-custom2-value' , this.value);
+    });
+
 
 });
 

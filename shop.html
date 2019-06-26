@@ -16,21 +16,23 @@ layout: shop
 </div>
 
 <div class="compilations">
-<h3>Compilations</h3>
-<ul class="shop-list"></ul>
-{% for release in site.releases %}
-    {% if release.categories contains "compilation" %}
-     {% include release.html %}
-    {% endif %}
-{% endfor %} 
-</ul>
+    <h3>Compilations</h3>
+    <ul class="shop-list">
+        {% for release in site.releases %}
+            {% if release.categories contains "compilation" %}
+            {% include release.html %}
+            {% endif %}
+        {% endfor %} 
+    </ul>
 </div>
 
 <div class="merch">
-<h3> Merch</h3>
-{% for product in site.products %}
-    {% if product.categories contains "merch" %}
-        {% include product.html %}
-    {% endif %}
-{% endfor %} 
+    <h3> Merch</h3>
+    <div class="shop-list">
+            {% for product in site.products %}
+                {% if product.categories contains "merch" %}
+                    {% include product.html %}
+                {% endif %}
+            {% endfor %} 
+    </div>
 </div>

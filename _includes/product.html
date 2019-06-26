@@ -1,12 +1,25 @@
 <div class="product">
   
   <a class="product" href="{{ site.baseurl }}{{ product.url }}">
-    <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
-    <p>{{ product.name }}</p>
+    <img src="{{ product.image }}" alt="{{ product.title }}" class="thumbnail"/>
+    <p>{{ product.title }}</p>
   </a>
-  
+  {%- if product.categories contains "clothes" -%}
+    <select class="js-product-size">
+      <option value="" disabled selected>Size</option>
+      <option value="small">Small</option>
+      <option value="medium">Medium</option>
+      <option value="large">Large</option>
+    </select>
+    <select class="js-product-colour">
+        <option value="" disabled selected>Colour</option>
+        <option value="red">Red</option>
+        <option value="yellow">Yellow</option>
+        <option value="blue">Blue</option>
+      </select>
+  {%- endif -%}
   <button class="snipcart-add-item add-cart"
-    data-item-name="{{ product.name }}"
+    data-item-name="{{ product.title }}"
     data-item-id="{{ product.sku }}"
     data-item-image="{{ product.image }}"
     data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
@@ -19,7 +32,14 @@
     {%- if product.file-guid -%}
     data-item-file-guid="{{ product.file-guid }}"
     {%- endif -%}
-
+    {%- if product.categories contains "clothes" -%}
+    data-item-custom1-name="Size"
+    data-item-custom1-options="small|medium|large"
+    data-item-custom1-value=""
+    data-item-custom2-name="Colour"
+    data-item-custom2-options="red|yellow|blue"
+    data-item-custom2-value=""
+    {%- endif -%}
     >
     Buy it for £ {{ product.price }}
   </button>
