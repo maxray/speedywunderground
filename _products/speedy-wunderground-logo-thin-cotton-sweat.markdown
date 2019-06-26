@@ -1,5 +1,6 @@
 ---
 title: SPEEDY WUNDERGROUND LOGO THIN COTTON SWEAT
+date: 2019-06-26 10:40:00 Z
 categories:
 - merch
 - clothes
@@ -7,7 +8,6 @@ name: T Shirt
 price: 20.99
 sku: t-s
 image: https://via.placeholder.com/150
-date: 2019-06-26 10:40:00 Z
 ---
 
 ### T Shirt
