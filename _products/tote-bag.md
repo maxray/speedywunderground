@@ -2,6 +2,8 @@
 title: Tote Bag
 name: Tote Bag
 price: 11.99
+categories:
+- merch
 sku: t-b
 image: https://via.placeholder.com/150
 file-guid: 

@@ -1,25 +1,36 @@
 ---
 title: Shop
 permalink: "/shop/"
-layout: default
+layout: shop
 ---
 
-<!-- <section id="releases">
-    <h3>Latest Releases</h3>
-    <div class="slide-buttons">
-        <button class="prev slick-arrow prev-arrow"> < </button>
-        <button class="next slick-arrow next-arrow"> > </button>
-     </div>
-    <ul class="js-releases">
-        {% for release in site.releases%}
-        {% include release.html %}
-        {% endfor %}
+<div class="singles">
+    <h3>Singles</h3>
+    <ul class="shop-list">
+        {% for release in site.releases %}
+            {% if release.categories contains "single" %}
+            {% include release.html %}
+            {% endif %}
+        {% endfor %} 
     </ul>
-    
-</section>-->
+</div>
 
+<div class="compilations">
+<h3>Compilations</h3>
+<ul class="shop-list"></ul>
+{% for release in site.releases %}
+    {% if release.categories contains "compilation" %}
+     {% include release.html %}
+    {% endif %}
+{% endfor %} 
+</ul>
+</div>
+
+<div class="merch">
 <h3> Merch</h3>
 {% for product in site.products %}
-  {% include product.html %}
+    {% if product.categories contains "merch" %}
+        {% include product.html %}
+    {% endif %}
 {% endfor %} 
-
+</div>
