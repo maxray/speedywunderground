@@ -1,11 +1,13 @@
 ---
 title: Release2
-name: Release 2 - MP3 ONLY
+categories:
+- compilation
 price: 39.99
 sku: release-2
 image: https://via.placeholder.com/150
 file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
 shippable: 0
+name: Release 2 - MP3 ONLY
 layout: productdetails
 ---
 
