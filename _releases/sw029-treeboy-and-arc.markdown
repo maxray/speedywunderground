@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW029
+mp3-asset: "/uploads/SW029%20A%20-%20Concept.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
