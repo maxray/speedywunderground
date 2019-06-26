@@ -8,8 +8,6 @@
         <img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.title}}" class="thumbnail"/>
 </footer>
 <div id="js-player" class="container gradient">
-         
-    <img class="cover" src="images/cover.jpg" alt="">
 
     <div class="player gradient">
 
@@ -30,7 +28,7 @@ document.addEventListener('snipcart.ready', function() {
 
     function myCartUpdate() {
       var count = Snipcart.api.items.count();
-      console.log(count);
+      //console.log(count);
       if (count != 0) {
         if ($(window).width() < 768) {
           $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> '+ count + ' Items</a>');
@@ -94,6 +92,8 @@ $(document).ready(function(){
     nextArrow: $('.next'),
   });
 
+
+
   //MUSIC PLAYER STUFF
 
   const container = $('.container');
@@ -103,16 +103,16 @@ $(document).ready(function(){
 	mute = $('#mute');
 	muted = $('#muted');
 	close = $('#close');
-	song = new Audio('{{site.baseurl}}/music/track1.ogg','{{site.baseurl}}/music/MBT_01.mp3');
+	song = new Audio();
 	duration = song.duration;
 
-  if (song.canPlayType('audio/mpeg;')) {
-  	song.type= 'audio/mpeg';
-  	song.src= '{{site.baseurl}}/music/MBT_01.mp3';
-	} else {
-  	song.type= 'audio/ogg';
-  	song.src= '{{site.baseurl}}/music/track1.ogg';
-	}
+  // if (song.canPlayType('audio/mpeg;')) {
+  // 	song.type= 'audio/mpeg';
+  // 	song.src= '{{site.baseurl}}/music/MBT_01.mp3';
+	// } else {
+  // 	song.type= 'audio/ogg';
+  // 	song.src= '{{site.baseurl}}/music/track1.ogg';
+	// }
 
   play.on('click', function(e) {
 		e.preventDefault();
@@ -165,6 +165,24 @@ $(document).ready(function(){
 	curtime = parseInt(song.currentTime, 10);
 		$("#seek").attr("value", curtime);
 	});
+
+  // Play Sample
+
+  $('.js-play-sample').on('click', function(e) {
+		e.preventDefault();
+    
+    song.src= '{{site.baseurl}}' + $(this).attr('data-sample');
+    console.log(song.src);
+    song.play();
+    play.replaceWith('<a class="button gradient" id="pause" href="" title=""></a>');
+		container.addClass('containerLarge');
+		cover.addClass('coverLarge');
+		$('#close').fadeIn(300);
+		$('#seek').attr('max',song.duration);
+
+   // console.log(song.src);
+    //$(this).next().attr('data-item-custom1-value' , this.value);
+  });
 
 
 });
