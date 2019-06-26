@@ -1,20 +1,31 @@
 #my-cart {
-    position: absolute;
-    display: flex;
-    width: 100%;
-    align-content: center;
-    justify-content: center;
-    top:0;
-    left:0;
+    // position: absolute;
+    // display: flex;
+    // width: 100%;
+    // align-content: center;
+    // justify-content: center;
+    // top:0;
+    // left:0;
 
 
     .snipcart-checkout {
-        background-color:var(--main-color);
+        
         padding:5px 10px;
-        border-radius: 0 0 10px 10px;
+        // border-radius: 0 0 10px 10px;
         display: flex;
         align-items: center;
-        color:var(--black);
+
+        @media only screen and (min-width: 768px) {
+            background-color:var(--main-color);
+            color:var(--black);
+        }
+
+        img {
+            width: 30px;
+            padding-right: 5px;
+            height:auto;
+        }
+        
 
     }
 

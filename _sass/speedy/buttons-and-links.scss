@@ -8,7 +8,7 @@ a:hover {
     color: var(--main-color);
 }
 
- .add-cart {
+ .add-cart , .listen {
     border: solid 1px white;
     color:white;
     padding:5px 20px;
@@ -19,7 +19,7 @@ a:hover {
     cursor:pointer;
 }
 
- .add-cart:hover{
+ .add-cart:hover , .listen:hover{
    background-color:#f7bb00;
 }
 

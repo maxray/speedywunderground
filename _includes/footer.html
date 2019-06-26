@@ -1,7 +1,9 @@
 <footer class="site-footer h-card">
         <div id="socials">
-          <a href="https://{{ site.facebook_username| escape }}">{{ site.facebook_username| escape }}</a>
-          <a href="https://www.twitter.com/{{ site.twitter_username| escape }}">@{{ site.twitter_username| escape }}</a>
+          <a href="https://{{ site.facebook_username| escape }}" target="_blank">{{ site.facebook_username| escape }}</a>
+          <a href="https://www.twitter.com/{{ site.twitter_username| escape }}" target="_blank">@{{ site.twitter_username| escape }}</a>
+          <a href="https://soundcloud.com/speedywunderground" target="_blank">soundcloud.com/speedywunderground</a>
+          
         </div>
         <img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.title}}" class="thumbnail"/>
 </footer>
@@ -14,11 +16,21 @@ document.addEventListener('snipcart.ready', function() {
       var count = Snipcart.api.items.count();
       console.log(count);
       if (count != 0) {
-        $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.png" alt="Your Cart"/> '+ count + ' Items</a>');
+        if ($(window).width() < 768) {
+          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> '+ count + ' Items</a>');
+      
+        }else {
+          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> '+ count + ' Items</a>');
+      
+        }
       } else {
         $("#my-cart").html('');
       }
     }
+
+    $(window).on('resize', function(){
+      myCartUpdate();
+    });
 
     myCartUpdate();
 
