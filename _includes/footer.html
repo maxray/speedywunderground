@@ -45,10 +45,10 @@ document.addEventListener('snipcart.ready', function() {
 
 });
 
-
-TweenMax.from(".triangle", 3, {height:0});
-TweenMax.from(".t-line", 3, {opacity:0});
-TweenMax.from(".hline", 3, {opacity:0});
+TweenMax.from(".background", .5, {opacity:0}).delay(1);
+TweenMax.from(".triangle", 1, {height:0}).delay(1.5);
+TweenMax.from(".t-line", 1, {opacity:0}).delay(1.5);
+TweenMax.from(".hline", 1, {opacity:0}).delay(1.5);
 
 
 function mobileSwitch() {
