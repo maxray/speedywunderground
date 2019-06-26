@@ -20,7 +20,7 @@
   -ms-transition: all .7s ease;
   transition: all .7s ease;
   position: absolute;
-  width: 427px;
+  width: 327px;
   height: 70px;
 
 //   -webkit-border-radius: 10px;
@@ -58,7 +58,7 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     position: absolute;
-    width: 300px;
+    width: 200px;
     bottom: 10px;
     width: 95%;
  
@@ -70,29 +70,29 @@
  
 .button {
     display: block;
-    width: 34px;
-    height: 34px;
+    width: 25px;
+    height: 25px;
     background-image: url(../assets/images/sprite.png);
     background-repeat: no-repeat;
     float: left;
     margin-right: 5px;
+    cursor: pointer;
 }
  
 #play {
-    background-position: 6px 5px;
+    background-position: 5px 0;
 }
  
 #pause {
-    background-position: -32px 5px;
-    background-color:yellow;
+    background-position: -20px 0;
 }
  
 #mute {
-    background-position: -63px 5px;
+    background-position: -63px 0;
 }
  
 #muted {
-    background-position: -106px 5px;
+    background-position: -106px 0;
 }
  
 input[type="range"] {
@@ -102,8 +102,12 @@ input[type="range"] {
  
 #close {
     float: right;
-    background-position: -146px 5px;
+    background-position: -146px 0;
     display: none;
+}
+
+.js-hidden {
+    display:none;
 }
  
 // .volume {

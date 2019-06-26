@@ -11,11 +11,12 @@
 
     <div class="player gradient">
 
-        <button class="button gradient" id="play" >></button>
+        <button class="button gradient" id="play" ></button>
+        <button class="button gradient" id="pause" ></button>
      
             <input type="range" id="seek" value="0" max=""/>
  
-        <button class="button gradient" id="close" >x</button>
+        <button class="button gradient" id="close" ></button>
          
     </div><!-- / player -->
      
@@ -101,6 +102,8 @@ $(document).ready(function(){
 	close = $('#close');
 	song = new Audio();
 	duration = song.duration;
+  pause.addClass('js-hidden');
+
 
   // if (song.canPlayType('audio/mpeg;')) {
   // 	song.type= 'audio/mpeg';
@@ -113,17 +116,18 @@ $(document).ready(function(){
   play.on('click', function(e) {
 		e.preventDefault();
 		song.play();
-		$(this).replaceWith('<button class="button gradient" id="pause">||</button>');
 		container.addClass('js-show-player');
+    pause.removeClass('js-hidden');
+    play.addClass('js-hidden');
 		$('#close').fadeIn(300);
 		$('#seek').attr('max',song.duration);
 	});
 
 	pause.on('click', function(e) {
 		e.preventDefault();
-    console.log("pause");
+    play.removeClass('js-hidden');
+    pause.addClass('js-hidden');
 		song.pause();
-		$(this).replaceWith('<button class="button gradient" id="play">></button>');
 
 	});
 
@@ -133,7 +137,6 @@ $(document).ready(function(){
 		container.removeClass('js-show-player');
 		song.pause();
 		song.currentTime = 0;
-		$('#pause').replaceWith('<button class="button gradient" id="play">></button>');
 		$('#close').fadeOut(300);
 	});
 
@@ -144,7 +147,7 @@ $(document).ready(function(){
 
   song.addEventListener('timeupdate',function (){
 	curtime = parseInt(song.currentTime, 10);
-		$("#seek").attr("value", curtime);
+		$("#seek").val(curtime);
 	});
 
   // Play Sample
@@ -154,15 +157,15 @@ $(document).ready(function(){
     song.currentTime = 0;
     song.src= '{{site.baseurl}}' + $(this).attr('data-sample');
     console.log(song.src);
-
+    play.addClass('js-hidden');
+    pause.removeClass('js-hidden');
 
       song.play();
-      play.replaceWith('<button class="button gradient" id="pause" >||</button>');
       container.addClass('js-show-player');
       // cover.addClass('coverLarge');
       $('#close').fadeIn(300);
       $('#seek').attr('value', 0);
-      $('#seek').attr('max', song.duration);
+      //$('#seek').attr('max', song.duration);
       song.onloadedmetadata = function() {
         $('#seek').attr('max',song.duration);
       }
