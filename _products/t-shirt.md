@@ -1,9 +1,9 @@
 ---
 title: T Shirt
-name: T Shirt
-price: 20.99
 categories:
 - merch
+name: T Shirt
+price: 20.99
 sku: t-s
 image: https://via.placeholder.com/150
 file-guid: 
