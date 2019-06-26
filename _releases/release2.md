@@ -1,5 +1,5 @@
 ---
-title: Release2
+title: 'Release2'
 categories:
 - compilation
 price: 39.99
