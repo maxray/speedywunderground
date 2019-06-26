@@ -1,8 +1,76 @@
-.shop-list {
+.compilations , .singles , .merch {
+
+    h3 {
+        font-size:2.5rem;
+        // border-bottom: solid 1px #ffffff;
+        // margin-bottom:2rem;
+    }
+
+    
+
+    .product-info h4 {
+            font-size:1.25rem;
+        }
+
+}
+
+.comp-list {
+    margin: 0 0 3rem 0;
+    padding: 0;
+    list-style: none;
+    display:grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr ;
+
+    @media only screen and (max-width: 600px) {
+        grid-template-columns: 1fr ;
+    }
+
+  
+
+}
+
+.single-list {
+    margin: 0 0 3rem 0;
+    padding: 0;
+    list-style: none;
+    display:grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+
+    @media only screen and (max-width: 768px) {
+        grid-template-columns: 1fr 1fr ;
+    }
+
+    @media only screen and (max-width:500px) {
+        grid-template-columns:  1fr ;
+    }
+
+
+
+
+}
+
+
+.merch-list {
     margin: 0;
     padding: 0;
     list-style: none;
     display:grid;
     grid-gap: 10px;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr ;
+
+    @media only screen and (max-width: 600px) {
+        grid-template-columns: 1fr ;
+    }
+
+    h3 {
+        font-size:3rem;
+    }
+
+    h4 {
+        font-size:1.5rem;
+    }
+
+
 }
