@@ -7,10 +7,10 @@
         </div>
         <img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.title}}" class="thumbnail"/>
 </footer>
-<div id="js-player" class="container gradient">
+<div id="js-player" class="container">
 
     <div class="player gradient">
-
+        <span id="player-info"></span>
         <button class="button gradient" id="play" ></button>
         <button class="button gradient" id="pause" ></button>
      
@@ -103,6 +103,8 @@ $(document).ready(function(){
 	song = new Audio();
 	duration = song.duration;
   pause.addClass('js-hidden');
+  playerinfo = $('#player-info');
+  
 
 
   // if (song.canPlayType('audio/mpeg;')) {
@@ -156,9 +158,13 @@ $(document).ready(function(){
 		e.preventDefault();
     song.currentTime = 0;
     song.src= '{{site.baseurl}}' + $(this).attr('data-sample');
-    console.log(song.src);
+
+    const songname = $(this).attr('data-songname');
+    
     play.addClass('js-hidden');
     pause.removeClass('js-hidden');
+    playerinfo.html('loading mp3');
+
 
       song.play();
       container.addClass('js-show-player');
@@ -168,6 +174,7 @@ $(document).ready(function(){
       //$('#seek').attr('max', song.duration);
       song.onloadedmetadata = function() {
         $('#seek').attr('max',song.duration);
+        playerinfo.html('Playing: '+ songname);
       }
 
    // console.log(song.src);

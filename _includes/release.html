@@ -2,7 +2,7 @@
     <div class="release product-info">
         <h4>{{ release.title }}</h4>
         {%- if release.mp3-asset -%}
-        <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}">Listen</button>
+        <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
         {%- endif -%}
         <button class="snipcart-add-item add-cart"
           data-item-name="{{ release.title }}"
