@@ -34,6 +34,7 @@
   right: 0;
   margin: -214px 0px 0px -214px;
   padding: 10px;
+  opacity:0;
 
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -44,6 +45,7 @@
 .js-show-player {
     bottom:0;
     z-index: 10;
+    opacity: 100;
 }
 
 
@@ -102,7 +104,7 @@ input[type="range"] {
  
 #close {
     float: right;
-    background-position: -146px 0;
+    background-position: -94px 0;
     display: none;
 }
 
