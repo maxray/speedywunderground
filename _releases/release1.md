@@ -1,11 +1,11 @@
 ---
 title: Release1
-name: Release 1
+categories:
+- single
 price: 119.99
 sku: release-1
 image: https://via.placeholder.com/150
-file-guid: 
-shippable: 
+name: Release 1
 layout: productdetails
 ---
 
