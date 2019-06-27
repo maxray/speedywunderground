@@ -1,7 +1,7 @@
 ---
 title: Contact Speedy Wunderground
 permalink: "/contact/"
-layout: page
+layout: contact
 ---
 
 ### Contact Details here
@@ -19,7 +19,3 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime culpa, ipsa fuga
 
 #### Press Enquiries, One Beat PR: Liv Willars
 <a href="mailto:liv@onebeatpr.com">liv@onebeatpr.com</a>
-
-### Join our mailing list, please enter your name and email below:
-
-< FORM TO GO HERE >
