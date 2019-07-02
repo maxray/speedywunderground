@@ -3,7 +3,7 @@ title: 'SW029: Treeboy & Arc'
 date: 2019-06-26 10:31:00 Z
 categories:
 - single
-price: 10
+price: 10.00
 sku: SW029
 mp3-asset: "/uploads/SW029%20A%20-%20Concept.mp3"
 ---

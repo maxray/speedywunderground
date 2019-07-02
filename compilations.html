@@ -1,0 +1,16 @@
+---
+title: Shop - Compilations
+permalink: "/shop/compilations"
+layout: shop
+---
+
+<div class="compilations">
+    <h3>Compilations</h3>
+    <ul class="comp-list">
+        {% for release in site.releases %}
+            {% if release.categories contains "compilation" %}
+            {% include release.html %}
+            {% endif %}
+        {% endfor %} 
+    </ul>
+</div>

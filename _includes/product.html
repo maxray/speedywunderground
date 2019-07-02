@@ -23,7 +23,7 @@
     data-item-id="{{ product.sku }}"
     data-item-image="{{ product.image }}"
     data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
-    data-item-price="{{ product.price }}"
+    data-item-price="{{ product.price | round: 2 }}"
     
     {%- if product.shippable -%}
     data-item-shippable = "{{ product.shippable }}"
@@ -41,7 +41,7 @@
     data-item-custom2-value=""
     {%- endif -%}
     >
-    Buy it for £ {{ product.price }}
+    Buy it for £ {{ product.price | round: 2 }}
   </button>
 
 </div>

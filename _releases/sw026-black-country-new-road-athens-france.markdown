@@ -3,7 +3,7 @@ title: 'SW026: Black Country, New Road – Athen’s, France'
 date: 2019-06-26 21:47:00 Z
 categories:
 - single
-price: 10
+price: 10.00
 sku: SW026
 ---
 

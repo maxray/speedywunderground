@@ -1,0 +1,16 @@
+---
+title: Shop
+permalink: "/shop/merch"
+layout: shop
+---
+
+<div class="merch">
+    <h3> Merch</h3>
+    <div class="merch-list">
+            {% for product in site.products %}
+                {% if product.categories contains "merch" %}
+                    {% include product.html %}
+                {% endif %}
+            {% endfor %} 
+    </div>
+</div>

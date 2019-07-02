@@ -1,6 +1,7 @@
 <li>
     <div class="release product-info">
         <h4>{{ release.title }}</h4>
+        {{ release.content }}
         {%- if release.mp3-asset -%}
         <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
         {%- endif -%}
@@ -9,7 +10,7 @@
           data-item-id="{{ release.sku }}"
           data-item-image="{{ release.image }}"
           data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
-          data-item-price="{{ release.price }}"
+          data-item-price="{{ release.price | round: 2 }}"
           {%- if release.shippable -%}
           data-item-shippable = "{{ release.shippable }}"
           {%- endif -%}
@@ -17,7 +18,11 @@
           {%- if release.file-guid -%}
           data-item-file-guid="{{ release.file-guid }}"
           {%- endif -%}>
-              Buy it for £ {{ release.price }}
+          {% assign price_split = release.price | round: 2 | split: "." %}
+          {% assign integral = price_split[0] %}
+          {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+          
+              Buy  £ {{ integral }}.{{ fractional }}
         </button>
     </div>
 </li>

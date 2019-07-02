@@ -1,0 +1,18 @@
+---
+title: Shop
+permalink: "/shop/singles"
+layout: shop
+---
+
+<div class="singles">
+    <h3>Singles</h3>
+    <ul class="single-list">
+        {% for release in site.releases %}
+            {% if release.categories contains "single" %}
+            {% include release.html %}
+            {% endif %}
+        {% endfor %} 
+    </ul>
+</div>
+
+

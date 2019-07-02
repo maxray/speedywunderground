@@ -27,20 +27,22 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    overflow: scroll;
+    max-height: 45vh;
     
 }
 
 #releases li {
     display: flex;
     flex-direction: row;
-    align-content:space-between;
+    align-content:flex-start;
 }
 
 
 .product-info h4{
     margin-bottom:20px;
     text-transform: uppercase;
-    font-size: 2.5rem;
+    font-size: 2.25rem;
     line-height: 50px;
     @media only screen and (max-width: 768px) {
         font-size: 1.75rem;
