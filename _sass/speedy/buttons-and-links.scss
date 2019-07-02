@@ -20,7 +20,7 @@ a:hover {
 }
 
  .add-cart:hover , .listen:hover{
-   background-color:#f7bb00;
+   background-color: var(--main-color);
 }
 
 .listen {
@@ -38,4 +38,38 @@ button {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+}
+
+.select-dd {
+    
+    display: inline-block;
+    font-size:1rem;
+    text-transform:uppercase;
+    color: #ffffff;
+    padding: 5px 20px;
+    box-sizing: border-box;
+    border-radius:0;
+    margin: 0 10px 0 0;
+    border: 1px solid #fff;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #000;
+    cursor:pointer;
+}
+.select-dd::-ms-expand {
+	display: none;
+}
+.select-dd:hover {
+    border-color: #ffffff;
+    background: var(--main-color);
+    transition: all .75s ease;
+}
+.select-dd:focus {
+	border-color: #ffffff;
+	color: #ffffff;
+	outline: none;
+}
+.select-dd option {
+	font-weight:normal;
 }
