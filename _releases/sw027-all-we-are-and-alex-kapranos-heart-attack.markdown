@@ -9,6 +9,8 @@ image: "/uploads/SW27.png"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-A side: Heart Attack
-B side: Heart Attack – Savage Gary Remix
+
+* A side: Heart Attack
+* B side: Heart Attack – Savage Gary Remix
+
 Released 5th April 2019
