@@ -3,7 +3,6 @@ title: 'SW017 Double A-side: Warmduscher & Meatraffle'
 date: 2019-07-02 07:37:00 Z
 categories:
 - single
-price: 10
 sku: SW017
 ---
 
