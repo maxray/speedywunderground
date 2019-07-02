@@ -2,8 +2,9 @@
   
   <a class="product" href="{{ site.baseurl }}{{ product.url }}">
     <img src="{{ product.image }}" alt="{{ product.title }}" class="thumbnail"/>
-    <p>{{ product.title }}</p>
+    <h4>{{ product.title }}</h4>
   </a>
+  {{ product.content }}
   {%- if product.categories contains "clothes" -%}
     <select class="js-product-size">
       <option value="" disabled selected>Size</option>
