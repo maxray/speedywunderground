@@ -10,6 +10,8 @@ mp3-asset: "/uploads/SW028%20-%20I%20Feel%20Fine.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-A side: I Feel Fine
-B side: Dicks In The Dub
+
+* A side: I Feel Fine
+* B side: Dicks In The Dub
+
 Released 3rd May 2019
