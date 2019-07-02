@@ -5,6 +5,7 @@
         {%- if release.mp3-asset -%}
         <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
         {%- endif -%}
+        {%- if release.price -%}
         <button class="snipcart-add-item add-cart"
           data-item-name="{{ release.title }}"
           data-item-id="{{ release.sku }}"
@@ -21,9 +22,13 @@
           {% assign price_split = release.price | round: 2 | split: "." %}
           {% assign integral = price_split[0] %}
           {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
-          
-              Buy  £ {{ integral }}.{{ fractional }}
+         
+            Buy  £ {{ integral }}.{{ fractional }}
+           
         </button>
+        {%- else -%}
+        SOLD OUT
+        {%- endif -%}
     </div>
 </li>
 
