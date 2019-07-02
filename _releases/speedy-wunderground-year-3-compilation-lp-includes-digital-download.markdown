@@ -3,7 +3,7 @@ title: Speedy Wunderground Year 3 Compilation LP (includes digital download)
 date: 2019-06-26 11:23:00 Z
 categories:
 - compilation
-price: 18.50
+price: 18.5
 sku: SWY3
 file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
 ---

@@ -3,7 +3,7 @@ title: Speedy Wunderground Year 2 Compilation LP (includes digital download)
 date: 2019-06-26 21:54:00 Z
 categories:
 - compilation
-price: 18.50
+price: 18.5
 sku: SWY2
 ---
 
