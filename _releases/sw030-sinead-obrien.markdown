@@ -9,6 +9,8 @@ image: "/uploads/SW30.png"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-A side: Taking On Time
-B side: Mr Dan’s Dubbing On Time
+
+* A side: Taking On Time
+* B side: Mr Dan’s Dubbing On Time
+
 Released 5th July 2019
