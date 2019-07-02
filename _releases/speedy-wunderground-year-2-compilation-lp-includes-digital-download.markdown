@@ -5,6 +5,7 @@ categories:
 - compilation
 price: 18.5
 sku: SWY2
+image: "/uploads/SWR2.png"
 ---
 
 Side A:
