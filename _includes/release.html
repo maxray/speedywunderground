@@ -1,5 +1,8 @@
 <li>
     <div class="release product-info">
+            {%- if release.image -%}
+            <img src="{{site.baseurl}}{{release.image}}" />
+            {%- endif -%}
         <h4>{{ release.title }}</h4>
         {{ release.content }}
         {%- if release.mp3-asset -%}
