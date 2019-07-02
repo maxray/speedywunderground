@@ -27,8 +27,10 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    overflow: scroll;
-    max-height: 45vh;
+    @media only screen and (min-width: 768px) {
+        overflow: scroll;
+        max-height: 45vh;
+    }
     
 }
 
