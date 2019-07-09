@@ -1,5 +1,5 @@
 ---
-title: Speedy Wunderground Year 1 Compilation
+title: Speedy Wunderground Year 1 Compilation LP
 date: 2019-07-09 13:40:00 Z
 categories:
 - compilation
