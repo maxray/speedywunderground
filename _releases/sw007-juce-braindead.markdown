@@ -1,6 +1,8 @@
 ---
 title: 'SW007: Juce – Braindead'
 date: 2019-07-09 13:16:00 Z
+categories:
+- single
 price: 10
 sku: SW007
 ---
