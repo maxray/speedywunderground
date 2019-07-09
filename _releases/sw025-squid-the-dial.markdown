@@ -7,7 +7,8 @@ sku: SW025
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-A side: Part 1
-B side: Part 2
+
+* A side: Part 1
+* B side: Part 2
+
 Released 21st September 2018
-SOLD OUT

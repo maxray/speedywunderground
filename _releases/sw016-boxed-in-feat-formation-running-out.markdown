@@ -9,6 +9,7 @@ sku: SW016
 
 7″ single only release, limited to an edition of 250 worldwide.
 
-A side: Running Out
-B side: OP1 Boxed Information
+* A side: Running Out
+* B side: OP1 Boxed Information
+
 Released 6th May 2016

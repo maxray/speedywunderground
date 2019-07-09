@@ -9,6 +9,7 @@ sku: SW022
 
 Our very first 10″ single release! Limited to an edition of 250 worldwide.
 
-A side: Part 1
-B side: Part 2
+* A side: Part 1
+* B side: Part 2
+
 Released 1st Dec 2017

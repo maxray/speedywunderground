@@ -12,4 +12,3 @@ sku: SW017
 * AA side: Meatraffle – The Bird Song
 
 Released 3rd June 2016
-SOLD OUT

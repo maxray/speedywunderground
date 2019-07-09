@@ -8,7 +8,7 @@ sku: SW024
 
 7″ single only release, limited to an edition of 500 worldwide.
 
-A side: bmbmbm
-B side: Savage Gary’s dbdbdb
+* A side: bmbmbm
+* B side: Savage Gary’s dbdbdb
+
 Released 8th June 2018
-SOLD OUT

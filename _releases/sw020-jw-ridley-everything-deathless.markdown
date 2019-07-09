@@ -9,6 +9,7 @@ sku: SW020
 
 7″ single only release, limited to an edition of 250 worldwide.
 
-A side: Part 1
-B side: Part 2
+* A side: Part 1
+* B side: Part 2
+
 Released 10th February 2017
