@@ -5,6 +5,7 @@ categories:
 - compilation
 price: 18.5
 sku: SWY1
+image: "/uploads/placeholder_lp.png"
 ---
 
 LP track listing (including digital download of 14 tracks):
