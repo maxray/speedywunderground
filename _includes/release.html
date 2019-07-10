@@ -8,7 +8,7 @@
         {{ release.content }}
         <ul>
           {% for track in release.tracks %}
-           <li> {{ track.name }} <button class="js-play-sample listen" data-sample=" {{ track.file }}" data-songname="{{ track.name }}">:)</button></li>
+           <li> {{ track.name }} <button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="{{ track.name }}">:)</button></li>
            
           {% endfor %}
         </ul>
