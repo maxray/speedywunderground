@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW014
 image: "/uploads/SW14.png"
+tracks:
+- name: 'A side: I’m Down With That'
+  file: 
+- name: 'B side: Mr Dan’s I’m Dub With That'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: I’m Down With That
-* B side: Mr Dan’s I’m Dub With That
 
 Released 27th November 2015
