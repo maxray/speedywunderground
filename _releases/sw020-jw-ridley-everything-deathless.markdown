@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW020
 image: "/uploads/SW20.png"
+tracks:
+- name: 'A side: Part 1'
+  file: 
+- name: 'B side: Part 2'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Part 1
-* B side: Part 2
 
 Released 10th February 2017
