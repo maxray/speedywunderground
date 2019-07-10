@@ -7,6 +7,7 @@ price: 18.5
 sku: SWY3
 image: "/uploads/SWY3.png"
 file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
+
 tracks:
 - name: SW016 – Boxed In feat. Formation – Running Out
   file: 
