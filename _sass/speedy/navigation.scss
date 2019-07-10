@@ -54,12 +54,13 @@ nav li {
     @media only screen and (max-width: 768px) {
         text-align: center;
         font-size:2rem;
+        background-color:var(--text-color);
     }
     display:flex;
     align-items: center;
     padding:5px 10px;
     margin-bottom:10px;
-    background-color:var(--text-color);
+    
 }
 
 nav li:last-of-type {
