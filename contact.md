@@ -4,14 +4,7 @@ permalink: "/contact/"
 layout: contact
 ---
 
-### Contact Details here
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime culpa, ipsa fuga perferendis, asperiores cumque, nesciunt quis aspernatur soluta porro ex? Consequatur illo voluptatibus asperiores iusto neque impedit repellendus. Ea.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime culpa, ipsa fuga perferendis, asperiores cumque, nesciunt quis aspernatur soluta porro ex? Consequatur illo voluptatibus asperiores iusto neque impedit repellendus. Ea.
-
-
-#### Speedy Wunderground:
+### Speedy Wunderground:
 <a href="mailto:info@speedywunderground.com">info@speedywunderground.com</a>
 
 #### Dan Carey: Threee
