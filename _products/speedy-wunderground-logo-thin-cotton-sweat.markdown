@@ -7,7 +7,7 @@ categories:
 name: T Shirt
 price: 20.99
 sku: t-s
-image: https://via.placeholder.com/300
+image: "/uploads/Speedy-Long-Sleeves.jpg"
 ---
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper ante non vehicula eleifend.**
