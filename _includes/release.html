@@ -23,7 +23,7 @@
           data-item-image="{{site.baseurl}}{{ release.image }}" 
           data-item-url="http://www.sushkelly.co.uk/speedywunderground/" 
           data-item-price="{{ release.price | round: 2 }}"  
-          data-item-shippable = "{{ release.shippable }}"  
+          data-item-shippable = "{{ release.is-shippable }}"  
           data-item-file-guid = "{{ release.file-guid }}"  
           >
           {% assign price_split = release.price | round: 2 | split: "." %}
