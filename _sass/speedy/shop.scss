@@ -7,7 +7,7 @@
     h3 {
         font-size:2.5rem;
         // border-bottom: solid 1px #ffffff;
-        margin-bottom:2rem;
+        //@debugmargin-bottom:2rem;
     }
 
     
@@ -134,6 +134,10 @@
     min-height: 50vh;
 }
 
+.shop-nav {
+    margin-bottom:2rem;
+}
+
 .shop-cats {
 
     transition: all .75s ease;
@@ -152,7 +156,8 @@
     @media only screen and (min-width: 768px) {
   
         grid-column: 2;
-        transform: rotate(45deg);
+        // transform: rotate(45deg);
+        text-align:right;
         transform-origin: top left;
         transform-style: preserve-3D;
     }
