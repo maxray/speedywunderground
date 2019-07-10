@@ -7,10 +7,10 @@ price: 10
 sku: SW016
 image: "/uploads/SW16.png"
 Tracks:
-- Track Name: 'A side: Running Out'
-  File: 
-- Track Name: 'B side: OP1 Boxed Information'
-  File: 
+- name: 'A side: Running Out'
+  file: 
+- name: 'B side: OP1 Boxed Information'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
