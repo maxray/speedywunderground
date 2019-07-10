@@ -8,7 +8,7 @@ tags:
 price: 10
 sku: SW030
 image: "/uploads/SW30.png"
-is-shippable: false
+is-shippable: true
 tracks:
 - name: 'A side: Taking On Time'
   file: 
