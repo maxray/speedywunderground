@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime culpa, ipsa fuga
 <a href="mailto:info@speedywunderground.com">info@speedywunderground.com</a>
 
 #### Dan Carey: Threee
-<a href="http://www.dillon@threee.com">dillon@threee.com</a>
+<a href="mailto:jamie@threee.com">jamie@threee.com</a>
 
 #### Press Enquiries, One Beat PR: Liv Willars
 <a href="mailto:liv@onebeatpr.com">liv@onebeatpr.com</a>
