@@ -6,16 +6,16 @@ categories:
 price: 10
 sku: SW016
 image: "/uploads/SW16.png"
-Tracks:
+tracks:
 - name: 'A side: Running Out'
-  file: 
+  file: "/uploads/SW028%20-%20I%20Feel%20Fine.mp3"
 - name: 'B side: OP1 Boxed Information'
-  file: 
+  file: "/uploads/SW029%20A%20-%20Concept.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
 
 * A side: Running Out
-* B side: OP1 Boxed Information
+* 
 
 Released 6th May 2016
