@@ -25,7 +25,7 @@ defaults:
     sku: 
     image: 
     file-guid: 
-    is-shippable: 
+    is-shippable: true
     mp3-asset: 
     tracks:
     - name: 
