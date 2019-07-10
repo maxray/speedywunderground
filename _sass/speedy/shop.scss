@@ -141,6 +141,11 @@
     line-height: calc(20px + 5vw);
     font-weight: 700;
     text-transform: uppercase;
+    @media only screen and (max-width: 768px) {
+        .shop-cats-item {
+            margin-bottom:2rem;
+        }
+    }
 
     @media only screen and (min-width: 768px) {
   
