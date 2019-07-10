@@ -7,7 +7,7 @@ price: 11.99
 sku: t-b
 image: "/uploads/tote.png"
 file-guid: 
-is-shippable:
+is-shippable: true
 layout: productdetails
 ---
 
