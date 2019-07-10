@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW021
 image: "/uploads/SW21.png"
+tracks:
+- name: 'A side: Loch Linnhe'
+  file: 
+- name: 'B side: Loch Linnhe – Mr Dan’s Dub Me Over'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Loch Linnhe
-* B side: Loch Linnhe – Mr Dan’s Dub Me Over
 
 Released 28th April 2017
