@@ -129,7 +129,7 @@ nav li.active a {
   
 .hamburger-box {
     width: 42px;
-    height: 30px;
+    height: 42px;
     display: inline-block;
     position: relative;
     background-color: black;
@@ -166,7 +166,7 @@ nav li.active a {
 /* Spring Effect */
 
 .hamburger--spring .hamburger-inner {
-    top: 2px;
+    top: 10px;
     transition: background-color 0s 0.13s linear; 
 }
 
