@@ -1,6 +1,7 @@
 ---
 title: Contact Speedy Wunderground
 permalink: "/contact/"
+image: "/uploads/comp.png"
 layout: contact
 ---
 
