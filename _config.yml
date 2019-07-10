@@ -26,7 +26,10 @@ defaults:
     image: 
     file-guid: 
     shippable: 
-    mp3-asset: 
+    mp3-asset:
+    Tracks:
+    - Track Name: 
+      File: 
 - scope:
     path: ''
     type: pages
