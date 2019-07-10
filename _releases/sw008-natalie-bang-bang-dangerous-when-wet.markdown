@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW008
 image: "/uploads/SW08.png"
+tracks:
+- name: 'A side: Dangerous When Wet'
+  file: 
+- name: 'B side: Mr Dan’s Danger School Dub'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Dangerous When Wet
-* B side: Mr Dan’s Danger School Dub
 
 Released 3rd November 2014
