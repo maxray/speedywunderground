@@ -73,3 +73,16 @@ button {
 .select-dd option {
 	font-weight:normal;
 }
+
+
+.track-list .listen {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url(../assets/images/sprite.svg);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    margin-left:10px;
+    background-size: 175px 25px;
+    background-position: -50px -1px;
+}

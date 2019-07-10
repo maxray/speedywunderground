@@ -6,9 +6,9 @@
             <div class="product-description">
                  <h4>{{ release.title }}</h4>
         {{ release.content }}
-        <ul>
+        <ul class="track-list">
           {% for track in release.tracks %}
-           <li> {{ track.name }} <button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="{{ track.name }}">:)</button></li>
+           <li> {{ track.name }} <button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="{{ track.name }}"></button></li>
            
           {% endfor %}
         </ul>
