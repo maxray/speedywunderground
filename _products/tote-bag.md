@@ -5,7 +5,7 @@ categories:
 name: Tote Bag
 price: 11.99
 sku: t-b
-image: https://via.placeholder.com/150
+image: https://via.placeholder.com/300
 file-guid: 
 shippable: 
 layout: productdetails

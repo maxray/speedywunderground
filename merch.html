@@ -7,7 +7,8 @@ layout: shop-inner
 <div class="merch">
     <h3> Merch</h3>
     <div class="merch-list">
-            {% for product in site.products %}
+            {% assign ordered_merch = site.products | sort:"title"  %}
+            {% for product in ordered_merch  %}
                 {% if product.categories contains "merch" %}
                     {% include product.html %}
                 {% endif %}
