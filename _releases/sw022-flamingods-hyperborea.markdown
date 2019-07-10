@@ -6,11 +6,13 @@ categories:
 price: 13
 sku: SW022
 image: "/uploads/SW22.png"
+tracks:
+- name: 'A side: Part 1'
+  file: 
+- name: 'B side: Part 2'
+  file: 
 ---
 
 Our very first 10″ single release! Limited to an edition of 250 worldwide.
-
-* A side: Part 1
-* B side: Part 2
 
 Released 1st Dec 2017
