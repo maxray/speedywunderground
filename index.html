@@ -11,7 +11,9 @@ layout: default
      </div>
     <ul class="js-releases">
         {% for release in site.releases%}
-        {% include hp-release.html %}
+            {% if release.tags contains "latest" %}
+                {% include hp-release.html %}
+            {% endif %}
         {% endfor %}
     </ul>
     
