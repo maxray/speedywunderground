@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW007
-image: "/uploads/SW07.png"
+image: "/uploads/SW07-fd183a.png"
 tracks:
 - name: 'A side: Braindead'
   file: 
