@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW019
 image: "/uploads/SW19.png"
+tracks:
+- name: 'A side: I’m Gone'
+  file: 
+- name: 'B side: I’m Gone Instrumental'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: I’m Gone
-* B side: I’m Gone Instrumental
 
 Released 2nd December 2016
