@@ -6,12 +6,13 @@ categories:
 price: 10
 sku: SW028
 image: "/uploads/SW28.png"
-mp3-asset: "/uploads/SW028%20-%20I%20Feel%20Fine.mp3"
+tracks:
+- name: 'A side: I Feel Fine'
+  file: "/uploads/SW028%20-%20I%20Feel%20Fine.mp3"
+- name: 'B side: Dicks In The Dub'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: I Feel Fine
-* B side: Dicks In The Dub
 
 Released 3rd May 2019
