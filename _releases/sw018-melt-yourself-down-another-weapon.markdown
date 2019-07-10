@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW018
 image: "/uploads/SW18.png"
+tracks:
+- name: 'A side: Another Weapon'
+  file: 
+- name: 'B side: Mr Dan’s Another Dub'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Another Weapon
-* B side: Mr Dan’s Another Dub
 
 Released 5th August 2016
