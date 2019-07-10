@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW008
+image: "/uploads/SW08.png"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
