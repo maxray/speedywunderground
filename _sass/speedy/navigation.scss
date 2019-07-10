@@ -128,10 +128,11 @@ nav li.active a {
 }
   
 .hamburger-box {
-    width: 40px;
-    height: 24px;
+    width: 43px;
+    height: 30px;
     display: inline-block;
-    position: relative; 
+    position: relative;
+    background-color: var(--text-color);
 }
   
 .hamburger-inner {
