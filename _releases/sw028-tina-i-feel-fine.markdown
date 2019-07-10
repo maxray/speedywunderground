@@ -3,6 +3,8 @@ title: 'SW028: Tiña – I Feel Fine'
 date: 2019-06-26 10:39:00 Z
 categories:
 - single
+tags:
+- latest
 price: 10
 sku: SW028
 image: "/uploads/SW28.png"
