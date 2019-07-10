@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW030
 image: "/uploads/SW30.png"
+tracks:
+- name: 'A side: Taking On Time'
+  file: 
+- name: 'B side: Mr Dan’s Dubbing On Time'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Taking On Time
-* B side: Mr Dan’s Dubbing On Time
 
 Released 5th July 2019
