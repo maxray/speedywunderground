@@ -5,6 +5,7 @@ categories:
 - single
 price: 13
 sku: SW022
+image: "/uploads/SW22.png"
 ---
 
 Our very first 10″ single release! Limited to an edition of 250 worldwide.
