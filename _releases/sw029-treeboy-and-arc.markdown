@@ -3,6 +3,8 @@ title: 'SW029: Treeboy & Arc'
 date: 2019-06-26 10:31:00 Z
 categories:
 - single
+tags:
+- latest
 price: 10
 sku: SW029
 image: "/uploads/SW29.png"
