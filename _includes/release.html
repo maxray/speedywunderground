@@ -6,6 +6,10 @@
             <div class="product-description">
                  <h4>{{ release.title }}</h4>
         {{ release.content }}
+        {% for track in release.Tracks %}
+          {{ track.name }}
+          {{ track.file }}
+        {% endfor %}
         {%- if release.mp3-asset -%}
         <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
         {%- endif -%}

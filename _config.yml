@@ -27,9 +27,9 @@ defaults:
     file-guid: 
     shippable: 
     mp3-asset: 
-    Tracks:
-    - Track Name: 
-      File: 
+    tracks:
+    - name: 
+      file: 
 - scope:
     path: ''
     type: pages
