@@ -5,11 +5,14 @@ categories:
 - single
 price: 10
 sku: SW005
+image: "/uploads/SW05.png"
+tracks:
+- name: 'A side: Hot Night Cold Spaceship'
+  file: 
+- name: 'B side: Hot Night Cold Spaceship – Mr Dan’s Monday Morning Remix'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Hot Night Cold Spaceship
-* B side: Hot Night Cold Spaceship – Mr Dan’s Monday Morning Remix
 
 Released 9th December 2013
