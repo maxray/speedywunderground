@@ -1,7 +1,7 @@
 ---
 title: Shop - Compilations
 permalink: "/shop/compilations"
-thumbnail_image: "/uploads/comp.png"
+image: "/uploads/comp.png"
 layout: shop-inner
 ---
 
