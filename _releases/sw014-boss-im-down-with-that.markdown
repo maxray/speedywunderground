@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW014
+image: "/uploads/SW14.png"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
