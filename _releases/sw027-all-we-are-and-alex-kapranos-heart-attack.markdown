@@ -6,11 +6,13 @@ categories:
 price: 10
 sku: SW027
 image: "/uploads/SW27.png"
+tracks:
+- name: 'A side: Heart Attack'
+  file: 
+- name: 'B side: Heart Attack – Savage Gary Remix'
+  file: 
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
-
-* A side: Heart Attack
-* B side: Heart Attack – Savage Gary Remix
 
 Released 5th April 2019
