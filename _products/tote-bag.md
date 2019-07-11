@@ -5,7 +5,7 @@ categories:
 name: Tote Bag
 price: 11.99
 sku: t-b
-image: "/uploads/tote.png"
+image: "/uploads/tote-bag.png"
 file-guid: 
 is-shippable: true
 layout: productdetails
