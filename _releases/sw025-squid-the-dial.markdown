@@ -5,6 +5,7 @@ categories:
 - single
 sku: SW025
 image: "/uploads/SW25.png"
+mp3-asset: "/uploads/SW025%20-%20Squid%20-%20The%20Dial%20-%20Full%20version.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
