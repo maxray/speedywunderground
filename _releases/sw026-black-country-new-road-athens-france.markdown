@@ -6,6 +6,7 @@ categories:
 price: 10
 sku: SW026
 image: "/uploads/SW26.png"
+mp3-asset: "/uploads/SW026%20-%20Athen's,%20France%20-%20Full.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
