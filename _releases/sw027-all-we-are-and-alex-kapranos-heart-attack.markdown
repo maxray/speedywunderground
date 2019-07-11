@@ -8,9 +8,9 @@ sku: SW027
 image: "/uploads/SW27.png"
 tracks:
 - name: 'A side: Heart Attack'
-  file: 
+  file: "/uploads/SW027%20A%20-Heart%20Attack.mp3"
 - name: 'B side: Heart Attack – Savage Gary Remix'
-  file: 
+  file: "/uploads/SW027%20-%20Heart%20Attack%20-%20Savage%20Gray%20Remix.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
