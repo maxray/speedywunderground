@@ -1,8 +1,8 @@
 ---
 title: Shop
 permalink: "/shop/eps"
-image: "/uploads/comp.png"
 layout: shop-inner
+nameclass: eps
 ---
 
 <div class="eps">

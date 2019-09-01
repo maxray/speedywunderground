@@ -2,6 +2,7 @@
 title: Shop
 permalink: "/shop/merch"
 layout: shop-inner
+nameclass: merch
 ---
 
 <div class="merch">

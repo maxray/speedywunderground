@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 50vw 1fr;
     grid-template-rows: 1fr 1fr;
-    background: url(images/bg1png.png);
+    background: url(images/speedywunder-1.png);
     background-size:cover;
     width: 100%;
     height: 100%;
@@ -11,6 +11,32 @@
     overflow: hidden;
     position:fixed;
 }
+
+.shop .background {
+    background: url(images/speedywunder-2.png);
+}
+
+.compilations .background {
+    background: url(images/speedywunder-3.png);
+}
+
+.eps .background {
+    background: url(images/speedywunder-4.png);
+}
+
+.merch .background {
+    background: url(images/speedywunder-5.png);
+}
+
+.singles .background {
+    background: url(images/speedywunder-6.png);
+}
+
+.about .background {
+    background: url(images/speedywunder-7.png);
+}
+
+
 
 @media only screen and (max-width: 768px) {
     .background {
@@ -21,6 +47,7 @@
 
 .background .triangle {
     background: url(images/triangle.svg);
+    background-size:cover;
     mix-blend-mode: soft-light;
     background-repeat:no-repeat;
     grid-column: 1/2;

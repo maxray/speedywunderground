@@ -1,8 +1,8 @@
 ---
 title: Shop
 permalink: "/shop/singles"
-image: "/uploads/comp.png"
 layout: shop-inner
+nameclass: singles
 ---
 
 <div class="singles">
