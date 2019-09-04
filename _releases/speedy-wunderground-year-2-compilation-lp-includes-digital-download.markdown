@@ -6,19 +6,24 @@ categories:
 price: 18.5
 sku: SWY2
 image: "/uploads/SWR2.png"
+tracks:
+- name: Natalie Bang Bang – Dangerous When Wet
+  file: 
+- name: Kate Tempest & Loyle Carner – Guts
+  file: 
+- name: Telegram – Inside Outside
+  file: 
+- name: Teleman – Strange Combinations
+  file: 
+- name: FEWS – ILL
+  file: 
+- name: Peluché – The Guy With The Gammy Eye
+  file: 
+- name: BOSS – I’m Down With That
+  file: 
+- name: Mr Dan feat. Guilty Simpson – Firewater
+  file: 
 ---
 
-Side A:
 
-* Natalie Bang Bang – Dangerous When Wet
-* Kate Tempest & Loyle Carner – Guts
-* Telegram – Inside Outside
-* Teleman – Strange Combinations
-
-Side B:
-
-* FEWS – ILL
-* Peluché – The Guy With The Gammy Eye
-* BOSS – I’m Down With That
-* Mr Dan feat. Guilty Simpson – Firewater
 
