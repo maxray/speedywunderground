@@ -10,7 +10,7 @@
 }
 
 .all-tracks li:hover  {
-  color: #ffcc00;
+  color: var(--main-color);
 }
 
 .all-tracks::-webkit-scrollbar {
@@ -20,7 +20,7 @@
 
 .all-tracks::-webkit-scrollbar-thumb {
 	border-radius: 10px;
-	background-color: #ffcc00;
+	background-color: var(--main-color);
 }
 .gradient {
   height:190px;
