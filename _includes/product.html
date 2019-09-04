@@ -27,14 +27,14 @@
         data-item-shippable = "{{ product.is-shippable }}"
         data-item-file-guid="{{ product.file-guid }}"
 
-        {%- if product.categories contains "clothes" -%}
+        {% if product.categories contains 'clothes' %}
         data-item-custom1-name="Size"
         data-item-custom1-options="small|medium|large"
         data-item-custom1-value=""
         data-item-custom2-name="Colour"
         data-item-custom2-options="red|yellow|blue|black"
         data-item-custom2-value=""
-        {%- endif -%}
+        {% endif %}
         >
         Buy it for £ {{ product.price | round: 2 }}
       </button>
