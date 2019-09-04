@@ -11,7 +11,7 @@
   
     <div class="player gradient">
         <ul class="all-tracks">
-            {% assign track_listing = site.releases | sort:"title" | reverse %}
+            {% assign track_listing = site.releases | sort:"sku" | reverse %}
               {% for release in track_listing  %}
                 {% if release.tracks %}
                   {% for track in release.tracks %}
