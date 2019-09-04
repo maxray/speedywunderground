@@ -1,4 +1,29 @@
+.all-tracks {
+    height: 65px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+.all-tracks li  {
+  cursor:pointer;
+}
+
+.all-tracks li:hover  {
+  color: #ffcc00;
+}
+
+.all-tracks::-webkit-scrollbar {
+	width: 10px;
+	background-color: #464646;
+}
+
+.all-tracks::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: #ffcc00;
+}
 .gradient {
+  height:190px;
   border: 1px solid white;
 
 //   -webkit-box-shadow: inset 0 1px 0px rgba(255,255,255,.2);

@@ -8,8 +8,20 @@
         <img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.title}}" class="thumbnail"/>
 </footer>
 <div id="js-player" class="container">
-
+  
     <div class="player gradient">
+        <ul class="all-tracks">
+            {% assign track_listing = site.releases | sort:"title" | reverse %}
+              {% for release in track_listing  %}
+                {% if release.tracks %}
+                  {% for track in release.tracks %}
+                    {%- if track.file -%}
+                    <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">{{ track.name }}</li>
+                    {%- endif -%}
+                  {% endfor %}
+                {% endif %}
+            {% endfor %} 
+          </ul>
         <span id="player-info"></span>
         <input type="range" id="seek" value="0" max=""/>
         <div class="controls">
