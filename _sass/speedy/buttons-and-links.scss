@@ -4,8 +4,16 @@ a {
     color: var(--main-color);
 }
 
+.site-header a {
+    color: var(--white);
+}
+
 a:hover {
     color: var(--white);
+}
+
+.site-header a:hover {
+    color: var(--main-color);
 }
 
  .add-cart , .listen {
