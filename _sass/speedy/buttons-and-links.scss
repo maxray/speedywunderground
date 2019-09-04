@@ -1,11 +1,11 @@
 a {
     transition: all .75s ease;
     text-decoration: none;
-    color: var(--white);
+    color: var(--main-color);
 }
 
 a:hover {
-    color: var(--main-color);
+    color: var(--white);
 }
 
  .add-cart , .listen {
