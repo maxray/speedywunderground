@@ -20,6 +20,9 @@
                     {%- endif -%}
                   {% endfor %}
                 {% endif %}
+                {%- if release.mp3-asset -%}
+                  <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">{{ release.title }}</li>
+                {%- endif -%}
             {% endfor %} 
           </ul>
         <span id="player-info"></span>
