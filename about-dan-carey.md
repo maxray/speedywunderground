@@ -2,7 +2,6 @@
 title: About Dan Carey
 permalink: "/about-dan-carey/"
 nameclass: about
-
 ---
 
 ### Look at many of the most exciting, buzzed-about artists coming out of the UK and Ireland right now and you’ll be surprised to find how many have something in common – producer Dan Carey. From righteous Dublin punks Fontaines DC to London art-punks Squid and the dark knights of post-rock, Black Midi, Dan Carey is behind many of the most vital debut albums of recent months and years.
