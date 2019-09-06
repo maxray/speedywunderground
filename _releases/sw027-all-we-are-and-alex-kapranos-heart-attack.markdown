@@ -7,9 +7,9 @@ price: 10
 sku: SW027
 image: "/uploads/SW27.png"
 tracks:
-- name: SW027a-All We Are & Alex Kapranos-Heart Attack
+- name: 'A side: Heart Attack'
   file: "/uploads/SW027%20A%20-Heart%20Attack.mp3"
-- name: SW027b-All We Are & Alex Kapranos-Heart Attack-Savage Gary Remix
+- name: 'B side: Heart Attack - Savage Gary Remix'
   file: "/uploads/SW027%20-%20Heart%20Attack%20-%20Savage%20Gray%20Remix.mp3"
 ---
 
