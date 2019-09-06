@@ -1,9 +1,11 @@
 ---
 title: Squid Town Centre EP
-date: 2019-07-11 12:22:00 Z
 categories:
 - ep
-price: 15
+- squid
+- town
+- centre
+price: SOLD OUT
 sku: EP01
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
