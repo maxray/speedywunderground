@@ -2,6 +2,7 @@
 title: Tote Bag
 categories:
 - merch
+- bag
 name: Tote Bag
 price: 11.99
 sku: t-b
