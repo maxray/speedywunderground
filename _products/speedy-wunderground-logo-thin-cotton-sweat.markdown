@@ -13,4 +13,4 @@ is-shippable:
 layout: productdetails
 ---
 
-SPEEDY WUNDERGROUND LOGO THIN COTTON SWEAT IN BLUE, RED, YELLOW OR BLACK
+Speedy Wunderground logo, think cotton long sleeve sweat in blue, red, yellow or black.
