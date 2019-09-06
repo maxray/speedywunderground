@@ -12,4 +12,4 @@ is-shippable: true
 layout: productdetails
 ---
 
-Heavy duty cotton Tote bag in black with white print on one side
+Heavy duty cotton Tote bag in black with white Speedy Wunderground print on one side
