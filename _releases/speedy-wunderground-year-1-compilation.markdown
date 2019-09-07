@@ -8,21 +8,21 @@ sku: SWY1
 image: "/uploads/SWY1.png"
 tracks:
 - name: Steve Mason & Emiliana Torrini – I Go Out
-  file: 
+  file: "/uploads/SW001-Steve%20Mason%20&%20Emiliana%20Torrinni-I%20Go%20Out.mp3"
 - name: Archie Bronson Outfit – I Was A Dead Duck
-  file: 
+  file: "/uploads/SW002a-Archie%20Bronson%20Outfit-I%20Was%20A%20Dead%20Duck.mp3"
 - name: Toy & Natasha Khan – The Bride
-  file: 
+  file: "/uploads/SW003a-Toy%20&%20Natasha%20Khan-The%20Bride.mp3"
 - name: Scotti Brains – Keep Your Eyes Open Boy
-  file: 
+  file: "/uploads/SW004-Scottibrains-Keep%20Your%20Eyes%20Open%20Boy.mp3"
 - name: Kate Tempest – Hot Night Cold Spaceship
-  file: 
+  file: "/uploads/SW005a-Kate%20Tempest-Hot%20Night%20Cold%20Spaceship.mp3"
 - name: Childhood – Pinballs
-  file: 
+  file: "/uploads/SW006-Childhood-Pinballs.mp3"
 - name: JUCE! – Braindead
-  file: 
+  file: "/uploads/SW007a-JUCE!-Braindead.mp3"
 - name: Archie Bronson Outfit –Mr Dan’s Dead Duck Dub
-  file: 
+  file: "/uploads/SW002a-Archie%20Bronson%20Outfit-I%20Was%20A%20Dead%20Duck.mp3"
 ---
 
 LP track listing (including digital download of 14 tracks).
