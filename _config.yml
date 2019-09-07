@@ -22,7 +22,8 @@ defaults:
     layout: productdetails
     categories: 
     price: 
-    sku: 
+    sku:
+    release-code: 
     image: 
     file-guid: 
     is-shippable: 
