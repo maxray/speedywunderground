@@ -1,10 +1,11 @@
 ---
-title: 'SW018: Melt Yourself Down – Another Weapon'
+title: Melt Yourself Down – Another Weapon
 date: 2019-07-02 07:37:00 Z
 categories:
 - single
 price: 10
 sku: SW018
+catalogue-number: SW018
 image: "/uploads/SW18.png"
 tracks:
 - name: 'A side: Another Weapon'
