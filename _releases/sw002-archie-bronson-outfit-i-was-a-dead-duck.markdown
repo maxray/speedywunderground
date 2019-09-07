@@ -7,9 +7,9 @@ sku: SW002
 image: "/uploads/SW02.png"
 tracks:
 - name: 'A side: I Was A Dead Duck'
-  file: 
+  file: "/uploads/SW002a-Archie%20Bronson%20Outfit-I%20Was%20A%20Dead%20Duck.mp3"
 - name: 'B side: Dead Duck Dub'
-  file: 
+  file: "/uploads/SW002b-Archie%20Bronson%20Outfit-I%20Was%20A%20Dead%20Duck.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
