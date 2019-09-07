@@ -7,7 +7,7 @@ image: "/uploads/SW01.png"
 mp3-asset: "/uploads/SW001-Steve%20Mason%20&%20Emiliana%20Torrinni-I%20Go%20Out.mp3"
 tracks:
 - name: 'A side: Part 1'
-  file: 
+  file: "/uploads/SW001-Steve%20Mason%20&%20Emiliana%20Torrinni-I%20Go%20Out.mp3"
 - name: 'B side: Part 2'
   file: 
 ---
