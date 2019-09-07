@@ -1,9 +1,10 @@
 ---
-title: 'SW010: Telegram – Inside Outside'
+title: Telegram – Inside Outside
 date: 2019-07-09 13:14:00 Z
 categories:
 - single
 sku: SW010
+release-code: 'SW010:'
 image: "/uploads/SW10.png"
 tracks:
 - name: 'A side: Inside Outside'
