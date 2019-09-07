@@ -5,7 +5,7 @@ categories:
 - squid
 - town
 - centre
-price: SOLD OUT
+price: 0
 sku: EP01
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
