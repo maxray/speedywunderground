@@ -1,9 +1,10 @@
 ---
-title: 'SW006: Childhood – Pinballs'
+title: Childhood – Pinballs
 date: 2019-07-09 13:17:00 Z
 categories:
 - single
-sku: SW006
+sku: SW06
+catalogue-number: SW06
 image: "/uploads/SW06.png"
 tracks:
 - name: 'A side: Part 1'
