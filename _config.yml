@@ -30,7 +30,7 @@ defaults:
     mp3-asset: 
     tracks:
     - name: 
-      file:
+      file: 
 - scope:
     path: ''
     type: products
