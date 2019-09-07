@@ -1,10 +1,11 @@
 ---
-title: 'SW016: Boxed In feat. Formation – Running Out'
+title: Boxed In feat. Formation – Running Out
 date: 2019-07-02 09:06:00 Z
 categories:
 - single
 price: 10
 sku: SW016
+catalogue-number: SW016
 image: "/uploads/SW16.png"
 tracks:
 - name: 'A side: Running Out'
