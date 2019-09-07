@@ -5,7 +5,7 @@ categories:
 - merch
 - clothes
 name: Long Sleeve
-price: 20.99
+price: 25
 sku: l-s
 image: "/uploads/Speedy-Long-Sleeves.jpg"
 file-guid: 
