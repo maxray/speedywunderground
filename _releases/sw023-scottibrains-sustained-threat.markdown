@@ -1,10 +1,11 @@
 ---
-title: 'SW023: Scottibrains – Sustained Threat'
+title: Scottibrains – Sustained Threat
 date: 2019-07-02 07:34:00 Z
 categories:
 - single
 price: 10
 sku: SW023
+catalogue-number: SW023
 image: "/uploads/SW23.png"
 tracks:
 - name: 'A side: Part 1'
