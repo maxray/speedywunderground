@@ -9,7 +9,7 @@ image: "/uploads/SW10.png"
 tracks:
 - name: 'A side: Inside Outside'
   file: 
-- name: 'B side: Inside Outside – Mr Dan’s Inside Out Dub'
+- name: 'B side: Mr Dan’s Inside Out Dub'
   file: 
 ---
 
