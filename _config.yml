@@ -29,7 +29,16 @@ defaults:
     mp3-asset: 
     tracks:
     - name: 
-      file: 
+      file:
+- scope:
+    path: ''
+    type: products
+  values:
+    name: 
+    price: 
+    sku: 
+    image: 
+    layout: productdetails
 - scope:
     path: ''
     type: pages
