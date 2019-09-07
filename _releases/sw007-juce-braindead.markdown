@@ -1,10 +1,11 @@
 ---
-title: 'SW007: Juce – Braindead'
+title: Juce – Braindead
 date: 2019-07-09 13:16:00 Z
 categories:
 - single
 price: 10
-sku: SW007
+sku: SW07
+catalogue-number: SW07
 image: "/uploads/SW07-fd183a.png"
 tracks:
 - name: 'A side: Braindead'
