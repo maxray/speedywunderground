@@ -1,10 +1,11 @@
 ---
-title: 'SW020: JW Ridley – Everything (Deathless)'
+title: JW Ridley – Everything (Deathless)
 date: 2019-07-02 07:35:00 Z
 categories:
 - single
 price: 10
 sku: SW020
+catalogue-number: SW020
 image: "/uploads/SW20.png"
 tracks:
 - name: 'A side: Part 1'
