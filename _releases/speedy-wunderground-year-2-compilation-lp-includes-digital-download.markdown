@@ -8,11 +8,11 @@ sku: SWY2
 image: "/uploads/SWR2.png"
 tracks:
 - name: Natalie Bang Bang – Dangerous When Wet
-  file: 
+  file: "/uploads/SW008a-Natalie%20Bang%20Bang-Dangerous%20When%20Wet.mp3"
 - name: Kate Tempest & Loyle Carner – Guts
-  file: 
+  file: "/uploads/SW009a-Kate%20Tempest%20&%20Loyle%20Carner-Guts.mp3"
 - name: Telegram – Inside Outside
-  file: 
+  file: "/uploads/SW010a-Telegram-Inside%20Outside.mp3"
 - name: Teleman – Strange Combinations
   file: 
 - name: FEWS – ILL
