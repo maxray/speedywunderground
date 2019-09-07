@@ -1,10 +1,11 @@
 ---
-title: 'SW004: Scottibrains – Keep Your Eyes Open Boy'
+title: Scottibrains – Keep Your Eyes Open Boy
 date: 2019-07-09 13:23:00 Z
 categories:
 - single
 price: 10
-sku: SW004
+sku: SW04
+catalogue-number: SW04
 image: "/uploads/SW04.png"
 tracks:
 - name: 'A side: Part 1'
