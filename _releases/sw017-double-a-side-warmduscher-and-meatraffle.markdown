@@ -1,9 +1,10 @@
 ---
-title: 'SW017 Double A-side: Warmduscher & Meatraffle'
+title: 'Double A-side: Warmduscher & Meatraffle'
 date: 2019-07-02 07:37:00 Z
 categories:
 - single
 sku: SW017
+catalogue-number: SW017
 image: "/uploads/SW17.png"
 tracks:
 - name: 'A side: Warmduscher – The Sweet Smell Of Florida'
