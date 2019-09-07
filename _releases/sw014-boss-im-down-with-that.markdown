@@ -1,10 +1,11 @@
 ---
-title: 'SW014: BOSS – I’m Down With That'
+title: BOSS – I’m Down With That
 date: 2019-07-02 09:07:00 Z
 categories:
 - single
 price: 10
 sku: SW014
+catalogue-number: SW014
 image: "/uploads/SW14.png"
 tracks:
 - name: 'A side: I’m Down With That'
