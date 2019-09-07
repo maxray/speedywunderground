@@ -1,10 +1,11 @@
 ---
-title: 'SW021: DEWEY – Loch Linnhe'
+title: DEWEY – Loch Linnhe
 date: 2019-07-02 07:35:00 Z
 categories:
 - single
 price: 10
 sku: SW021
+catalogue-number: SW021
 image: "/uploads/SW21.png"
 tracks:
 - name: 'A side: Loch Linnhe'
