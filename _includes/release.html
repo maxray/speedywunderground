@@ -8,7 +8,7 @@
         {{ release.content }}
         <ul class="track-list">
           {% for track in release.tracks %}
-           <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="{{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
+           <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="{{ release.catalogue-number }}: {{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
            
           {% endfor %}
         </ul>
