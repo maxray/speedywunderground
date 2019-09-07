@@ -1,5 +1,5 @@
 ---
-title: 'SW030: Sinead O’Brien'
+title: Sinead O’Brien
 date: 2019-06-26 10:30:00 Z
 categories:
 - single
@@ -7,6 +7,7 @@ tags:
 - latest
 price: 10
 sku: SW030
+catalogue-number: SW030
 image: "/uploads/SW30.png"
 is-shippable: true
 tracks:
