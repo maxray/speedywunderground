@@ -1,10 +1,11 @@
 ---
-title: 'SW005: Kate Tempest – Hot Night Cold Spaceship'
+title: Kate Tempest – Hot Night Cold Spaceship
 date: 2019-07-09 13:22:00 Z
 categories:
 - single
 price: 10
-sku: SW005
+sku: SW05
+catalogue-number: SW05
 image: "/uploads/SW05.png"
 tracks:
 - name: 'A side: Hot Night Cold Spaceship'
