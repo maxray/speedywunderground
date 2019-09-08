@@ -4,7 +4,7 @@ a {
     color: var(--white);
 }
 
-.btn-reverse a {
+.btn-reverse  {
     color: var(--main-color);
     font-weight:bold;
 }
@@ -13,7 +13,7 @@ a:hover {
     color: var(--main-color);
 }
 
-.btn-reverse a:hover {
+.btn-reverse:hover {
     color: var(--white);
 }
 
