@@ -5,7 +5,7 @@ categories:
 - single
 price: 13
 sku: SW022
-cataloguenumber: '022'
+cataloguenumber: SW022
 image: "/uploads/SW22.png"
 tracks:
 - name: 'A side: Part 1'
