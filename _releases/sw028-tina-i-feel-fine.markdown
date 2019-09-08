@@ -7,11 +7,11 @@ tags:
 - latest
 price: 10
 sku: SW028
-cataloguenumber: '028'
+cataloguenumber: SW028
 image: "/uploads/SW28.png"
 tracks:
 - name: 'A side: I Feel Fine'
-  file: "/uploads/SW028%20-%20I%20Feel%20Fine.mp3"
+  file: 
 - name: 'B side: Dicks In The Dub'
   file: 
 ---
