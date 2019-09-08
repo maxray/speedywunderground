@@ -5,7 +5,7 @@ categories:
 - compilation
 price: 18.5
 sku: Y2
-cataloguenumber: 'Y2'
+cataloguenumber: Y2
 image: "/uploads/SWR2.png"
 tracks:
 - name: Natalie Bang Bang – Dangerous When Wet
@@ -25,6 +25,4 @@ tracks:
 - name: Mr Dan feat. Guilty Simpson – Firewater
   file: "/uploads/SW015a-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater.mp3"
 ---
-
-
 
