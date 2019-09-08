@@ -4,13 +4,13 @@ date: 2019-07-02 07:33:00 Z
 categories:
 - single
 sku: SW024
-cataloguenumber: '024'
+cataloguenumber: SW024
 image: "/uploads/SW24.png"
 tracks:
 - name: 'A side: bmbmbm'
-  file: "/uploads/SW024%20-%20Black%20Midi%20-%20bmbmbm.mp3"
+  file: 
 - name: 'B side: Savage Gary’s dbdbdb'
-  file: "/uploads/SW024%20-%20Black%20Midi%20-%20Savage%20Gary's%20dbdbdb.mp3"
+  file: 
 ---
 
 7″ single only release, limited to an edition of 500 worldwide.
