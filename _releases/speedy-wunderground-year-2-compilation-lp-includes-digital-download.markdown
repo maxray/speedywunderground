@@ -5,7 +5,7 @@ categories:
 - compilation
 price: 18.5
 sku: Y2
-cataloguenumber: Y2
+cataloguenumber: SW0Y2
 image: "/uploads/SWR2.png"
 tracks:
 - name: Natalie Bang Bang – Dangerous When Wet
