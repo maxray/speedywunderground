@@ -3,7 +3,8 @@ title: 'SW003: Toy & Natasha Khan – The Bride'
 date: 2019-07-09 13:23:00 Z
 categories:
 - single
-sku: SW003
+sku: SW03
+catalogue-number: SW03
 image: "/uploads/SW03.png"
 tracks:
 - name: 'A side: The Bride'
