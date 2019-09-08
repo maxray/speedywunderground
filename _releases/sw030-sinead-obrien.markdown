@@ -7,7 +7,7 @@ tags:
 - latest
 price: 10
 sku: SW030
-cataloguenumber: '030'
+cataloguenumber: SW030
 image: "/uploads/SW30.png"
 is-shippable: true
 tracks:
