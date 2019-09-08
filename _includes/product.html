@@ -2,6 +2,10 @@
     <img src="{{site.baseurl}}{{ product.image }}" alt="{{ product.title }}" class="thumbnail"/>
     <div class="product-description">
       <h4>{{ product.title }}</h4>
+      {% assign price_split = product.price | round: 2 | split: "." %}
+      {% assign integral = price_split[0] %}
+      {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+  
       {{ product.content }}
       {%- if product.tags contains "colour" -%}
         <select class="js-product-colour select-dd">
@@ -27,7 +31,7 @@
         data-item-weight="1"
         data-item-image="{{site.baseurl}}{{ product.image }}"
         data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
-        data-item-price="{{ product.price | round: 2 }}"
+        data-item-price="{{ integral }}.{{ fractional }}"
         data-item-shippable = "{{ product.is-shippable }}"
         data-item-file-guid="{{ product.file-guid }}"
 
@@ -42,7 +46,7 @@
         data-item-custom2-value=""
         {% endif %}
         >
-        Buy it for £ {{ product.price | round: 2 }}
+        Buy it for £ {{ integral }}.{{ fractional }}
       </button>
     </div>
 </div>
