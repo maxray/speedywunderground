@@ -4,7 +4,7 @@ date: 2019-07-02 07:32:00 Z
 categories:
 - single
 sku: SW025
-catalogue-number: SW025
+cataloguenumber: '025'
 image: "/uploads/SW25.png"
 mp3-asset: "/uploads/SW025%20-%20Squid%20-%20The%20Dial%20-%20Full%20version.mp3"
 tracks:

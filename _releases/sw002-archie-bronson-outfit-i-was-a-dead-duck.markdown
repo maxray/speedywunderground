@@ -4,7 +4,7 @@ date: 2019-07-09 13:24:00 Z
 categories:
 - single
 sku: SW02
-catalogue-number: SW02
+cataloguenumber: '002'
 image: "/uploads/SW02.png"
 tracks:
 - name: 'A side: I Was A Dead Duck'

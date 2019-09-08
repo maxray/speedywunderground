@@ -1,19 +1,20 @@
 a {
     transition: all .75s ease;
     text-decoration: none;
-    color: var(--main-color);
+    color: var(--white);
 }
 
-.site-header a {
-    color: var(--white);
+.btn-reverse a {
+    color: var(--main-color);
+    font-weight:bold;
 }
 
 a:hover {
-    color: var(--white);
+    color: var(--main-color);
 }
 
-.site-header a:hover {
-    color: var(--main-color);
+.btn-reverse a:hover {
+    color: var(--white);
 }
 
  .add-cart , .listen {

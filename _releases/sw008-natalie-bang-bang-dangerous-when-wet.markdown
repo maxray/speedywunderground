@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW08
-catalogue-number: SW08
+cataloguenumber: '008'
 image: "/uploads/SW08.png"
 tracks:
 - name: 'A side: Dangerous When Wet'

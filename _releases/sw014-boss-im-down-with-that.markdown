@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW014
-catalogue-number: SW014
+cataloguenumber: '014'
 image: "/uploads/SW14.png"
 tracks:
 - name: 'A side: I’m Down With That'

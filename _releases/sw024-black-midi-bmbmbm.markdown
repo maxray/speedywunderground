@@ -4,7 +4,7 @@ date: 2019-07-02 07:33:00 Z
 categories:
 - single
 sku: SW024
-catalogue-number: SW024
+cataloguenumber: '024'
 image: "/uploads/SW24.png"
 tracks:
 - name: 'A side: bmbmbm'

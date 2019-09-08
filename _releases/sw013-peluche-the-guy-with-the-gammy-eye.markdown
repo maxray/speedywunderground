@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW013
-catalogue-number: SW013
+cataloguenumber: '013'
 image: "/uploads/SW13.png"
 tracks:
 - name: 'A side: The Guy With The Gammy Eye'

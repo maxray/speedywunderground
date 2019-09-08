@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW04
-catalogue-number: SW04
+cataloguenumber: '004'
 image: "/uploads/SW04.png"
 tracks:
 - name: 'A side: Part 1'

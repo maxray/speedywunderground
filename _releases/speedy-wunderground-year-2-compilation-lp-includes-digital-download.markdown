@@ -4,7 +4,8 @@ date: 2019-06-26 21:54:00 Z
 categories:
 - compilation
 price: 18.5
-sku: SWY2
+sku: Y2
+cataloguenumber: 'Y2'
 image: "/uploads/SWR2.png"
 tracks:
 - name: Natalie Bang Bang – Dangerous When Wet

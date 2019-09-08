@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW05
-catalogue-number: SW05
+cataloguenumber: '005'
 image: "/uploads/SW05.png"
 tracks:
 - name: 'A side: Hot Night Cold Spaceship'

@@ -4,7 +4,8 @@ date: 2019-06-26 11:23:00 Z
 categories:
 - compilation
 price: 18.5
-sku: SWY3
+sku: Y3
+cataloguenumber: 'Y3'
 image: "/uploads/SWY3.png"
 file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
 tracks:

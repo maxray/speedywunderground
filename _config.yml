@@ -23,7 +23,7 @@ defaults:
     categories: 
     price: 
     sku: 
-    catalogue-number: 
+    cataloguenumber: ''
     image: 
     file-guid: 
     is-shippable: 

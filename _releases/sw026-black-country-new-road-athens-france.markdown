@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW026
-catalogue-number: SW026
+cataloguenumber: '026'
 image: "/uploads/SW26.png"
 mp3-asset: "/uploads/SW026%20-%20Athen's,%20France%20-%20Full.mp3"
 tracks:

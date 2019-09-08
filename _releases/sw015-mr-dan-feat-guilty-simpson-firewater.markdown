@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW015
-catalogue-number: SW015
+cataloguenumber: '015'
 image: "/uploads/SW15.png"
 tracks:
 - name: 'A side: Firewater'

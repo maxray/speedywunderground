@@ -5,7 +5,7 @@ categories:
 - single
 price: 10
 sku: SW016
-catalogue-number: SW016
+cataloguenumber: '016'
 image: "/uploads/SW16.png"
 tracks:
 - name: 'A side: Running Out'

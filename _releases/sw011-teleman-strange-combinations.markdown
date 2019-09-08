@@ -4,7 +4,7 @@ date: 2019-07-09 13:11:00 Z
 categories:
 - single
 sku: SW011
-catalogue-number: SW011
+cataloguenumber: '011'
 image: "/uploads/SW11.png"
 tracks:
 - name: 'A side: Strange Combinations'

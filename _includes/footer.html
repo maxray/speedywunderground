@@ -16,12 +16,12 @@
                 {% if release.tracks %}
                   {% for track in release.tracks %}
                     {%- if track.file -%}
-                    <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">{{release.catalogue-number}}: {{ track.name }}</li>
+                    <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">SW{{release.cataloguenumber}}: {{ track.name }}</li>
                     {%- endif -%}
                   {% endfor %}
                 {% endif %}
                 {%- if release.mp3-asset -%}
-                  <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">{{release.catalogue-number}}: {{ release.title }}</li>
+                  <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">SW{{release.cataloguenumber}}: {{ release.title }}</li>
                 {%- endif -%}
             {% endfor %} 
           </ul>
@@ -72,12 +72,12 @@ document.addEventListener('snipcart.ready', function() {
 
     $(".js-product-size").on('change', function(e) {
         e.preventDefault(); 
-        $(this).next().next().attr('data-item-custom1-value' , this.value);
+        $(this).next().attr('data-item-custom1-value' , this.value);
     });
 
     $(".js-product-colour").on('change', function(e) {
         e.preventDefault(); 
-        $(this).next().attr('data-item-custom2-value' , this.value);
+        $(this).next().next().attr('data-item-custom2-value' , this.value);
     });
 
 
