@@ -1,5 +1,5 @@
 ---
-title: 'SW003: Toy & Natasha Khan – The Bride'
+title: Toy & Natasha Khan – The Bride
 date: 2019-07-09 13:23:00 Z
 categories:
 - single
