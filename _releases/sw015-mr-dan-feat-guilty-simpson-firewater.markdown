@@ -10,9 +10,9 @@ cataloguenumber: '015'
 image: "/uploads/SW15.png"
 tracks:
 - name: 'A side: Firewater'
-  file: 
+  file: "/uploads/SW015a-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater.mp3"
 - name: 'B side: Firewater Instrumental'
-  file: 
+  file: "/uploads/SW015b-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater%20instrumental.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
