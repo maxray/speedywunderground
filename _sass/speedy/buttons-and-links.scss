@@ -96,3 +96,9 @@ button {
     margin-bottom: 0;
     vertical-align: middle;
 }
+
+.no-bullet {
+    list-style: none;
+    margin-left: -25px;
+    padding-left: 0;
+}
