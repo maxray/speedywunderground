@@ -13,7 +13,7 @@
           {% endfor %}
         </ul>
         {%- if release.mp3-asset -%}
-        <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
+        <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>
         {%- endif -%}
         {%- if release.price -%}
         <button class="snipcart-add-item add-cart" 
