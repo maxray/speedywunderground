@@ -10,9 +10,9 @@ cataloguenumber: '007'
 image: "/uploads/SW07-fd183a.png"
 tracks:
 - name: 'A side: Braindead'
-  file: 
+  file: "/uploads/SW007a-JUCE!-Braindead.mp3"
 - name: 'B side: Mr Dan’s No Brain Dub'
-  file: 
+  file: "/uploads/SW007b-JUCE!-Mr%20Dan's%20No%20Brain%20Dub.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
