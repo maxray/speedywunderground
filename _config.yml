@@ -22,7 +22,7 @@ defaults:
     layout: productdetails
     categories: 
     price: 
-    sku:
+    sku: 
     releaseprefix: 
     cataloguenumber: ''
     image: 
@@ -30,7 +30,7 @@ defaults:
     is-shippable: 
     mp3-asset: 
     tracks:
-    - name:
+    - name: 
       file: 
 - scope:
     path: ''
