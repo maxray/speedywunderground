@@ -9,9 +9,9 @@ cataloguenumber: '017'
 image: "/uploads/SW17.png"
 tracks:
 - name: 'A side: Warmduscher – The Sweet Smell Of Florida'
-  file: 
+  file: "/uploads/SW017a-Warmduscher-The%20Sweet%20Smell%20Of%20Florida.mp3"
 - name: 'AA side: Meatraffle – The Bird Song'
-  file: 
+  file: "/uploads/SW017aa-Meatraffle-The%20Bird%20Song.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
