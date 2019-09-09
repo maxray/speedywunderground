@@ -7,7 +7,8 @@ tags:
 - latest
 price: 10
 sku: SW029
-cataloguenumber: SW029
+releaseprefix: SW
+cataloguenumber: '029'
 image: "/uploads/SW29.png"
 tracks:
 - name: 'A side: Concept'

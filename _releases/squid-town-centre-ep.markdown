@@ -6,7 +6,8 @@ categories:
 - town
 - centre
 sku: EP01
-cataloguenumber: EP01
+releaseprefix: SWP
+cataloguenumber: '01'
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
 - name: Savage

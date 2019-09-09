@@ -7,7 +7,8 @@ tags:
 - latest
 price: 10
 sku: SW028
-cataloguenumber: SW028
+releaseprefix: SW
+cataloguenumber: '028'
 image: "/uploads/SW28.png"
 tracks:
 - name: 'A side: I Feel Fine'

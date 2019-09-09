@@ -4,7 +4,8 @@ date: 2019-07-09 13:25:00 Z
 categories:
 - single
 sku: SW01
-cataloguenumber: SW001
+releaseprefix: SW
+cataloguenumber: '001'
 image: "/uploads/SW01.png"
 mp3-asset: "/uploads/SW001-Steve%20Mason%20&%20Emiliana%20Torrinni-I%20Go%20Out.mp3"
 tracks:

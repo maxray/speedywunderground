@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW020
+releaseprefix: SW
 cataloguenumber: '020'
 image: "/uploads/SW20.png"
 tracks:

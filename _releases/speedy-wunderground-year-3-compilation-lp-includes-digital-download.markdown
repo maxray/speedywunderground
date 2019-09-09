@@ -5,7 +5,8 @@ categories:
 - compilation
 price: 18.5
 sku: Y3
-cataloguenumber: SWY3
+releaseprefix: SWY
+cataloguenumber: '03'
 image: "/uploads/SWY3.png"
 file-guid: da19e4fc-1fec-446d-a9d7-eae0b2c9164b
 tracks:

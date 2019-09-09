@@ -5,7 +5,8 @@ categories:
 - single
 price: 10
 sku: SW021
-cataloguenumber: SW021
+releaseprefix: SW
+cataloguenumber: '021'
 image: "/uploads/SW21.png"
 tracks:
 - name: 'A side: Loch Linnhe'

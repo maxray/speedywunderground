@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW07
+releaseprefix: SW
 cataloguenumber: '007'
 image: "/uploads/SW07-fd183a.png"
 tracks:

@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW08
+releaseprefix: SW
 cataloguenumber: '008'
 image: "/uploads/SW08.png"
 tracks:

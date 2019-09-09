@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW013
+releaseprefix: SW
 cataloguenumber: '013'
 image: "/uploads/SW13.png"
 tracks:

@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW016
+releaseprefix: SW
 cataloguenumber: '016'
 image: "/uploads/SW16.png"
 tracks:

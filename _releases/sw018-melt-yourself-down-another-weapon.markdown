@@ -5,7 +5,8 @@ categories:
 - single
 price: 10
 sku: SW018
-cataloguenumber: SW018
+releaseprefix: SW
+cataloguenumber: 018
 image: "/uploads/SW18.png"
 tracks:
 - name: 'A side: Another Weapon'

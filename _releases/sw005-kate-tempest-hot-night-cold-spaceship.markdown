@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW05
+releaseprefix: SW
 cataloguenumber: '005'
 image: "/uploads/SW05.png"
 tracks:

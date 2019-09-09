@@ -5,6 +5,7 @@ categories:
 - single
 price: 10
 sku: SW014
+releaseprefix: SW
 cataloguenumber: '014'
 image: "/uploads/SW14.png"
 tracks:
