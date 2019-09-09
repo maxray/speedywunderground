@@ -9,9 +9,9 @@ cataloguenumber: '024'
 image: "/uploads/SW24.png"
 tracks:
 - name: 'A side: bmbmbm'
-  file: 
+  file: "/uploads/SW024a-black%20midi-bmbmbm.mp3"
 - name: 'B side: Savage Gary’s dbdbdb'
-  file: 
+  file: "/uploads/SW024b-black%20midi-savage%20gary's%20dbdbdb.mp3"
 ---
 
 7″ single only release, limited to an edition of 500 worldwide.
