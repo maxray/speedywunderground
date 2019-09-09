@@ -7,6 +7,7 @@ sku: SW025
 releaseprefix: SW
 cataloguenumber: '025'
 image: "/uploads/SW25.png"
+mp3-asset: "/uploads/SW025-Squid-The%20Dial.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
