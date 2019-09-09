@@ -9,9 +9,9 @@ cataloguenumber: '010'
 image: "/uploads/SW10.png"
 tracks:
 - name: 'A side: Inside Outside'
-  file: 
+  file: "/uploads/SW010a-Telegram-Inside%20Outside.mp3"
 - name: 'B side: Mr Dan’s Inside Out Dub'
-  file: 
+  file: "/uploads/SW010b-Telegram-Mr%20Dan's%20Inside%20Out%20Dub.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
