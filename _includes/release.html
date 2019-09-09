@@ -7,14 +7,15 @@
                  <h4>{{release.releaseprefix}}{{ release.cataloguenumber }}: {{ release.title }}</h4>
         {{ release.content }}
         <ul class="track-list">
+            {%- if release.mp3-asset -%}
+            <li><button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button></li>
+            {%- endif -%}
           {% for track in release.tracks %}
            <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="SW{{ release.cataloguenumber }}: {{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
            
           {% endfor %}
         </ul>
-        {%- if release.mp3-asset -%}
-        <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>
-        {%- endif -%}
+       
         {%- if release.price -%}
         <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}" 
