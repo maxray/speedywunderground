@@ -8,6 +8,7 @@ sku: SW020
 releaseprefix: SW
 cataloguenumber: '020'
 image: "/uploads/SW20.png"
+mp3-asset: "/uploads/SW020-JW%20Ridley-Everything%20(Deathless).mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
