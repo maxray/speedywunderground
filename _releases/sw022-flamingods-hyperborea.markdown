@@ -8,6 +8,7 @@ sku: SW022
 releaseprefix: SW
 cataloguenumber: '022'
 image: "/uploads/SW22.png"
+mp3-asset: "/uploads/SW022-Flamingods-Hyperborea.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
