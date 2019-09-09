@@ -8,6 +8,7 @@ sku: SW023
 releaseprefix: SW
 cataloguenumber: '023'
 image: "/uploads/SW23.png"
+mp3-asset: "/uploads/SW023-Scottibrains-Sustained%20Threat.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
