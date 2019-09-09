@@ -8,6 +8,7 @@ sku: SW026
 releaseprefix: SW
 cataloguenumber: '026'
 image: "/uploads/SW26.png"
+mp3-asset: "/uploads/SW026-Black%20Country,%20New%20Road-Athens,%20France.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
