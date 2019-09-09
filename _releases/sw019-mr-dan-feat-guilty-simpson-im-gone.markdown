@@ -6,7 +6,7 @@ categories:
 price: 10
 sku: SW019
 releaseprefix: SW
-cataloguenumber: 019
+cataloguenumber: '019'
 image: "/uploads/SW19.png"
 tracks:
 - name: 'A side: I’m Gone'
