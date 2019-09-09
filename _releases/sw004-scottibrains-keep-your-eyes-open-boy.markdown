@@ -8,6 +8,7 @@ sku: SW04
 releaseprefix: SW
 cataloguenumber: '004'
 image: "/uploads/SW04.png"
+mp3-asset: "/uploads/SW004-Scottibrains-Keep%20Your%20Eyes%20Open%20Boy.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
