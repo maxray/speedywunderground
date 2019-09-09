@@ -8,6 +8,7 @@ sku: SW012
 releaseprefix: SW
 cataloguenumber: '012'
 image: "/uploads/SW12.png"
+mp3-asset: "/uploads/SW012-FEWS-ILL.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
