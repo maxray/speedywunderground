@@ -10,9 +10,9 @@ cataloguenumber: '019'
 image: "/uploads/SW19.png"
 tracks:
 - name: 'A side: I’m Gone'
-  file: 
+  file: "/uploads/SW015a-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater.mp3"
 - name: 'B side: I’m Gone Instrumental'
-  file: 
+  file: "/uploads/SW015b-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater%20instrumental.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
