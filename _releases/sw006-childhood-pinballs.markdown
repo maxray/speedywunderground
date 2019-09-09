@@ -7,6 +7,7 @@ sku: SW06
 releaseprefix: SW
 cataloguenumber: '006'
 image: "/uploads/SW06.png"
+mp3-asset: "/uploads/SW006-Childhood-Pinballs.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
