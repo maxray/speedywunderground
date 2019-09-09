@@ -9,9 +9,9 @@ cataloguenumber: '003'
 image: "/uploads/SW03.png"
 tracks:
 - name: 'A side: The Bride'
-  file: 
+  file: "/uploads/SW003a-Toy%20&%20Natasha%20Khan-The%20Bride.mp3"
 - name: 'B side: (Here Comes) Dub Bride'
-  file: 
+  file: "/uploads/SW003b-Toy%20&%20Natasha%20Khan-(Here%20Comes)%20Dub%20Bride.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
