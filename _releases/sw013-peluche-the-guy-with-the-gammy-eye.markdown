@@ -10,9 +10,9 @@ cataloguenumber: '013'
 image: "/uploads/SW13.png"
 tracks:
 - name: 'A side: The Guy With The Gammy Eye'
-  file: 
+  file: "/uploads/SW013a-Peluch%C3%A9-The%20Guy%20With%20The%20Gammy%20Eye.mp3"
 - name: 'B side: Mr Dan’s Gammy Eye Dub'
-  file: 
+  file: "/uploads/SW013b-Peluch%C3%A9-Mr%20Dan's%20Gammy%20Eye%20Dub.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
