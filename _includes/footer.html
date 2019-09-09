@@ -16,12 +16,12 @@
                 {% if release.tracks %}
                   {% for track in release.tracks %}
                     {%- if track.file -%}
-                    <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">SW{{release.cataloguenumber}}: {{ track.name }}</li>
+                    <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">{{releaseprefix}}{{release.cataloguenumber}}: {{ track.name }}</li>
                     {%- endif -%}
                   {% endfor %}
                 {% endif %}
                 {%- if release.mp3-asset -%}
-                  <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">SW{{release.cataloguenumber}}: {{ release.title }}</li>
+                  <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">{{releaseprefix}}{{release.cataloguenumber}}: {{ release.title }}</li>
                 {%- endif -%}
             {% endfor %} 
           </ul>

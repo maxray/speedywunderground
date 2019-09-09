@@ -4,7 +4,7 @@
             <img src="{{site.baseurl}}{{release.image}}" />
             {%- endif -%}
             <div class="product-description">
-                 <h4>SW{{ release.cataloguenumber }}: {{ release.title }}</h4>
+                 <h4>{{releaseprefix}}{{ release.cataloguenumber }}: {{ release.title }}</h4>
         {{ release.content }}
         <ul class="track-list">
           {% for track in release.tracks %}

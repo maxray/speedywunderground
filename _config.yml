@@ -22,14 +22,15 @@ defaults:
     layout: productdetails
     categories: 
     price: 
-    sku: 
+    sku:
+    releaseprefix: 
     cataloguenumber: ''
     image: 
     file-guid: 
     is-shippable: 
     mp3-asset: 
     tracks:
-    - name: 
+    - name:
       file: 
 - scope:
     path: ''
@@ -56,7 +57,7 @@ url:
 twitter_username: speedywunder
 github_username: maxray
 facebook_username: fb.com/speedywunder/
-api_key: OGIyYTBkODgtNzJkZS00MjI1LWEwOTUtNDcwOGZiNDA1OGVmNjM2OTQxMTA2MDUxMTYxMzQ3
+api_key: MjU5MjQxZGQtYzIwOC00NmZiLWE3Y2MtY2EyZDE1MDlhMDVmNjM2OTQxMTA2MDUxMTYxMzQ3
 markdown: kramdown
 theme: minima
 plugins:
