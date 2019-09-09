@@ -12,9 +12,9 @@ cataloguenumber: '028'
 image: "/uploads/SW28.png"
 tracks:
 - name: 'A side: I Feel Fine'
-  file: 
+  file: "/uploads/SW028a-Ti%C3%B1a-I%20Feel%20Fine.mp3"
 - name: 'B side: Dicks In The Dub'
-  file: 
+  file: "/uploads/SW028b-Ti%C3%B1a-Dicks%20In%20The%20Dub.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
