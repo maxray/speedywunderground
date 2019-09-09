@@ -5,7 +5,8 @@ categories:
 - compilation
 price: 18.5
 sku: Y1
-cataloguenumber: SWY1
+releaseprefix: SWY
+cataloguenumber: '01'
 image: "/uploads/SWY1.png"
 tracks:
 - name: Steve Mason & Emiliana Torrini – I Go Out
