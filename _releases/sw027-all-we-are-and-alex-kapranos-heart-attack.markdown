@@ -6,7 +6,7 @@ categories:
 price: 10
 sku: SW027
 releaseprefix: SW
-cataloguenumber: '007'
+cataloguenumber: '027'
 image: "/uploads/SW27.png"
 tracks:
 - name: 'A side: Heart Attack'
