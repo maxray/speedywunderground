@@ -12,19 +12,16 @@
         <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
         {%- endif -%}
         {%- if release.price -%}
-        <button class="snipcart-add-item add-cart"
-          data-item-name="{{ release.title }}"
-          data-item-id="{{ release.sku }}"
-          data-item-image="{{ release.image }}"
-          data-item-url="http://www.sushkelly.co.uk/speedywunderground/"
-          data-item-price="{{ release.price | round: 2 }}"
-          {%- if release.shippable -%}
-          data-item-shippable = "{{ release.shippable }}"
-          {%- endif -%}
-
-          {%- if release.file-guid -%}
-          data-item-file-guid="{{ release.file-guid }}"
-          {%- endif -%}>
+        <button class="snipcart-add-item add-cart" 
+          data-item-name="{{ release.title }}" 
+          data-item-id="{{ release.sku }}" 
+          data-item-weight="1"
+          data-item-image="{{site.baseurl}}{{ release.image }}" 
+          data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+          data-item-price="{{ release.price | round: 2 }}"  
+          data-item-shippable = "{{ release.is-shippable }}"  
+          data-item-file-guid = "{{ release.file-guid }}"  
+          >
           {% assign price_split = release.price | round: 2 | split: "." %}
           {% assign integral = price_split[0] %}
           {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
