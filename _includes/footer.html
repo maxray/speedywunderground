@@ -52,7 +52,14 @@ document.addEventListener('snipcart.ready', function() {
       
         }
       } else {
-        $("#my-cart").html('');
+
+        if ($(window).width() < 768) {
+          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> 0 Items</a>');
+      
+        }else {
+          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> 0 Items</a>');
+      
+        }
       }
     }
 
