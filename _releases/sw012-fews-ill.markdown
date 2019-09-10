@@ -3,7 +3,6 @@ title: FEWS – ILL
 date: 2019-07-09 13:10:00 Z
 categories:
 - single
-price: 10
 sku: SW012
 releaseprefix: SW
 cataloguenumber: '012'
