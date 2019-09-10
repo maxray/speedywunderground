@@ -3,7 +3,6 @@ title: Black Country, New Road – Athen’s, France
 date: 2019-06-26 21:47:00 Z
 categories:
 - single
-price: 10
 sku: SW026
 releaseprefix: SW
 cataloguenumber: '026'
