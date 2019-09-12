@@ -10,6 +10,8 @@ name: Slip Mat
 price: 7.5
 sku: s-mat
 image: "/uploads/Speedy%20Slip%20Mat.jpg"
+is-shippable: true
+layout: productdetails
 ---
 
 Felt slip mat in black with white Speedy Underground logo print

@@ -10,6 +10,8 @@ name: T-shirt
 price: 15
 sku: t-shirt
 image: "/uploads/Speedy%20White%20T-shirt.jpg"
+is-shippable: true
+layout: productdetails
 ---
 
 White short sleeve T-shirt with small Speedy Wunderground record logo

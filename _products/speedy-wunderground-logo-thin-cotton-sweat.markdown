@@ -12,7 +12,7 @@ price: 25
 sku: l-s
 image: "/uploads/Speedy-Long-Sleeves.jpg"
 file-guid: 
-is-shippable: 
+is-shippable: true
 layout: productdetails
 ---
 
