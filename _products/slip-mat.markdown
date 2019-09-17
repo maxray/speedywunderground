@@ -7,7 +7,7 @@ tags:
 - slip
 - mat
 name: Slip Mat
-price: 7.5
+price: 8
 sku: s-mat
 image: "/uploads/Speedy%20Slip%20Mat.jpg"
 is-shippable: true
