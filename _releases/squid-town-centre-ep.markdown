@@ -5,6 +5,8 @@ categories:
 - squid
 - town
 - centre
+tags:
+- latest
 sku: EP01
 releaseprefix: SWP
 cataloguenumber: '01'
