@@ -11,4 +11,4 @@ sku: Circular-P
 image: "/uploads/SW%20Circular%20Patch.jpg"
 ---
 
-Circular Speedy Wunderground sew on/iron on patch, 7.5cm wide.
+Sew on/iron on patch, 7.5cm wide.
