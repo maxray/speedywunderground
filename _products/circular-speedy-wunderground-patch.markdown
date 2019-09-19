@@ -8,6 +8,7 @@ tags:
 name: SW Logo Circular Patch
 price: 4
 sku: Circular-P
+image: "/uploads/SW%20Circular%20Patch.jpg"
 ---
 
 Sew on/iron on patch, 7.5cm wide
