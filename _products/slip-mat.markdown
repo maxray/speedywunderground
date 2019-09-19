@@ -1,5 +1,5 @@
 ---
-title: 12" Slip Mat
+title: 12 inch Slip Mat
 date: 2019-09-06 15:29:00 Z
 categories:
 - merch
