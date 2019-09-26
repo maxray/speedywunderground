@@ -3,7 +3,7 @@ title: DEWEY – Loch Linnhe
 date: 2019-07-02 07:35:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW021
 releaseprefix: SW
 cataloguenumber: '021'
