@@ -1,0 +1,19 @@
+---
+title: 6 Single Subscription
+date: 2019-06-26 10:30:00 Z
+categories:
+- subscription
+tags:
+- latest
+price: 71
+weight: 100
+sku: SWSUB01
+releaseprefix: SWSUB
+cataloguenumber: 
+image: 
+is-shippable: true
+---
+
+Subscribe to our next 6 singles (SW031 - SW037). Comes with free Speedy Wunderground patch. 
+UK price £60
+Rest of world £71

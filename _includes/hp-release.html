@@ -14,8 +14,12 @@
         {%- if release.price -%}
         <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}" 
-          data-item-id="{{ release.sku }}" 
+          data-item-id="{{ release.sku }}"
+          {%- if release.weight -%} 
+          data-item-weight="100"
+          {%- else -%}
           data-item-weight="1"
+          {%- endif -%}
           data-item-image="{{site.baseurl}}{{ release.image }}" 
           data-item-url="https://www.speedywunderground.com{{ page.url }}" 
           data-item-price="{{ release.price | round: 2 }}"  
