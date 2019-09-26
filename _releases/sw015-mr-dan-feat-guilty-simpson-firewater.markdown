@@ -3,7 +3,7 @@ title: Mr Dan feat. Guilty Simpson – Firewater
 date: 2019-07-02 09:06:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW015
 releaseprefix: SW
 cataloguenumber: '015'
