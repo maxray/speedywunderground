@@ -3,7 +3,7 @@ title: All We Are & Alex Kapranos – Heart Attack
 date: 2019-06-26 10:40:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW027
 releaseprefix: SW
 cataloguenumber: '027'
