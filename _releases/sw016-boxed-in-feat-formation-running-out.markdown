@@ -3,7 +3,7 @@ title: Boxed In feat. Formation – Running Out
 date: 2019-07-02 09:06:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW016
 releaseprefix: SW
 cataloguenumber: '016'
