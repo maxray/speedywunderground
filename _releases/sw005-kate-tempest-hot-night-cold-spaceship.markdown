@@ -3,7 +3,6 @@ title: Kate Tempest – Hot Night Cold Spaceship
 date: 2019-07-09 13:22:00 Z
 categories:
 - single
-price: 10
 sku: SW05
 releaseprefix: SW
 cataloguenumber: '005'
