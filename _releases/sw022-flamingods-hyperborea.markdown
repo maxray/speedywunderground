@@ -3,7 +3,7 @@ title: Flamingods – Hyperborea
 date: 2019-07-02 07:34:00 Z
 categories:
 - single
-price: 13
+price: 13.5
 sku: SW022
 releaseprefix: SW
 cataloguenumber: '022'
