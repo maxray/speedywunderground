@@ -5,7 +5,7 @@ categories:
 - single
 tags:
 - latest
-price: 10
+price: 10.5
 sku: SW028
 releaseprefix: SW
 cataloguenumber: '028'
