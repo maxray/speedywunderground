@@ -3,7 +3,7 @@ title: Natalie Bang Bang – Dangerous When Wet
 date: 2019-07-09 13:15:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW08
 releaseprefix: SW
 cataloguenumber: '008'
