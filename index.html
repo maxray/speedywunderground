@@ -10,7 +10,8 @@ layout: default
         <button class="next slick-arrow next-arrow"> > </button>
      </div>
     <ul class="js-releases">
-        {% for release in site.releases%}
+        {% assign ordered_releases = site.releases  | sort:"title"   %}
+        {% for release in ordered_releases%}
             {% if release.tags contains "latest" %}
                 {% include hp-release.html %}
             {% endif %}
