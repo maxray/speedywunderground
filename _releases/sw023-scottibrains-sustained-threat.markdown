@@ -3,7 +3,7 @@ title: Scottibrains – Sustained Threat
 date: 2019-07-02 07:34:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW023
 releaseprefix: SW
 cataloguenumber: '023'
