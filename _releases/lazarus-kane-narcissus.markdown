@@ -9,7 +9,7 @@ price: 10.5
 sku: SW031
 releaseprefix: SW
 cataloguenumber: '031'
-image: "\n"
+image: "/uploads/SW31.png"
 tracks:
 - name: 'A side: Part 1'
   file: "/uploads/SW031%20-%20Lazarus%20Kane%20-%20Narcissus%20-%20Part%201.mp3"
