@@ -11,9 +11,9 @@ releaseprefix: SW
 cataloguenumber: '031'
 image: "/uploads/sw031_2.jpg"
 tracks:
-- name: Part 1
+- name: 'A side: Part 1'
   file: "/uploads/SW031%20-%20Lazarus%20Kane%20-%20Narcissus%20-%20Part%201.mp3"
-- name: Part 2
+- name: 'B side: Part 2'
   file: "/uploads/SW031%20-%20Lazarus%20Kane%20-%20Narcissus%20-%20Part%202.mp3"
 ---
 
