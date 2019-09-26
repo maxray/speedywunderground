@@ -5,13 +5,11 @@ categories:
 - subscription
 tags:
 - latest
-price: 71
-weight: 100
+price: 60
 sku: SWSUB01
 releaseprefix: SWSUB
-cataloguenumber: 
-image: 
 is-shippable: true
+weight: 100
 ---
 
 Subscribe to our next 6 singles (SW031 - SW037). Comes with free Speedy Wunderground patch. 
