@@ -3,7 +3,7 @@ title: Juce – Braindead
 date: 2019-07-09 13:16:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW07
 releaseprefix: SW
 cataloguenumber: '007'
