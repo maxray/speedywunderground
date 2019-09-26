@@ -5,7 +5,7 @@ categories:
 - single
 tags:
 - latest
-price: 10
+price: 10.5
 sku: SW030
 releaseprefix: SW
 cataloguenumber: '030'
