@@ -3,7 +3,7 @@ title: Melt Yourself Down – Another Weapon
 date: 2019-07-02 07:37:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW018
 releaseprefix: SW
 cataloguenumber: '018'
