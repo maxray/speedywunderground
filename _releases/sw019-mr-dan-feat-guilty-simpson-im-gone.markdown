@@ -3,7 +3,7 @@ title: Mr Dan feat. Guilty Simpson – I’m Gone
 date: 2019-07-02 07:36:00 Z
 categories:
 - single
-price: 10
+price: 10.5
 sku: SW019
 releaseprefix: SW
 cataloguenumber: '019'
