@@ -8,6 +8,7 @@ price: 18.5
 sku: Y4
 releaseprefix: SWY
 cataloguenumber: '04'
+image: "/uploads/SWY4_PACKSHOT.jpg"
 tracks:
 - name: scottibrains - Sustained Threat
   file: 
