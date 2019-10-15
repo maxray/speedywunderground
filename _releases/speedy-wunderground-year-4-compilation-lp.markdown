@@ -3,6 +3,8 @@ title: Speedy Wunderground Year 4 Compilation LP
 date: 2019-10-15 11:31:00 Z
 categories:
 - compilation
+tags:
+- latest
 price: 18.5
 sku: Y4
 releaseprefix: SWY
