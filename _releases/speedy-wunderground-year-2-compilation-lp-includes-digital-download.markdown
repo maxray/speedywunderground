@@ -27,3 +27,4 @@ tracks:
   file: "/uploads/SW015a-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater.mp3"
 ---
 
+Includes digital download card
