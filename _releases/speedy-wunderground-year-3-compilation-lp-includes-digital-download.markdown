@@ -28,4 +28,4 @@ tracks:
   file: "/uploads/SW022-Flamingods-Hyperborea.mp3"
 ---
 
-Included digital download card
+Includes digital download card
