@@ -1,7 +1,6 @@
 ---
 title: Speedy Wunderground Year 4 Compilation LP
 date: 2019-10-15 11:31:00 Z
-published: false
 categories:
 - compilation
 price: 18.5
