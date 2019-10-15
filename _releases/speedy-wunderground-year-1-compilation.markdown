@@ -27,4 +27,4 @@ tracks:
   file: "/uploads/SW002a-Archie%20Bronson%20Outfit-I%20Was%20A%20Dead%20Duck.mp3"
 ---
 
-LP track listing (including digital download of 14 tracks).
+Includes digital download card
