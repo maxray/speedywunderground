@@ -28,4 +28,4 @@ tracks:
   file: "/uploads/SW022-Flamingods-Hyperborea.mp3"
 ---
 
-Released 27th July 2018
+Included digital download card
