@@ -27,4 +27,4 @@ tracks:
   file: "/uploads/SW030a-Sinead%20O'Brien-Taking%20On%20Time.mp3"
 ---
 
-Released 6th December 2019
+Released 6th December 2019, includes digital download card
