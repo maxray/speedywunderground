@@ -10,7 +10,7 @@ cataloguenumber: '019'
 image: "/uploads/SW19.png"
 tracks:
 - name: 'A side: I’m Gone'
-  file: "/uploads/SW015a-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater.mp3"
+  file: "/uploads/SW019a-Mr%20Dan%20feat.%20Guilty%20Simpson-I'm%20Gone.mp3"
 - name: 'B side: I’m Gone Instrumental'
   file: "/uploads/SW015b-Mr%20Dan%20feat.%20Guilty%20Simpson-Firewater%20instrumental.mp3"
 ---
