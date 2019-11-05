@@ -11,4 +11,4 @@ is-shippable: true
 weight: 100
 ---
 
-Subscribe to our next 6 singles (SW031 - SW036). Comes with free Speedy Wunderground patch. Currently unavailable
+Subscribe to our next 6 singles (SW031 - SW036). Comes with free Speedy Wunderground patch. 
