@@ -3,7 +3,6 @@ title: Tiña – I Feel Fine
 date: 2019-06-26 10:39:00 Z
 categories:
 - single
-price: 10.5
 sku: SW028
 releaseprefix: SW
 cataloguenumber: '028'
