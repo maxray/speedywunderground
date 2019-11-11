@@ -4,7 +4,7 @@ date: 2019-11-11 09:07:00 Z
 categories:
 - single
 tags:
-- latest
+- lead
 price: 10.5
 sku: SW032
 releaseprefix: SW

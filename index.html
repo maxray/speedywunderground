@@ -3,27 +3,54 @@ title: Home
 layout: default
 ---
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-right:2rem; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/eAkQDtabHeg' frameborder='0' allowfullscreen></iframe></div>
+<style>
+    .embed-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        overflow: hidden;
+        max-width: 100%;
+        margin-right: 2rem;
+    }
+
+    .embed-container iframe,
+    .embed-container object,
+    .embed-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/eAkQDtabHeg' frameborder='0'
+        allowfullscreen></iframe></div>
 
 <section id="releases">
     <h3>Latest Releases</h3>
     <div class="slide-buttons">
-        <button class="prev slick-arrow prev-arrow"> < </button>
-        <button class="next slick-arrow next-arrow"> > </button>
-     </div>
+        <button class="prev slick-arrow prev-arrow">
+            < </button> <button class="next slick-arrow next-arrow"> >
+        </button>
+    </div>
     <ul class="js-releases">
+        {% assign ordered_lead = site.releases | sort:"title"   %}
+        {% for release in ordered_lead%}
+        {% if release.tags contains "lead" %}
+        {% include hp-release.html %}
+        {% endif %}
+        {% endfor %}
         {% assign ordered_releases = site.releases  | sort:"title"   %}
         {% for release in ordered_releases%}
-            {% if release.tags contains "latest" %}
-                {% include hp-release.html %}
-            {% endif %}
+        {% if release.tags contains "latest" %}
+        {% include hp-release.html %}
+        {% endif %}
         {% endfor %}
     </ul>
-    
+
 </section>
 
 <!-- <h3> Merch</h3>
 {% for product in site.products %}
   {% include product.html %}
 {% endfor %} -->
-
