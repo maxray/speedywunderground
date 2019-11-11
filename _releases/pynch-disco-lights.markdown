@@ -12,9 +12,9 @@ releaseprefix: SW
 cataloguenumber: '031'
 tracks:
 - name: Disco Lights
-  file: 
+  file: "/uploads/SW032a%20-%20Pynch%20-%20Disco%20Lights.mp3"
 - name: Orla Carey's Pynch Your Lights Out Dub
-  file: 
+  file: "/uploads/SW032b%20-%20Pynch%20-%20Orla%20Carey's%20Pynch%20Your%20Lights%20Out%20Dub.mp3"
 ---
 
 7″ single only release, limited to an edition of 250 worldwide.
