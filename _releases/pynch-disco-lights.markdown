@@ -1,7 +1,6 @@
 ---
 title: Pynch - Disco Lights
 date: 2019-11-11 09:07:00 Z
-published: false
 categories:
 - single
 tags:
