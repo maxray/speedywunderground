@@ -40,6 +40,7 @@ layout: default
         {% include hp-release.html %}
         {% endif %}
         {% endfor %}
+
         {% assign ordered_releases = site.releases  | sort:"title"   %}
         {% for release in ordered_releases%}
         {% if release.tags contains "latest" %}
