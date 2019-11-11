@@ -9,6 +9,7 @@ price: 10.5
 sku: SW032
 releaseprefix: SW
 cataloguenumber: '032'
+image: "/uploads/SW32.png"
 tracks:
 - name: Disco Lights
   file: "/uploads/SW032a%20-%20Pynch%20-%20Disco%20Lights.mp3"
