@@ -1,75 +1,79 @@
 <footer class="site-footer h-card">
-        <div id="socials">
-          <a href="https://{{ site.facebook_username| escape }}" target="_blank">{{ site.facebook_username| escape }}</a>
-          <a href="https://www.twitter.com/{{ site.twitter_username| escape }}" target="_blank">@{{ site.twitter_username| escape }}</a>
-          <a href="https://soundcloud.com/speedywunderground" target="_blank">soundcloud.com/sw</a>
-          
-        </div>
-        <img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.title}}" class="thumbnail"/>
+  <div id="socials">
+    <a href="https://{{ site.facebook_username| escape }}" target="_blank">{{ site.facebook_username| escape }}</a>
+    <a href="https://www.twitter.com/{{ site.twitter_username| escape }}"
+      target="_blank">@{{ site.twitter_username| escape }}</a>
+    <a href="https://soundcloud.com/speedywunderground" target="_blank">soundcloud.com/sw</a>
+    <a href="https://www.instagram.com/speedy_wunder" target="_blank">instagram.com/speedy_wunder</a>
+
+  </div>
+  <img src="{{site.baseurl}}/assets/images/logo.png" alt="{{site.title}}" class="thumbnail" />
 </footer>
 <div id="js-player" class="container">
-  
-    <div class="player gradient">
-        <ul class="all-tracks">
-            {% assign track_listing = site.releases | sort:"sku" | reverse %}
-              {% for release in track_listing  %}
-                {% if release.tracks %}
-                  {% for track in release.tracks %}
-                    {%- if track.file -%}
-                    <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">{{release.releaseprefix}}{{release.cataloguenumber}}: {{ track.name }}</li>
-                    {%- endif -%}
-                  {% endfor %}
-                {% endif %}
-                {%- if release.mp3-asset -%}
-                  <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">{{release.releaseprefix}}{{release.cataloguenumber}}: {{ release.title }}</li>
-                {%- endif -%}
-            {% endfor %} 
-          </ul>
-        <span id="player-info"></span>
-        <input type="range" id="seek" value="0" max=""/>
-        <div class="controls">
-          <button class="player-button gradient" id="play" ></button>
-          <button class="player-button gradient" id="pause" ></button>
-          <button class="player-button gradient" id="close" ></button>  
-        </div>
-    </div><!-- / player -->
-     
+
+  <div class="player gradient">
+    <ul class="all-tracks">
+      {% assign track_listing = site.releases | sort:"sku" | reverse %}
+      {% for release in track_listing  %}
+      {% if release.tracks %}
+      {% for track in release.tracks %}
+      {%- if track.file -%}
+      <li class="js-play-sample" data-sample="{{track.file}}" data-songname="{{ track.name }}">
+        {{release.releaseprefix}}{{release.cataloguenumber}}: {{ track.name }}</li>
+      {%- endif -%}
+      {% endfor %}
+      {% endif %}
+      {%- if release.mp3-asset -%}
+      <li class="js-play-sample" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">
+        {{release.releaseprefix}}{{release.cataloguenumber}}: {{ release.title }}</li>
+      {%- endif -%}
+      {% endfor %}
+    </ul>
+    <span id="player-info"></span>
+    <input type="range" id="seek" value="0" max="" />
+    <div class="controls">
+      <button class="player-button gradient" id="play"></button>
+      <button class="player-button gradient" id="pause"></button>
+      <button class="player-button gradient" id="close"></button>
+    </div>
+  </div><!-- / player -->
+
 </div><!-- / Container-->
 
 <script>
-document.addEventListener('snipcart.ready', function() {
-    
+  document.addEventListener('snipcart.ready', function () {
+
 
     function myCartUpdate() {
       var count = Snipcart.api.items.count();
       //console.log(count);
       if (count != 0) {
         if ($(window).width() < 768) {
-          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> '+ count + ' Items</a>');
-      
-        }else {
-          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> '+ count + ' Items</a>');
-      
+          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> ' + count + ' Items</a>');
+
+        } else {
+          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> ' + count + ' Items</a>');
+
         }
       } else {
 
         if ($(window).width() < 768) {
           $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> 0 Items</a>');
-      
-        }else {
+
+        } else {
           $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> 0 Items</a>');
-      
+
         }
       }
     }
 
-    $(window).on('resize', function(){
+    $(window).on('resize', function () {
       myCartUpdate();
     });
 
     myCartUpdate();
 
-    Snipcart.subscribe('cart.closed', function() {
+    Snipcart.subscribe('cart.closed', function () {
       myCartUpdate();
     });
 
@@ -77,120 +81,120 @@ document.addEventListener('snipcart.ready', function() {
       myCartUpdate();
     });
 
-    $(".js-product-size").on('change', function(e) {
-        e.preventDefault(); 
-        $(this).next().attr('data-item-custom1-value' , this.value);
+    $(".js-product-size").on('change', function (e) {
+      e.preventDefault();
+      $(this).next().attr('data-item-custom1-value', this.value);
     });
 
-    $(".js-product-colour").on('change', function(e) {
-        e.preventDefault(); 
-        $(this).next().next().attr('data-item-custom2-value' , this.value);
+    $(".js-product-colour").on('change', function (e) {
+      e.preventDefault();
+      $(this).next().next().attr('data-item-custom2-value', this.value);
     });
 
 
-});
-TweenMax.from("#nav", .5, {opacity:0}).delay(.5);
-TweenMax.from(".background", .5, {opacity:0}).delay(1);
-if ($('.triangle')) {
-TweenMax.from(".triangle", 1, {height:0}).delay(1.5);
-TweenMax.from(".t-line", 1, {opacity:0}).delay(1.5);
-}
-TweenMax.from(".hline", 1, {opacity:0}).delay(1.5);
-TweenMax.staggerFrom(".shop-cats-item", 2, {x:-200, opacity:0 ,ease:Elastic.easeOut.config(1, 0.5)}, 0.25);
-
-if ($('.single-list .product-info')) {
-TweenMax.staggerFrom(".single-list .product-info", 2, { opacity:0 ,ease:Elastic.easeOut.config(1, 0.5)}, 0.5);
-}
-
-function mobileSwitch() {
-    var element = document.getElementById("js-nav");
-    element.classList.toggle("is-active"); 
-    var body = document.body;
-    body.classList.toggle("fixed"); 
-    var element = document.getElementById("nav");
-    element.classList.toggle("mobile-menu-on"); 
-}
-
-$(document).ready(function(){
-  $('.js-releases').slick({
-    autoplay: true,
-    autoplaySpeed: 5000,
-    prevArrow: $('.prev'),
-    nextArrow: $('.next'),
   });
+  TweenMax.from("#nav", .5, { opacity: 0 }).delay(.5);
+  TweenMax.from(".background", .5, { opacity: 0 }).delay(1);
+  if ($('.triangle')) {
+    TweenMax.from(".triangle", 1, { height: 0 }).delay(1.5);
+    TweenMax.from(".t-line", 1, { opacity: 0 }).delay(1.5);
+  }
+  TweenMax.from(".hline", 1, { opacity: 0 }).delay(1.5);
+  TweenMax.staggerFrom(".shop-cats-item", 2, { x: -200, opacity: 0, ease: Elastic.easeOut.config(1, 0.5) }, 0.25);
+
+  if ($('.single-list .product-info')) {
+    TweenMax.staggerFrom(".single-list .product-info", 2, { opacity: 0, ease: Elastic.easeOut.config(1, 0.5) }, 0.5);
+  }
+
+  function mobileSwitch() {
+    var element = document.getElementById("js-nav");
+    element.classList.toggle("is-active");
+    var body = document.body;
+    body.classList.toggle("fixed");
+    var element = document.getElementById("nav");
+    element.classList.toggle("mobile-menu-on");
+  }
+
+  $(document).ready(function () {
+    $('.js-releases').slick({
+      autoplay: true,
+      autoplaySpeed: 5000,
+      prevArrow: $('.prev'),
+      nextArrow: $('.next'),
+    });
 
 
 
-  //MUSIC PLAYER STUFF
+    //MUSIC PLAYER STUFF
 
-  const container = $('.container');
-	play = $('#play');
-	pause = $('#pause');
-	close = $('#close');
-	song = new Audio();
-	duration = song.duration;
-  pause.addClass('js-hidden');
-  playerinfo = $('#player-info');
-  
-
-
-  // if (song.canPlayType('audio/mpeg;')) {
-  // 	song.type= 'audio/mpeg';
-  // 	song.src= '{{site.baseurl}}/music/MBT_01.mp3';
-	// } else {
-  // 	song.type= 'audio/ogg';
-  // 	song.src= '{{site.baseurl}}/music/track1.ogg';
-	// }
-
-  play.on('click', function(e) {
-		e.preventDefault();
-		song.play();
-		container.addClass('js-show-player');
-    pause.removeClass('js-hidden');
-    play.addClass('js-hidden');
-		$('#close').fadeIn(300);
-		$('#seek').attr('max',song.duration);
-	});
-
-	pause.on('click', function(e) {
-		e.preventDefault();
-    play.removeClass('js-hidden');
+    const container = $('.container');
+    play = $('#play');
+    pause = $('#pause');
+    close = $('#close');
+    song = new Audio();
+    duration = song.duration;
     pause.addClass('js-hidden');
-		song.pause();
-
-	});
+    playerinfo = $('#player-info');
 
 
-  $('#close').click(function(e) {
-		e.preventDefault();
-		container.removeClass('js-show-player');
-		song.pause();
-		song.currentTime = 0;
-		$('#close').fadeOut(300);
-	});
 
-  $("#seek").bind("change", function() {
-		song.currentTime = $(this).val();
-		$("#seek").attr("max", song.duration);
-	});
+    // if (song.canPlayType('audio/mpeg;')) {
+    // 	song.type= 'audio/mpeg';
+    // 	song.src= '{{site.baseurl}}/music/MBT_01.mp3';
+    // } else {
+    // 	song.type= 'audio/ogg';
+    // 	song.src= '{{site.baseurl}}/music/track1.ogg';
+    // }
 
-  song.addEventListener('timeupdate',function (){
-	curtime = parseInt(song.currentTime, 10);
-		$("#seek").val(curtime);
-	});
+    play.on('click', function (e) {
+      e.preventDefault();
+      song.play();
+      container.addClass('js-show-player');
+      pause.removeClass('js-hidden');
+      play.addClass('js-hidden');
+      $('#close').fadeIn(300);
+      $('#seek').attr('max', song.duration);
+    });
 
-  // Play Sample
+    pause.on('click', function (e) {
+      e.preventDefault();
+      play.removeClass('js-hidden');
+      pause.addClass('js-hidden');
+      song.pause();
 
-  $('.js-play-sample').on('click', function(e) {
-		e.preventDefault();
-    song.currentTime = 0;
-    song.src= '{{site.baseurl}}' + $(this).attr('data-sample');
+    });
 
-    const songname = $(this).attr('data-songname');
-    
-    play.addClass('js-hidden');
-    pause.removeClass('js-hidden');
-    playerinfo.html('loading mp3');
+
+    $('#close').click(function (e) {
+      e.preventDefault();
+      container.removeClass('js-show-player');
+      song.pause();
+      song.currentTime = 0;
+      $('#close').fadeOut(300);
+    });
+
+    $("#seek").bind("change", function () {
+      song.currentTime = $(this).val();
+      $("#seek").attr("max", song.duration);
+    });
+
+    song.addEventListener('timeupdate', function () {
+      curtime = parseInt(song.currentTime, 10);
+      $("#seek").val(curtime);
+    });
+
+    // Play Sample
+
+    $('.js-play-sample').on('click', function (e) {
+      e.preventDefault();
+      song.currentTime = 0;
+      song.src = '{{site.baseurl}}' + $(this).attr('data-sample');
+
+      const songname = $(this).attr('data-songname');
+
+      play.addClass('js-hidden');
+      pause.removeClass('js-hidden');
+      playerinfo.html('loading mp3');
 
 
       song.play();
@@ -199,17 +203,17 @@ $(document).ready(function(){
       $('#close').fadeIn(300);
       $('#seek').attr('value', 0);
       //$('#seek').attr('max', song.duration);
-      song.onloadedmetadata = function() {
-        $('#seek').attr('max',song.duration);
-        playerinfo.html('Playing: '+ songname);
+      song.onloadedmetadata = function () {
+        $('#seek').attr('max', song.duration);
+        playerinfo.html('Playing: ' + songname);
       }
 
-   // console.log(song.src);
-    //$(this).next().attr('data-item-custom1-value' , this.value);
+      // console.log(song.src);
+      //$(this).next().attr('data-item-custom1-value' , this.value);
+    });
+
+
   });
-
-
-});
 
 
 </script>
