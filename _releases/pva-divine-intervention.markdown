@@ -10,6 +10,7 @@ price: 10.5
 sku: SW032
 releaseprefix: SW
 cataloguenumber: '032'
+image: "/uploads/SW33.png"
 tracks:
 - name: Divine Intervention
   file: "/uploads/SW033a%20-%20PVA%20-%20Divine%20Intervention.mp3"
