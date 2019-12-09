@@ -1,0 +1,22 @@
+---
+title: PVA - Divine Intervention
+date: 2019-12-09 09:37:00 Z
+published: false
+categories:
+- single
+tags:
+- lead
+price: 10.5
+sku: SW032
+releaseprefix: SW
+cataloguenumber: '032'
+tracks:
+- name: Divine Intervention
+  file: "/uploads/SW033a-PVA-Divine%20Intervention.mp3"
+- name: Divine Intervention - Savage Gary's Christmas Dub
+  file: "/uploads/SW033b-PVA-Divine%20Intervention-Savage%20Gary's%20Christmas%20Dub.mp3"
+---
+
+7″ single only release, limited to an edition of 250 worldwide.
+
+Released 17th January 2020
