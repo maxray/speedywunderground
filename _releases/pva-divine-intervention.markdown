@@ -12,7 +12,7 @@ releaseprefix: SW
 cataloguenumber: '032'
 tracks:
 - name: Divine Intervention
-  file: "/uploads/SW033a-PVA-Divine%20Intervention.mp3"
+  file: "/uploads/SW033a%20-%20PVA%20-%20Divine%20Intervention.mp3"
 - name: Divine Intervention - Savage Gary's Christmas Dub
   file: "/uploads/SW033b-PVA-Divine%20Intervention-Savage%20Gary's%20Christmas%20Dub.mp3"
 ---
