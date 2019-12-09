@@ -6,9 +6,9 @@ categories:
 tags:
 - lead
 price: 10.5
-sku: SW032
+sku: SW033
 releaseprefix: SW
-cataloguenumber: '032'
+cataloguenumber: '033'
 image: "/uploads/SW33.png"
 tracks:
 - name: Divine Intervention
