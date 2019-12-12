@@ -7,6 +7,7 @@ categories:
 - centre
 tags:
 - latest
+price: 16
 sku: EP01
 releaseprefix: SWP
 cataloguenumber: '01'
