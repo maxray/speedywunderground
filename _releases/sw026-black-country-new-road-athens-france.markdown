@@ -15,6 +15,6 @@ tracks:
   file: 
 ---
 
-7″ single only release, limited to an edition of 250 worldwide.
+7″ single only release, limited to an edition of 260 worldwide.
 
 Released 8th March 2019
