@@ -23,4 +23,4 @@ tracks:
   file: "/uploads/SWP01-04-Squid-Rodeo.mp3"
 ---
 
-12" EP released 15th Nov 2019
+12" EP released 15th Nov 2019 (First pressing)
