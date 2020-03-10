@@ -6,7 +6,6 @@ categories:
 tags:
 - Patch
 name: SW Logo Circular Patch
-price: 4
 sku: Circular-P
 image: "/uploads/SW%20Circular%20Patch.jpg"
 ---

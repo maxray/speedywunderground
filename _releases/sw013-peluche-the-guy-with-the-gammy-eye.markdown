@@ -3,7 +3,6 @@ title: Peluché – The Guy With The Gammy Eye
 date: 2019-07-02 09:12:00 Z
 categories:
 - single
-price: 10.5
 sku: SW013
 releaseprefix: SW
 cataloguenumber: '013'

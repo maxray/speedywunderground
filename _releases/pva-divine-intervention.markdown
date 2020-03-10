@@ -16,6 +16,6 @@ tracks:
   file: "/uploads/SW033b-PVA-Divine%20Intervention-Savage%20Gary's%20Christmas%20Dub.mp3"
 ---
 
-7″ single only release, limited to an edition of 250 worldwide.
+7″ single only release, limited to an edition of 280 worldwide.
 
 Released 17th January 2020
