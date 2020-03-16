@@ -3,8 +3,6 @@ title: Treeboy & Arc - Concept
 date: 2019-06-26 10:31:00 Z
 categories:
 - single
-tags:
-- latest
 price: 10.5
 sku: SW029
 releaseprefix: SW
