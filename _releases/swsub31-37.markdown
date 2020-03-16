@@ -3,8 +3,6 @@ title: 6 Single Subscription
 date: 2019-06-26 10:30:00 Z
 categories:
 - subscription
-tags:
-- latest
 sku: SWSUB01
 releaseprefix: SWSUB
 is-shippable: true
