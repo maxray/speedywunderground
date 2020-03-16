@@ -1,7 +1,6 @@
 ---
 title: The Lounge Society - Generation Game
 date: 2020-03-16 17:00:00 Z
-published: false
 categories:
 - single
 tags:
@@ -9,6 +8,7 @@ tags:
 price: 10.5
 releaseprefix: SW034
 cataloguenumber: '034'
+mp3-asset: "/uploads/SW034%20Side%20FULL%205March20.mp3"
 tracks:
 - name: 'A side: Part 1'
   file: 
