@@ -4,7 +4,7 @@ date: 2019-12-09 09:37:00 Z
 categories:
 - single
 tags:
-- lead
+- latest
 sku: SW033
 releaseprefix: SW
 cataloguenumber: '033'
