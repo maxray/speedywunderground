@@ -6,7 +6,7 @@ categories:
 tags:
 - lead
 price: 10.5
-releaseprefix: SW034
+releaseprefix: SW
 cataloguenumber: '034'
 mp3-asset: "/uploads/SW034%20Side%20FULL%205March20.mp3"
 tracks:
