@@ -9,6 +9,7 @@ price: 10.5
 sku: SW034
 releaseprefix: SW
 cataloguenumber: '034'
+image: "/uploads/SW34.png"
 mp3-asset: "/uploads/SW034%20Side%20FULL%205March20.mp3"
 tracks:
 - name: 'A side: Part 1'
