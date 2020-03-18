@@ -5,6 +5,7 @@ categories:
 - single
 tags:
 - lead
+price: 10.5
 sku: SW034
 releaseprefix: SW
 cataloguenumber: '034'
@@ -17,6 +18,6 @@ tracks:
   file: 
 ---
 
-7″ single only release, limited to an edition of 250 worldwide.
+7″ single only release, limited to an edition of **350** worldwide.
 
 Released 24th April 2020
