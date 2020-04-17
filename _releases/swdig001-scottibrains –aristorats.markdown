@@ -4,14 +4,13 @@ date: 2020-04-15 19:47:00 Z
 categories:
 - digital
 sku: 
-price:
+price: 
 releaseprefix: DIG
-image: "/uploads/SW31.png"
+image: "/uploads/D01.png"
 is-shippable: true
 cataloguenumber: '001'
-image: "/uploads/D01.png"
 tracks:
-- name: 'Aristorats'
+- name: Aristorats
   file: "/uploads/Aristorats-19March20.wav"
 ---
 
