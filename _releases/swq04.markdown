@@ -3,9 +3,8 @@ title: QUARANTINE SERIES 04
 date: 2020-04-15 19:47:00 Z
 categories:
 - digital
-sku: 
 releaseprefix: Q
-cataloguenumber: '04'
+cataloguenumber: '004'
 image: "/uploads/Q04.png"
 ---
 
