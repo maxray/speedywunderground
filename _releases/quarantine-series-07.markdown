@@ -1,6 +1,8 @@
 ---
 title: QUARANTINE SERIES 07
 date: 2020-04-17 10:23:00 Z
+categories:
+- digital
 releaseprefix: Q
 cataloguenumber: '07'
 image: "/uploads/Q07.png"
