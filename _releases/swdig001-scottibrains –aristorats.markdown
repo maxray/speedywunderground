@@ -4,15 +4,15 @@ date: 2020-04-15 19:47:00 Z
 categories:
 - digital
 sku: 
-price: 5.99
+price:
 releaseprefix: DIG
 image: "/uploads/SW30.png"
 is-shippable: true
 cataloguenumber: '001'
-image: "/uploads/SW31.png"
+image: "/uploads/D01.png"
 tracks:
-- name: 'A side: Concept'
-  file: "/uploads/SW029a-Treeboy%20&%20Arc-Concept.mp3"
+- name: 'Aristorats'
+  file: "/uploads/Aristorats-19March20.wav"
 ---
 
  Scottibrains description here.
