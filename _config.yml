@@ -50,7 +50,7 @@ defaults:
     image: 
 email: info@speedywunderground.com
 description: Speedy Wunderground is Dan Carey, Alexis Smith and Pierre Hall.
-baseurl: 
+baseurl:
 url: 
 twitter_username: speedywunder
 github_username: maxray

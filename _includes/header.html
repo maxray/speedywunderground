@@ -19,9 +19,14 @@
             <li class="inactive" data-col="#ffff00"><a href="{{site.baseurl}}/studio/">Studio</a></li>
           {% endif %} -->
           {% if page.url == "/shop/" %}
-          <li class="active" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/">Shop</a></li>
+          <li class="active" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/">Releases</a></li>
           {% else %}
-          <li class="inactive" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/">Shop</a></li>
+          <li class="inactive" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/">Releases</a></li>
+          {% endif %}
+           {% if page.url == "/shop/merch" %}
+          <li class="active" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/merch">Merch</a></li>
+          {% else %}
+          <li class="inactive" data-col="#ffdd00"><a href="{{site.baseurl}}/shop/merch">Merch</a></li>
           {% endif %}
           {% if page.url == "/contact/" %}
             <li class="active" data-col="#ffdd00"><a href="{{site.baseurl}}/contact/">Contact</a></li>

@@ -6,15 +6,21 @@
             <div class="product-description">
                  <h4>{{release.releaseprefix}}{{ release.cataloguenumber }}: {{ release.title }}</h4>
         {{ release.content }}
-        <ul class="track-list">
-           
-          {% for track in release.tracks %}
-           <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="SW{{ release.cataloguenumber }}: {{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
-          {% endfor %}
-          {%- if release.mp3-asset -%}
-          <li class="no-bullet"><button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button></li>
-          {%- endif -%}
-        </ul>
+        {% for istrack in release.tracks %}
+          {%- if istrack.name  -%}
+           <ul class="track-list">
+        
+            {% for track in release.tracks %}
+              <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="SW{{ release.cataloguenumber }}: {{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
+            {% endfor %}
+            {%- if release.mp3-asset -%}
+              <li class="no-bullet"><button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button></li>
+            {%- endif -%}
+           </ul>
+            {%- else -%}
+    
+              {%- endif -%}
+               {% endfor %}
        
         {%- if release.price -%}
         <button class="snipcart-add-item add-cart" 
@@ -34,7 +40,12 @@
            
         </button>
         {%- else -%}
-        SOLD OUT
+         {%- if release.categories contains 'digital' -%}
+         
+         {%- else -%}
+          SOLD OUT
+          {%- endif -%}
+       
         {%- endif -%}
         </div>
     </div>
