@@ -5,8 +5,7 @@ categories:
 - digital
 tags:
 - stream
-releaseprefix: DIG
-cataloguenumber: '001'
+releaseprefix: 
 image: "/uploads/D01.png"
 is-shippable: true
 tracks:
