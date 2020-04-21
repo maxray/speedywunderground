@@ -3,6 +3,8 @@ title: QUARANTINE SERIES 05
 date: 2020-04-17 10:18:00 Z
 categories:
 - digital
+tags:
+- quarantine
 releaseprefix: Q
 cataloguenumber: '005'
 image: "/uploads/Q05.png"

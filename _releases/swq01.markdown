@@ -3,6 +3,8 @@ title: QUARANTINE SERIES 01
 date: 2020-04-15 19:47:00 Z
 categories:
 - digital
+tags:
+- quarantine
 sku: 
 releaseprefix: Q
 cataloguenumber: '001'

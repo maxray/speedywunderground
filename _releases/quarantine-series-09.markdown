@@ -3,6 +3,8 @@ title: QUARANTINE SERIES 09
 date: 2020-04-17 12:21:00 Z
 categories:
 - digital
+tags:
+- quarantine
 releaseprefix: Q
 cataloguenumber: '009'
 image: "/uploads/Q09.png"

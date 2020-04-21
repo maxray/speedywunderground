@@ -3,6 +3,8 @@ title: QUARANTINE SERIES 06
 date: 2020-04-17 10:22:00 Z
 categories:
 - digital
+tags:
+- quarantine
 releaseprefix: Q
 cataloguenumber: '006'
 image: "/uploads/Q06.png"

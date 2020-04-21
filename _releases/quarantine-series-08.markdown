@@ -3,6 +3,8 @@ title: QUARANTINE SERIES 08
 date: 2020-04-17 10:27:00 Z
 categories:
 - digital
+tags:
+- quarantine
 releaseprefix: Q
 cataloguenumber: '008'
 image: "/uploads/Q08.png"
