@@ -1,6 +1,10 @@
 ---
 title: QUARANTINE SERIES 13
 date: 2020-05-05 08:22:00 Z
+categories:
+- digital
+tags:
+- quarantine
 releaseprefix: Q
 cataloguenumber: '013'
 image: "/uploads/Q13.png"
