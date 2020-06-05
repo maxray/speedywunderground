@@ -4,12 +4,11 @@ categories:
 - album
 tags:
 - latest
-sku: AL001
 price: 18.5
-cd_price: 10
+sku: AL001
 releaseprefix: SWA
 cataloguenumber: '001'
-image: "/uploads/SWA001.png"
+image: "/uploads/SWA001-8459ca.png"
 tracks:
 - name: Buddha
   file: 
@@ -33,6 +32,7 @@ tracks:
   file: 
 - name: People
   file: 
+cd_price: 10
 ---
 
 Release Date - 6th November 2020
