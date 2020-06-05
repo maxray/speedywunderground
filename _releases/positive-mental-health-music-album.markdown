@@ -1,5 +1,5 @@
 ---
-title: Positive Mental Health Music 
+title: Positive Mental Health Music
 categories:
 - album
 tags:
@@ -34,7 +34,6 @@ tracks:
 - name: People
   file: 
 ---
-
 
 Release Date - 6th November 2020
 
