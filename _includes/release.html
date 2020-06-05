@@ -19,6 +19,91 @@
           
        
         {%- if release.price -%}
+
+         {%- if release.categories contains 'album' -%}
+
+          <p>If you choose the free Sweat, please select your size:</p>
+        <select class="js-album-size select-dd">
+          <option value="" disabled selected>Size</option>
+          <option value="small">Small</option>
+          <option value="medium">Medium</option>
+          <option value="large">Large</option>
+          <option value="x-large">X-Large</option>
+        </select>
+          <button class="snipcart-add-item add-cart" 
+          data-item-name="{{ release.title }}-vinyl" 
+          data-item-id="{{ release.sku }}-vinyl" 
+          data-item-weight="1"
+          data-item-image="{{site.baseurl}}{{ release.image }}" 
+          data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+          data-item-price="{{ release.price | round: 2 }}"  
+          data-item-file-guid = "{{ release.file-guid }}"  
+          >
+          {% assign price_split = release.price | round: 2 | split: "." %}
+          {% assign integral = price_split[0] %}
+          {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+         
+            Buy Vinyl  £ {{ integral }}.{{ fractional }}
+           
+        </button>
+        <button class="snipcart-add-item add-cart" 
+          data-item-name="{{ release.title }}-vinyl-sweat" 
+          data-item-id="{{ release.sku }}-vinyl-sweat" 
+          data-item-weight="1"
+          data-item-image="{{site.baseurl}}{{ release.image }}" 
+          data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+          data-item-price="{{ release.price | round: 2 }}"  
+          data-item-file-guid = "{{ release.file-guid }}" 
+          data-item-custom1-name="Size"
+          data-item-custom1-options="small|medium|large|x-large"
+          data-item-custom1-value="" 
+          >
+          {% assign price_split = release.price | round: 2 | split: "." %}
+          {% assign integral = price_split[0] %}
+          {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+         
+            Buy Vinyl + Top  £ {{ integral }}.{{ fractional }}
+           
+        </button>
+         <button class="snipcart-add-item add-cart" 
+          data-item-name="{{ release.title }}-cd" 
+          data-item-id="{{ release.sku }}-cd" 
+          data-item-weight="1"
+          data-item-image="{{site.baseurl}}{{ release.image }}" 
+          data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+          data-item-price="{{ release.cd_price | round: 2 }}"  
+          data-item-file-guid = "{{ release.file-guid }}" 
+           
+          >
+          {% assign price_split = release.cd_price | round: 2 | split: "." %}
+          {% assign integral = price_split[0] %}
+          {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+         
+            Buy CD £ {{ integral }}.{{ fractional }}
+           
+        </button>
+         <button class="snipcart-add-item add-cart" 
+          data-item-name="{{ release.title }}-cd-sweat" 
+          data-item-id="{{ release.sku }}-cd-sweat" 
+          data-item-weight="1"
+          data-item-image="{{site.baseurl}}{{ release.image }}" 
+          data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+          data-item-price="{{ release.cd_price | round: 2 }}"  
+          data-item-file-guid = "{{ release.file-guid }}"  
+          data-item-custom1-name="Size"
+          data-item-custom1-options="small|medium|large|x-large"
+          data-item-custom1-value=""
+          >
+          {% assign price_split = release.cd_price | round: 2 | split: "." %}
+          {% assign integral = price_split[0] %}
+          {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+         
+            Buy CD + Top £ {{ integral }}.{{ fractional }}
+           
+        </button>
+ 
+
+          {%- else -%}
         <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}" 
           data-item-id="{{ release.sku }}" 
@@ -35,7 +120,9 @@
             Buy  £ {{ integral }}.{{ fractional }}
            
         </button>
+        {%- endif -%}
         {%- else -%}
+        
          {%- if release.categories contains 'digital' -%}
          
          {%- else -%}

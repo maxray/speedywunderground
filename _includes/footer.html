@@ -86,6 +86,13 @@
       $(this).next().attr('data-item-custom1-value', this.value);
     });
 
+
+    $(".js-album-size").on('change', function (e) {
+      e.preventDefault();
+      console.log(this);
+      $('button').attr('data-item-custom1-value', this.value);
+    });
+
     $(".js-product-colour").on('change', function (e) {
       e.preventDefault();
       $(this).next().next().attr('data-item-custom2-value', this.value);

@@ -85,6 +85,39 @@
 
 }
 
+.album-list {
+    margin: 0 0 3rem 0;
+    padding: 0;
+    list-style: none;
+    display:grid;
+    grid-gap: 2rem;
+    grid-row-gap: 4rem;
+    grid-template-columns: 1fr 1fr ;
+
+    @media only screen and (max-width: 768px) {
+        grid-template-columns: 1fr 1fr ;
+    }
+
+    @media only screen and (max-width:500px) {
+        grid-template-columns:  1fr ;
+    }
+
+    .product-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-content: space-between;
+        align-items: flex-start;
+
+    
+
+    }
+
+
+
+
+}
+
 
 .merch-list {
     margin: 0;
