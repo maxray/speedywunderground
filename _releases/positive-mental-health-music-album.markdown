@@ -1,13 +1,13 @@
 ---
-title: Positive Mental Health Music
+title: TIÑA - Positive Mental Health Music
 categories:
 - album
 tags:
 - lead
 price: 18.5
-sku: AL001
-releaseprefix: SWA
-cataloguenumber: '001'
+sku: SWP002
+releaseprefix: SWP
+cataloguenumber: '002'
 image: "/uploads/SWA001-8459ca.png"
 tracks:
 - name: Buddha
