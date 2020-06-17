@@ -3,8 +3,6 @@ title: Lazarus Kane - Narcissus
 date: 2019-09-25 19:47:00 Z
 categories:
 - single
-tags:
-- latest
 sku: SW031
 releaseprefix: SW
 cataloguenumber: '031'

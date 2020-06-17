@@ -2,16 +2,28 @@
     <div class="release product-info">
         <h4>{{ release.title }}</h4>
         {{ release.content }}
+        {%- if release.categories contains 'album' -%}
+        {%- else -%}
         <ul class="track-list">
                 {% for track in release.tracks %}
                  <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="{{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
                  
                 {% endfor %}
               </ul>
+        {%- endif -%}
         {%- if release.mp3-asset -%}
         <button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}">Listen</button>
         {%- endif -%}
+
+
+        
         {%- if release.price -%}
+
+        {%- if release.categories contains 'album' -%}
+          <a href="/shop/albums" class="btn-reverse add-cart">Pre order here.</a>
+
+           {%- else -%}
+
         <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}" 
           data-item-id="{{ release.sku }}"
@@ -32,6 +44,7 @@
             Buy  £ {{ integral }}.{{ fractional }}
            
         </button>
+         {%- endif -%}
         {%- else -%}
         SOLD OUT
         {%- endif -%}

@@ -6,11 +6,12 @@ layout: default
 <div id="news">
  <h3>News</h3>
   {% assign news =  site.posts    %}
-  {% for post in news limit:1  %}
-    <h4>{{ post.title }}</h4>
-    {{ post.content }}
+  <ul class="js-news">
+  {% for post in news   %}
+    <li><h4>{{ post.title }}</h4>
+    {{ post.content }}</li>
   {% endfor %}
-
+</ul>
 </div>
 <section id="releases">
     <h3>Latest Releases</h3>

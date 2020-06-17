@@ -4,7 +4,7 @@ date: 2020-03-16 17:00:00 Z
 categories:
 - single
 tags:
-- lead
+- latest
 sku: SW034
 releaseprefix: SW
 cataloguenumber: '034'

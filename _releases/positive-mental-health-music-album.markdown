@@ -2,6 +2,8 @@
 title: Positive Mental Health Music
 categories:
 - album
+tags:
+- lead
 price: 18.5
 sku: AL001
 releaseprefix: SWA
