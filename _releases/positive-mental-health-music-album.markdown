@@ -39,11 +39,7 @@ Release Date - 6th November 2020
 
 For the first 100 orders you can choose a free limited edition PINK long sleeved Speedy top!
 
-Speedy Wunderground is supportive of and stands in solidarity with the Black Lives Matter Movement.
-
-For every sale we will be donating 20% of the proceeds in aid of the cause split between two amazing charities, StopWatch and UKBLM.
-
- You can find out more about these amazing organisations here:
+Speedy Wunderground is supportive of and stands in solidarity with the Black Lives Matter Movement. For every sale we will be donating 20% of the proceeds in aid of the cause split between two amazing charities, StopWatch and UKBLM. You can find out more about these amazing organisations here:
 
 <a href="https://www.gofundme.com/f/StopWatch-Campaign-for-Fair-Accountable-Policing" class="btn-reverse">StopWatch</a>
 
