@@ -5,6 +5,7 @@ categories:
 - squid
 - town
 - centre
+price: 16
 sku: EP01
 releaseprefix: SWP
 cataloguenumber: '01'
@@ -20,4 +21,4 @@ tracks:
   file: "/uploads/SWP01-04-Squid-Rodeo.mp3"
 ---
 
-12" EP released 15th Nov 2019 (First pressing)
+12" EP released 15th Nov 2019 **(2nd pressing)**
