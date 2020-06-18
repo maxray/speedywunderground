@@ -8,7 +8,7 @@ price: 18.5
 sku: SWP002
 releaseprefix: SWP
 cataloguenumber: '002'
-image: "/uploads/SWA001-8459ca.png"
+image: "/uploads/tina-album.png"
 tracks:
 - name: Buddha
   file: 
