@@ -37,7 +37,7 @@ cd_price: 10
 
 Release Date - 6th November 2020
 
-For the first 100 orders you can choose a free limited edition PINK long sleeved Speedy top!
+For the first 50 orders you can choose a free limited edition PINK long sleeved Speedy top!
 
 Speedy Wunderground is supportive of and stands in solidarity with the Black Lives Matter Movement. For every sale we will be donating 20% of the proceeds in aid of the cause split between two amazing charities, StopWatch and UKBLM. You can find out more about these amazing organisations here:
 
