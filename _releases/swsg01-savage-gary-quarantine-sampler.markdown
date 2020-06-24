@@ -10,7 +10,6 @@ price: 14
 sku: SWSG01
 releaseprefix: SWSG
 cataloguenumber: '01'
-image: "/uploads/SWSG01_Packshot.jpg"
 is-shippable: true
 tracks:
 - name: Bury St Edmunds (feat Stephen Fretwell)
