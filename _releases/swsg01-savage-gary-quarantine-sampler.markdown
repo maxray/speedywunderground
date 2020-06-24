@@ -23,5 +23,5 @@ tracks:
   file: 
 ---
 
-Savage Gary white label featuring Stephen Fretwell, Guilty Simpson, and Clams Baker. 12" pink vinyl, limited pressing of 350 for Love Record Stores 2020, released 26th June 2020.
+Savage Gary white label featuring Stephen Fretwell, Guilty Simpson, and Clams Baker. 12" pink vinyl, limited pressing of 500 for Love Record Stores 2020, released 26th June 2020.
 
