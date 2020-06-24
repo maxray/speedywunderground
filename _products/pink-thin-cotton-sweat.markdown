@@ -1,7 +1,6 @@
 ---
 title: Pink Thin Cotton Sweat
 date: 2020-06-24 19:23:00 Z
-published: false
 categories:
 - merch
 - clothes
