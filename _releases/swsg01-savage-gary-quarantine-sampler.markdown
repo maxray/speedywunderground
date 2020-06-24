@@ -1,5 +1,5 @@
 ---
-title: SWSG01 - Savage Gary - Quarantine Sampler
+title: Savage Gary - Quarantine Sampler
 date: 2020-06-24 19:52:00 Z
 categories:
 - ep
