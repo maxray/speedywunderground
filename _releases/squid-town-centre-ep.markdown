@@ -8,7 +8,7 @@ categories:
 price: 16
 sku: EP001
 releaseprefix: SWP
-cataloguenumber: '01'
+cataloguenumber: '001'
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
 - name: Savage
