@@ -6,7 +6,7 @@ categories:
 - town
 - centre
 price: 16
-sku: EP01
+sku: EP001
 releaseprefix: SWP
 cataloguenumber: '01'
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
