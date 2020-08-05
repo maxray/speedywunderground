@@ -2,11 +2,11 @@
 title: QUARANTINE SERIES 17
 date: 2020-06-05 10:52:00 Z
 categories:
-  - digital
+- digital
 tags:
-  - quarantine
+- quarantine
 releaseprefix: Q
-cataloguenumber: "017"
+cataloguenumber: '017'
 image: "/uploads/Q017.png"
 ---
 

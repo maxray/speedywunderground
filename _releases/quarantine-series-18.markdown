@@ -2,11 +2,11 @@
 title: QUARANTINE SERIES 18
 date: 2020-06-05 10:52:00 Z
 categories:
-  - digital
+- digital
 tags:
-  - quarantine
+- quarantine
 releaseprefix: Q
-cataloguenumber: "018"
+cataloguenumber: '018'
 image: "/uploads/Q018.png"
 ---
 

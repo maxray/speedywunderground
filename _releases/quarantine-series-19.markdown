@@ -2,11 +2,11 @@
 title: QUARANTINE SERIES 19
 date: 2020-06-05 10:52:00 Z
 categories:
-  - digital
+- digital
 tags:
-  - quarantine
+- quarantine
 releaseprefix: Q
-cataloguenumber: "019"
+cataloguenumber: '019'
 image: "/uploads/Q019.png"
 ---
 
