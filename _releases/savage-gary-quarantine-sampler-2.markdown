@@ -13,6 +13,7 @@ price: 14
 sku: SWSG02
 releaseprefix: SWSG
 cataloguenumber: '02'
+image: "/uploads/SWSG02_Packshot.jpg"
 is-shippable: true
 tracks:
 - name: Wait & See (feat RoRo)
