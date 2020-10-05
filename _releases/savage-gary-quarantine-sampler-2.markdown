@@ -15,10 +15,10 @@ releaseprefix: SWSG
 cataloguenumber: '02'
 is-shippable: true
 tracks:
-- name: Wait & See (feat Roro)
+- name: Wait & See (feat RoRo)
   file: 
-- name: Cigarettes PT. 2 (feat Youngblackmale)
+- name: Cigarettes PT. 2 (feat youngblackmale)
   file: 
 ---
 
-Savage Gary white label featuring Roro and Youngblackmale. 12" vinyl, limited pressing of 500, released 13th November 2020.
+Savage Gary white label featuring RoRo and youngblackmale. 12" vinyl, limited pressing of 500, released 13th November 2020.
