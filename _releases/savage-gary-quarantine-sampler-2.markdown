@@ -21,4 +21,5 @@ tracks:
   file: 
 ---
 
-Savage Gary white label featuring RoRo and youngblackmale. 12" vinyl, limited pressing of 500, released 13th November 2020.
+Savage Gary white label featuring collaborations with RoRo (Side A) and youngblackmale (Side B).
+Limited pressing of 500 – 12” black vinyl, released 13th November 2020.
