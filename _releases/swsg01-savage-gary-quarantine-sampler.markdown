@@ -1,12 +1,12 @@
 ---
 title: Savage Gary - Quarantine Sampler 1
-order: 2
 date: 2020-06-24 19:52:00 Z
 categories:
 - ep
 - savage
 - gary
 - sampler
+order: 2
 price: 14
 sku: SWSG01
 releaseprefix: SWSG

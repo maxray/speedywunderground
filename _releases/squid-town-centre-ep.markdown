@@ -1,11 +1,11 @@
 ---
 title: Squid Town Centre EP (2nd Pressing)
-order: 1
 categories:
 - ep
 - squid
 - town
 - centre
+order: 1
 price: 16
 sku: EP001
 releaseprefix: SWP

@@ -1,6 +1,5 @@
 ---
 title: Savage Gary - Quarantine Sampler 2
-order: 3
 date: 2020-10-05 11:46:00 Z
 categories:
 - ep
@@ -9,6 +8,7 @@ categories:
 - sampler
 tags:
 - latest
+order: 3
 price: 14
 sku: SWSG02
 releaseprefix: SWSG
