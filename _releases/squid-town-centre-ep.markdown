@@ -1,5 +1,6 @@
 ---
 title: Squid Town Centre EP (2nd Pressing)
+order: 1
 categories:
 - ep
 - squid
