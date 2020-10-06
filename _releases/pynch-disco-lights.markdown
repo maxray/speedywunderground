@@ -3,8 +3,6 @@ title: Pynch - Disco Lights
 date: 2019-11-11 09:07:00 Z
 categories:
 - single
-tags:
-- latest
 sku: SW032
 releaseprefix: SW
 cataloguenumber: '032'
