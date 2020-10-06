@@ -3,8 +3,6 @@ title: PVA - Divine Intervention
 date: 2019-12-09 09:37:00 Z
 categories:
 - single
-tags:
-- latest
 sku: SW033
 releaseprefix: SW
 cataloguenumber: '033'
