@@ -19,10 +19,9 @@
         
         {%- if release.price -%}
 
-        {%- if release.categories contains 'album' -%}
-          <a href="/shop/albums" class="btn-reverse ">Pre order here.</a><br/>
-
-           {%- else -%}
+      
+      
+         
 
         <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}" 
@@ -44,7 +43,7 @@
             Buy  £ {{ integral }}.{{ fractional }}
            
         </button>
-         {%- endif -%}
+         
         {%- else -%}
         SOLD OUT
         {%- endif -%}

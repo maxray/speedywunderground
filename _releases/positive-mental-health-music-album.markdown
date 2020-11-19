@@ -37,8 +37,4 @@ cd_price: 10
 
 Release Date - 6th November 2020
 
-Speedy Wunderground is supportive of and stands in solidarity with the Black Lives Matter Movement. For every sale we will be donating 20% of the proceeds in aid of the cause split between two amazing charities, StopWatch and UKBLM. You can find out more about these amazing organisations here:
-
-<a href="https://www.gofundme.com/f/StopWatch-Campaign-for-Fair-Accountable-Policing" class="btn-reverse">StopWatch</a>
-
-<a href="https://www.gofundme.com/f/ukblm-fund" class="btn-reverse">UKBLM</a>
+The very first Speedy Wunderground album. Out now.
