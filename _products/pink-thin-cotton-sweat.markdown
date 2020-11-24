@@ -13,4 +13,4 @@ image: "/uploads/Speedy%20Wunderground%20_%20White%20on%20Coral%20Silk.jpg"
 is-shippable: true
 ---
 
-Limited edition Pink thin cotton long sleeve sweat. (XL size sold out)
+Limited edition Pink thin cotton long sleeve sweat.
