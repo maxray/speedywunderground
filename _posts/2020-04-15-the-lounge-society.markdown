@@ -8,7 +8,7 @@ layout: post
 
 Following on from their sold out 7” ‘Generation Game’ we are happy to present our new signings THE LOUNGE SOCIETY.
 
-<a href="/shop/digital" class="btn-reverse">Listen to/buy.</a> the new single ‘Burn The Heather’ here.
+<a href="https://ffm.to/tlsheather" class="btn-reverse">Listen to/buy</a> the new single ‘Burn The Heather’ here.
 
 Watch the incredible new video below.
  
