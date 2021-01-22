@@ -5,7 +5,6 @@ categories:
 - single
 tags:
 - latest
-price: 10.5
 sku: SW035
 releaseprefix: SW
 cataloguenumber: '035'
