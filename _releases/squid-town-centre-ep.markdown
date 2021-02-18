@@ -11,7 +11,7 @@ price:
 sku: EP001
 releaseprefix: SWP
 cataloguenumber: '001'
-extLink: 'https://speedywunderground.ochre.store/release/218724-squid-town-centre'
+extLink: https://speedywunderground.ochre.store/release/218724-squid-town-centre
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
 - name: Savage
