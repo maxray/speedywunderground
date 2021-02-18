@@ -7,7 +7,7 @@ price:
 sku: SWP002
 releaseprefix: SWP
 cataloguenumber: '002'
-extLink: 'https://speedywunderground.ochre.store/release/218740-tina-positive-mental-health-music'
+extLink: https://speedywunderground.ochre.store/release/218740-tina-positive-mental-health-music
 image: "/uploads/tina-album.png"
 tracks:
 - name: Buddha

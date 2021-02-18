@@ -3,14 +3,14 @@ title: THE LOUNGE SOCIETY – SILK FOR THE STARVING
 categories:
 - pias
 - ep
-order: 1
 tags:
 - lead
+order: 1
 price: 
 sku: EP003
 releaseprefix: SWP
 cataloguenumber: '003'
-extLink: 'https://speedywunderground.ochre.store/release/220251-the-lounge-society-silk-for-the-starving'
+extLink: https://speedywunderground.ochre.store/release/220251-the-lounge-society-silk-for-the-starving
 image: "/uploads/swp003.png"
 tracks:
 - name: Burn The Heather
