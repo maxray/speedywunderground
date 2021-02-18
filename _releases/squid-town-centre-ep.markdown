@@ -1,15 +1,17 @@
 ---
 title: Squid Town Centre EP (2nd Pressing)
 categories:
+- pias
 - ep
 - squid
 - town
 - centre
 order: 1
-price: 16
+price: 
 sku: EP001
 releaseprefix: SWP
 cataloguenumber: '001'
+extLink: 'https://speedywunderground.ochre.store/release/218724-squid-town-centre'
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
 - name: Savage

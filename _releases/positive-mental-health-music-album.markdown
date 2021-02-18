@@ -1,13 +1,15 @@
 ---
 title: TIÑA - Positive Mental Health Music
 categories:
+- pias
 - album
 tags:
 - lead
-price: 18.5
+price: 
 sku: SWP002
 releaseprefix: SWP
 cataloguenumber: '002'
+extLink: 'https://speedywunderground.ochre.store/release/218740-tina-positive-mental-health-music'
 image: "/uploads/tina-album.png"
 tracks:
 - name: Buddha
