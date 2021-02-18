@@ -45,7 +45,11 @@
         </button>
          
         {%- else -%}
-        SOLD OUT
+            {%- if release.categories contains 'pias' -%}
+            <a href="{{ release.extLink }}" target="_blank" class="snipcart-add-item add-cart">BUY ON PIAS</a>
+            {%- else -%}
+            SOLD OUT
+            {%- endif -%}
         {%- endif -%}
     </div>
 </li>

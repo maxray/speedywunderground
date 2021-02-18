@@ -6,7 +6,7 @@ categories:
 - squid
 - town
 - centre
-order: 1
+order: 2
 price: 
 sku: EP001
 releaseprefix: SWP

@@ -5,7 +5,7 @@ layout: default
 
 <div id="news">
  <h3>News</h3>
-  {% assign news =  site.posts    %}
+  {% assign news =  site.posts | sort:"title"   %}
   <ul class="js-news">
   {% for post in news   %}
     <li><h4>{{ post.title }}</h4>
