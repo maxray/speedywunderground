@@ -92,8 +92,16 @@
        
         {%- endif -%}
 
+        
+
         {% else %}
-        SOLD OUT 
+
+         {%- if release.categories contains 'digital' -%}
+         {%- endif -%}
+         {%- if release.categories contains 'single' -%}
+          SOLD OUT 
+          {%- endif -%}
+       
          {%- endif -%}
          
         </div>
