@@ -1,9 +1,8 @@
 ---
 title: TIÑA - Positive Mental Health Music
 categories:
-- pias
 - album
-price: 
+price: 20
 sku: SWP002
 releaseprefix: SWP
 cataloguenumber: '002'

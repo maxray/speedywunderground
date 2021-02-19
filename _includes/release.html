@@ -16,13 +16,20 @@
               <li class="no-bullet"><button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button></li>
             {%- endif -%}
            </ul>
+
+    
+
+        
           
        
         {%- if release.price -%}
 
-         {%- if release.categories contains 'album' -%}
+         {%- if release.categories contains 'pias' -%}
+         <a href="{{ release.extLink }}" target="_blank" class="add-cart">BUY ON PIAS</a>
+        
+     
 
-         
+         {%- else if release.categories contains 'album' -%}
           <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}-vinyl" 
           data-item-id="{{ release.sku }}-vinyl" 
@@ -78,15 +85,11 @@
            
         </button>
         {%- endif -%}
+
+        
         {%- else -%}
         
-         {%- if release.categories contains 'digital' -%}
-
-         {%- else if release.categories contains 'pias' -%}
-         <a href="{{ release.extLink }}" target="_blank" class="add-cart">BUY ON PIAS</a>
-         {%- else -%}
-          SOLD OUT
-          {%- endif -%}
+        SOLD OUT
        
         {%- endif -%}
         </div>

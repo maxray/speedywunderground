@@ -6,7 +6,7 @@ categories:
 tags:
 - lead
 order: 1
-price: 
+price: 1
 sku: EP003
 releaseprefix: SWP
 cataloguenumber: '003'
