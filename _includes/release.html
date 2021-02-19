@@ -24,12 +24,14 @@
        
         {%- if release.price -%}
 
-         {%- if release.categories contains 'pias' -%}
+         {%- if release.price == 1 -%}
          <a href="{{ release.extLink }}" target="_blank" class="add-cart">BUY ON PIAS</a>
-        
+        {%- endif -%}
+
+         {%- if release.price > 1 -%}
      
 
-         {%- else if release.categories contains 'album' -%}
+         {%- if release.categories contains 'album' -%}
           <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}-vinyl" 
           data-item-id="{{ release.sku }}-vinyl" 
@@ -92,6 +94,7 @@
         SOLD OUT
        
         {%- endif -%}
+         {%- endif -%}
         </div>
     </div>
 </li>
