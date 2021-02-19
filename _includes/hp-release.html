@@ -16,12 +16,14 @@
         {%- endif -%}
 
 
-        
-        {%- if release.price -%}
+        {% if release.price == 1  %}
+                <a href="{{ release.extLink }}" target="_blank" class="add-cart">BUY ON PIAS</a>
+      
+      {%- endif -%}
+      
+        {%- if release.price > 1 -%}
 
-      
-      
-         
+        
 
         <button class="snipcart-add-item add-cart" 
           data-item-name="{{ release.title }}" 
@@ -44,11 +46,12 @@
            
         </button>
          
-        {%- else -%}
+        {%- else   -%}
 
-           
+            {% if release.price == 1  %}
+            {%- else   -%}
             SOLD OUT
-       
+        {%- endif -%}
         {%- endif -%}
     </div>
 </li>
