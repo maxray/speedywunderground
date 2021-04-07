@@ -5,7 +5,7 @@ categories:
 - ep
 tags:
 - lead
-order: 1
+order: 2
 price: 1
 sku: EP003
 releaseprefix: SWP

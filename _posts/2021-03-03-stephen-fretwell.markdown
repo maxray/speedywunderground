@@ -6,11 +6,13 @@ categories:
 layout: post
 ---
 
-We are over the moon to be working with our friend – the cult singer-songwriter Stephen Fretwell.
+We are delighted to be releasing the long-awaited third album from Stephen Fretwell.
 
-Listen to ‘Oval’ – his first new piece of music for 13 years <a href="https://ffm.to/sf_oval" >here</a>.
+‘Busy Guy’ will be out on 16th July on LP/CD/digital.
 
-Watch the video below. More news soon….
+Pre-order the album <a href="https://ffm.to/sf_busyguy" >here</a>.
+
+Watch the video for ‘Embankment’ below.
  
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/i8XgzG6Gkn4' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/LgfWhCoLiLM' frameborder='0' allowfullscreen></iframe></div>
 <p> </p>
