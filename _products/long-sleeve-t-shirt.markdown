@@ -2,6 +2,11 @@
 title: Long Sleeve T-shirt
 date: 2021-05-10 11:56:00 Z
 published: false
+categories:
+- clothes
+- merch
+tags:
+- size
 name: Long sleeve t-shirt
 price: 25
 sku: lst
