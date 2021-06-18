@@ -8,7 +8,7 @@ layout: post
 
 'Silk For The Starving' the debut EP from The Lounge Society is out now on 12” vinyl and digital.
 
-Nuy/listen <a href="https://ffm.to/tlssfts">here</a>. 
+Buy/listen <a href="https://ffm.to/tlssfts">here</a>. 
 
 Watch the new video for ‘Cain’s Heresy’ below.
  
