@@ -6,11 +6,9 @@ categories:
 layout: post
 ---
 
-We are very pleased to announce the debut EP from The Lounge Society.
+'Silk For The Starving' the debut EP from The Lounge Society is out now on 12” vinyl and digital.
 
-‘Silk For The Starving’ will be released on 18th June 2021 on 12” vinyl + digital.
-
-Order <a href="https://ffm.to/tlssfts">here</a>. 
+Nuy/listen <a href="https://ffm.to/tlssfts">here</a>. 
 
 Watch the new video for ‘Cain’s Heresy’ below.
  
