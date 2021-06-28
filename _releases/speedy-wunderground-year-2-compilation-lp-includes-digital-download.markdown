@@ -3,7 +3,6 @@ title: Speedy Wunderground Year 2 Compilation LP
 date: 2019-06-26 21:54:00 Z
 categories:
 - compilation
-price: 18.5
 sku: Y2
 releaseprefix: SWY
 cataloguenumber: '02'
