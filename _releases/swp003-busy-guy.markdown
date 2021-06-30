@@ -5,7 +5,6 @@ categories:
 - pias
 tags:
 - latest
-order: 1
 price: 1
 sku: SWP004
 releaseprefix: SWP

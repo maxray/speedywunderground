@@ -4,7 +4,7 @@ categories:
 - pias
 - ep
 tags:
-- lead
+- latest
 order: 2
 price: 1
 sku: EP003
