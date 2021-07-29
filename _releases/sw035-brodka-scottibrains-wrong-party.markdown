@@ -3,6 +3,7 @@ title: BRODKA & SCOTTIBRAINS – WRONG PARTY
 date: 2021-01-21 10:31:00 Z
 categories:
 - single
+price: 10.5
 sku: SW035
 releaseprefix: SW
 cataloguenumber: '035'
