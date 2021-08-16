@@ -6,11 +6,9 @@ categories:
 layout: post
 ---
 
-We are delighted to be releasing the long-awaited third album from Stephen Fretwell.
+‘Busy Guy’ the critically acclaimed new album from Stephen Fretwell is out now.
 
-‘Busy Guy’ will be out on 16th July on LP/CD/digital.
-
-Pre-order the album <a href="https://ffm.to/sf_busyguy" >here</a>.
+Buy / <a href="https://ffm.to/sf_busyguy" >listen</a> here.
 
 Watch the video for ‘The Long Water’ below.
  
