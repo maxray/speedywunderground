@@ -8,7 +8,7 @@ layout: post
 
 ‘Busy Guy’ the critically acclaimed new album from Stephen Fretwell is out now.
 
-Buy / <a href="https://ffm.to/sf_busyguy" >listen</a> here.
+Buy / <a href="https://ffm.to/sf_busyguy" >listen here</a>.
 
 Watch the video for ‘The Long Water’ below.
  
