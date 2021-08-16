@@ -11,7 +11,7 @@ cataloguenumber: '036'
 image: "/uploads/SW36.png"
 tracks:
 - name: 'A side: Coltan Candy'
-  file: '/uploads/SW036A-coltan-candy.wav'
+  file: "/uploads/SW036A-coltan-candy.wav"
 - name: 'B Side: Savage Gary’s Candy Dub'
 order: 1
 ---
