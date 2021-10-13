@@ -13,7 +13,7 @@ tracks:
 - name: 'A side: Coltan Candy'
   file: "/uploads/SW036A-coltan-candy.wav"
 - name: 'B Side: Savage Gary’s Candy Dub'
-order: 1
+order: 3
 ---
 
 7” single only release – limited to an edition of 250 worldwide.
