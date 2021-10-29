@@ -2,11 +2,12 @@
 title: TIÑA - Positive Mental Health Music
 categories:
 - album
-price: 20
+- pias
+price: 1
 sku: SWP002
 releaseprefix: SWP
 cataloguenumber: '002'
-extLink: https://speedywunderground.ochre.store/release/218740-tina-positive-mental-health-music
+extLink: https://store.pias.com/release/252702-tina-positive-mental-health-music
 image: "/uploads/tina-album.png"
 tracks:
 - name: Buddha
@@ -31,7 +32,6 @@ tracks:
   file: 
 - name: People
   file: 
-cd_price: 10
 ---
 
 Release Date - 6th November 2020
