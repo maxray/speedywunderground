@@ -5,12 +5,10 @@ categories:
 - squid
 - town
 - centre
-order: 2
-price: 16
+price: 17
 sku: EP001
 releaseprefix: SWP
 cataloguenumber: '001'
-extLink: https://speedywunderground.ochre.store/release/218724-squid-town-centre
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
 tracks:
 - name: Savage
@@ -21,6 +19,8 @@ tracks:
   file: "/uploads/SWP01-03-Squid-The%20Cleaner.mp3"
 - name: Rodeo
   file: "/uploads/SWP01-04-Squid-Rodeo.mp3"
+order: 2
+extLink: https://speedywunderground.ochre.store/release/218724-squid-town-centre
 ---
 
 12" EP released 15th Nov 2019 **(2nd pressing)**
