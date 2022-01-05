@@ -8,8 +8,7 @@ categories:
 - sampler
 tags:
 - latest
-order: 3
-price: 14
+price: 15
 sku: SWSG03
 releaseprefix: SWSG
 cataloguenumber: '03'
@@ -20,6 +19,7 @@ tracks:
   file: 
 - name: Pearl Elevator (feat. DEWEY)
   file: 
+order: 3
 ---
 
 Savage Gary white label featuring collaborations with Georgia (Side A) and DEWEY (Side B).
