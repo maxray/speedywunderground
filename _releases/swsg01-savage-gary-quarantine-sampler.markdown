@@ -8,7 +8,7 @@ categories:
 - sampler
 tags:
 - latest
-price: 14
+price: 15
 sku: SWSG01
 releaseprefix: SWSG
 cataloguenumber: '01'
