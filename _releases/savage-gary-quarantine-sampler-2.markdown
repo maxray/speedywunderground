@@ -8,8 +8,7 @@ categories:
 - sampler
 tags:
 - latest
-order: 3
-price: 14
+price: 15
 sku: SWSG02
 releaseprefix: SWSG
 cataloguenumber: '02'
@@ -20,6 +19,7 @@ tracks:
   file: 
 - name: Cigarettes PT. 2 (feat youngblackmale)
   file: 
+order: 3
 ---
 
 Savage Gary white label featuring collaborations with RoRo (Side A) and youngblackmale (Side B).
