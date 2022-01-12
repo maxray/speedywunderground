@@ -6,9 +6,9 @@
             <div class="product-description">
                  <h4>{{release.releaseprefix}}{%- if release.cataloguenumber.size > 0 -%}{{ release.cataloguenumber }}: &nbsp; {%- endif -%} {{ release.title }}</h4>
         {{ release.content }}
-      
+        {%- if release.notracks -%}
+         {%- else -%}
            <ul class="track-list">
-        
             {% for track in release.tracks %}
               <li> {{ track.name }} {%- if track.file -%}<button class="js-play-sample listen" data-sample="{{ track.file }}" data-songname="SW{{ release.cataloguenumber }}: {{ track.name }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button>{%- endif -%}</li>
             {% endfor %}
@@ -16,7 +16,7 @@
               <li class="no-bullet"><button class="js-play-sample listen" data-sample="{{release.mp3-asset}}" data-songname="{{ release.title }}"><img src="{{site.baseurl}}/assets/images/hear.svg"/></button></li>
             {%- endif -%}
            </ul>
-
+ {%- endif -%}
     
 
         
