@@ -3,27 +3,27 @@ title: Honeyglaze - Honeyglaze
 categories:
 - album
 - pias
+tags:
+- lead
 price: 1
 sku: SWP005
 releaseprefix: SWP
 cataloguenumber: '005'
-tags:
-- lead
 order: 1
 extLink: https://ffm.to/honeyglaze_album
 image: "/uploads/honeyglaze-album.jpg"
 tracks:
-- name: 'Start'
-- name: 'Shadows'
-- name: 'Creative Jealousy'
-- name: 'I Am Not Your Cushion'
-- name: 'Female Lead'
-- name: 'Burglar'
-- name: 'Half Past'
-- name: 'Deep Murky Water'
-- name: 'Young Looking'
-- name: 'Souvenir'
-- name: 'Childish Things'
+- name: Start
+- name: Shadows
+- name: Creative Jealousy
+- name: I Am Not Your Cushion
+- name: Female Lead
+- name: Burglar
+- name: Half Past
+- name: Deep Murky Water
+- name: Young Looking
+- name: Souvenir
+- name: Childish Things
 ---
 
 The debut album from London’s Honeyglaze.
