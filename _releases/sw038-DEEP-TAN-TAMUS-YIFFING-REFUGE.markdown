@@ -3,8 +3,6 @@ title: DEEP TAN – TAMU’S YIFFING REFUGE
 date: 2021-08-25 10:31:00 Z
 categories:
 - single
-tags:
-- lead
 price: 10.5
 sku: SW038
 releaseprefix: SW
