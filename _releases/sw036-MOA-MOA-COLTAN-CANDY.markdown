@@ -3,8 +3,6 @@ title: MOA MOA – COLTAN CANDY
 date: 2021-06-30 10:31:00 Z
 categories:
 - single
-tags:
-- lead
 sku: SW036
 releaseprefix: SW
 cataloguenumber: '036'

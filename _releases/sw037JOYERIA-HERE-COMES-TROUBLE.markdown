@@ -3,8 +3,6 @@ title: JOYERIA – HERE COMES TROUBLE
 date: 2021-08-25 10:31:00 Z
 categories:
 - single
-tags:
-- lead
 sku: SW037
 releaseprefix: SW
 cataloguenumber: '037'
