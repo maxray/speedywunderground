@@ -5,13 +5,13 @@ categories:
 - single
 tags:
 - lead
-price: 10.5
 sku: SW039
 releaseprefix: SW
 cataloguenumber: '039'
 image: "/uploads/SW39.png"
 tracks:
 - name: 'A-Side: Part 1'
+  file: 
 - name: 'B-Side: Part 2'
 order: 3
 ---
