@@ -6,8 +6,6 @@ categories:
 - savage
 - gary
 - sampler
-tags:
-- latest
 price: 15
 sku: SWSG01
 releaseprefix: SWSG
