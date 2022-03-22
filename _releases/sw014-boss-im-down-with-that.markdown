@@ -3,7 +3,6 @@ title: BOSS – I’m Down With That
 date: 2019-07-02 09:07:00 Z
 categories:
 - single
-price: 10.5
 sku: SW014
 releaseprefix: SW
 cataloguenumber: '014'
