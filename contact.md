@@ -7,6 +7,9 @@ layout: contact
 ### Speedy Wunderground:
 <a href="mailto:info@speedywunderground.com">info@speedywunderground.com</a>
 
+### Demos:
+<a href="mailto:speedywundergrounddemos@gmail.com">speedywundergrounddemos@gmail.com</a>
+
 #### Dan Carey: Threee
 <a href="mailto:dillon@threee.com">dillon@threee.com</a>
 
