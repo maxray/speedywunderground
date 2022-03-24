@@ -12,11 +12,12 @@ cataloguenumber: '040'
 image: "/uploads/SW40.png"
 tracks:
 - name: 'A-Side: Part 1'
+  file: 
 - name: 'B-Side: Part 2'
 order: 3
 ---
 
-7” single only release – limited to an edition of 500 worldwide.
+7” single only release – limited to an edition of **1000** worldwide.
 
 Released 17th June 2022.
  
