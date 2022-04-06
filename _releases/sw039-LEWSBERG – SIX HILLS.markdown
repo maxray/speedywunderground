@@ -3,8 +3,6 @@ title: LEWSBERG – SIX HILLS
 date: 2022-01-24 10:31:00 Z
 categories:
 - single
-tags:
-- lead
 sku: SW039
 releaseprefix: SW
 cataloguenumber: '039'
@@ -13,7 +11,6 @@ tracks:
 - name: 'A-Side: Part 1'
   file: 
 - name: 'B-Side: Part 2'
-order: 3
 ---
 
 7” single only release – limited to an edition of 500 worldwide.
