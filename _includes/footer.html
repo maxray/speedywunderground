@@ -100,6 +100,11 @@
       $(this).next().next().attr('data-item-custom2-value', this.value);
     });
 
+    $(".js-product-cap").on('change', function (e) {
+      e.preventDefault();
+      $(this).next().attr('data-item-custom2-value', this.value);
+    });
+
 
   });
   TweenMax.from("#nav", .5, { opacity: 0 }).delay(.5);

@@ -25,6 +25,13 @@
           <option value="x-large">X-Large</option>
         </select>
         {%- endif -%}
+        {%- if product.tags contains "cap" -%}
+        <select class="js-product-cap select-dd">
+          <option value="" disabled selected>Colour</option>
+          <option value="white">White</option>
+          <option value="purple">Purple</option>
+        </select>
+        {%- endif -%}
         {%- if product.price -%}
       <button class="snipcart-add-item add-cart"
         data-item-name="{{ product.title }}"
@@ -43,6 +50,12 @@
         {% if product.tags contains "colour" %}
         data-item-custom2-name="Colour"
         data-item-custom2-options="red|yellow|blue|black"
+        data-item-custom2-value=""
+        {% endif %}
+
+        {% if product.tags contains "cap" %}
+        data-item-custom2-name="Colour"
+        data-item-custom2-options="white|purple"
         data-item-custom2-value=""
         {% endif %}
         >
