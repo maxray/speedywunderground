@@ -3,8 +3,6 @@ title: STEPHEN FRETWELL – BUSY GUY
 categories:
 - album
 - pias
-tags:
-- latest
 price: 1
 sku: SWP004
 releaseprefix: SWP
