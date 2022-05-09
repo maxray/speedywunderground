@@ -7,7 +7,7 @@ tags:
 - cap
 name: cap
 price: 20
-sku: t-b
+sku: cap
 image: "/uploads/cap.png"
 file-guid: 
 is-shippable: true
