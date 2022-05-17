@@ -6,7 +6,7 @@ categories:
 price: 20
 sku: Y4
 releaseprefix: SWY
-cataloguenumber: '04'
+cataloguenumber: '4'
 image: "/uploads/SWY4_PACKSHOT.jpg"
 tracks:
 - name: scottibrains - Sustained Threat

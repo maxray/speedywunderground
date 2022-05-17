@@ -5,7 +5,7 @@ categories:
 - compilation
 sku: Y2
 releaseprefix: SWY
-cataloguenumber: '02'
+cataloguenumber: '2'
 image: "/uploads/SWR2.png"
 tracks:
 - name: Natalie Bang Bang – Dangerous When Wet

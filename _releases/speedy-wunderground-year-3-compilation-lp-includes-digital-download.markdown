@@ -6,7 +6,7 @@ categories:
 price: 20
 sku: Y3
 releaseprefix: SWY
-cataloguenumber: '03'
+cataloguenumber: '3'
 image: "/uploads/SWY3.png"
 tracks:
 - name: Boxed In feat. Formation – Running Out
