@@ -3,9 +3,9 @@ title: Speedy Wunderground VOL. 5 Compilation LP
 date: 2019-10-15 11:31:00 Z
 categories:
 - compilation
-price: 20
 tags:
 - latest
+price: 20
 sku: Y4
 releaseprefix: SWY
 cataloguenumber: '5'
