@@ -1,9 +1,9 @@
 ---
 title: The Lounge Society
 date: 2022-05-05 08:35:49 Z
-order: 1
 categories:
 - update
+order: 1
 layout: post
 ---
 
