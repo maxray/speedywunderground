@@ -3,8 +3,6 @@ title: THE LOUNGE SOCIETY – SILK FOR THE STARVING
 categories:
 - pias
 - ep
-tags:
-- latest
 order: 2
 price: 1
 sku: EP003

@@ -4,6 +4,8 @@ date: 2019-10-15 11:31:00 Z
 categories:
 - compilation
 price: 20
+tags:
+- latest
 sku: Y4
 releaseprefix: SWY
 cataloguenumber: '5'
