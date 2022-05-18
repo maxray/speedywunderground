@@ -11,14 +11,6 @@ releaseprefix: SWY
 cataloguenumber: '5'
 image: "/uploads/SWY5DIG-PACKSHOT.jpeg"
 tracks:
-
-
-
-
-
-
-
-
 - name: Lazarus Kane – Narcissus
   file: "/uploads/Lazarus Kane - Narcissus_01.mp3"
 - name: Pynch – Disco Lights
