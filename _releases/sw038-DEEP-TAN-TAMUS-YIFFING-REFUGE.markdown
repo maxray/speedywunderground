@@ -12,7 +12,6 @@ tracks:
 - name: 'A-Side: tamu''s yiffing refuge'
   file: 
 - name: 'B-Side: Savage Gary''s furry flash'
-
 ---
 
 7” single only release – limited to an edition of 500 worldwide.
