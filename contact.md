@@ -8,6 +8,9 @@ layout: contact
 <a href="mailto:info@speedywunderground.com">info@speedywunderground.com</a>
 
 ### Demos:
+
+All Speedy Wunderground releases are produced in house by Dan Carey. Please send demos as WAV or MP3 files to: 
+
 <a href="mailto:speedywundergrounddemos@gmail.com">speedywundergrounddemos@gmail.com</a>
 
 #### Dan Carey: Threee
