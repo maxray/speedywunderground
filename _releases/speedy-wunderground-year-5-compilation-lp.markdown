@@ -6,9 +6,9 @@ categories:
 tags:
 - latest
 price: 20
-sku: Y4
+sku: Y5
 releaseprefix: SWY
-cataloguenumber: '5'
+cataloguenumber: 5
 image: "/uploads/SWY5DIG-PACKSHOT.jpeg"
 tracks:
 - name: Lazarus Kane – Narcissus
