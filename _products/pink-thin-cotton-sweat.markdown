@@ -7,7 +7,6 @@ categories:
 tags:
 - size
 name: Pink Long Sleeve
-price: 25
 sku: pink-l-s
 image: "/uploads/Speedy%20Wunderground%20_%20White%20on%20Coral%20Silk.jpg"
 is-shippable: true
