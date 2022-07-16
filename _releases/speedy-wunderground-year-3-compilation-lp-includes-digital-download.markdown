@@ -3,10 +3,10 @@ title: Speedy Wunderground Year 3 Compilation LP
 date: 2019-06-26 11:23:00 Z
 categories:
 - compilation
-price: 20
+price: 21
 sku: Y3
 releaseprefix: SWY
-cataloguenumber: '3'
+cataloguenumber: 3
 image: "/uploads/SWY3.png"
 tracks:
 - name: Boxed In feat. Formation – Running Out
