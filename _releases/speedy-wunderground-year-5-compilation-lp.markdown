@@ -5,7 +5,7 @@ categories:
 - compilation
 tags:
 - latest
-price: 20
+price: 21
 sku: Y5
 releaseprefix: SWY
 cataloguenumber: 5
