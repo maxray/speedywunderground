@@ -8,10 +8,10 @@ tags:
 - size
 name: T-shirt
 price: 15
-sku: t-shirt
+sku: t-shirtP
 image: "/uploads/purple-t-shirt.jpg"
 is-shippable: true
 layout: productdetails
 ---
 
-Purple short sleeve T-shirt with white Speedy Wunderground logo
+Limited edition purple short sleeve T-shirt with white Speedy Wunderground logo
