@@ -10,7 +10,7 @@ price: 1
 sku: EP008
 releaseprefix: SWP
 cataloguenumber: '008'
-extLink: https://speedywunderground.ochre.store/release/321317-joyeria-fim 
+extLink: https://speedywunderground.ochre.store/release/321317-joyeria-fim
 image: "/uploads/swp008.png"
 tracks:
 - name: Wild Joy
