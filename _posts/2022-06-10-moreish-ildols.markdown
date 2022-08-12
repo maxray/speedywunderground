@@ -7,10 +7,10 @@ order: 2
 layout: post
 ---
 
-‘Float’ is the debut EP from Moreish Idols – out 12th August on 12” / digital.
+‘Float’ the debut EP from Moreish Idols is out now on 12” and digital.
 
 
-Pre-order <a href="https://ffm.to/moreish_float " >here</a>.
+Order/listen <a href="https://ffm.to/moreish_float" >here</a>.
 
 Watch the video for ‘Hangar’ below:
  
