@@ -9,7 +9,7 @@ price: 1
 sku: SWP006
 releaseprefix: SWP
 cataloguenumber: '006'
-order: 2
+order: 3
 extLink: https://loungesociety.ochre.store/
 image: "/uploads/lounge-society-liberty.png"
 tracks:

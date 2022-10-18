@@ -3,8 +3,6 @@ title: THE QUEEN’S HEAD – YOUR GOD OWES YOU MONEY
 date: 2022-03-23 10:31:00 Z
 categories:
 - single
-tags:
-- lead
 price: 10.5
 sku: SW041
 releaseprefix: SW
