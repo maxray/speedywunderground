@@ -5,13 +5,13 @@ categories:
 - single
 tags:
 - lead
-price: 10.5
 sku: SW042
 releaseprefix: SW
 cataloguenumber: '042'
 image: "/uploads/SW42.png"
 tracks:
 - name: 'A-Side: Only a Dream'
+  file: 
 - name: 'B-Side: Only a Dub'
 order: 1
 ---
