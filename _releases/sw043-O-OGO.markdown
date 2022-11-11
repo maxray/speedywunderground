@@ -5,7 +5,6 @@ categories:
 - single
 tags:
 - lead
-price: 10.5
 sku: SW043
 releaseprefix: SW
 cataloguenumber: '043'
