@@ -10,7 +10,7 @@ nameclass: about
 
  1. Speedy Wunderground is a label which started on February 25th 2013 with the release of “I Go Out” by Steve Mason & Emiliana Torrini.
 
- 2. Speedy Wunderground is the idea of producer <a href="{{site.baseurl}}/about-dan-carey/" class="btn-reverse">Dan Carey</a>. Dan will produce all releases. All records will be recorded at Dan’s South London studio. Dan has previously produced Franz Ferdinand, Bat For Lashes, TOY, Kate Tempest, black midi, Fontaines DC, MIA.
+ 2. Speedy Wunderground is the idea of producer <a href="{{site.baseurl}}/about-dan-carey/" class="btn-reverse">Dan Carey</a>. Dan will produce all releases. All records will be recorded at Dan’s South London studio. Dan has previously produced Franz Ferdinand, Bat For Lashes, TOY, Kae Tempest, black midi, Fontaines DC, MIA.
 
  3. Recording of all records will be done in one day and finish before midnight. The recordings will be a snapshot of the day. Mixing will be done the day following the recording, also in one day only. This will prevent over-cooking and ‘faff’.
 
