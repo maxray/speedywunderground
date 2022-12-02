@@ -7,7 +7,7 @@ categories:
 tags:
 - size
 name: T-shirt
-price: 15
+price: 18
 sku: t-shirt
 image: "/uploads/Speedy%20White%20T-shirt.jpg"
 is-shippable: true
