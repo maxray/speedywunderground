@@ -7,7 +7,7 @@ categories:
 tags:
 - size
 name: T-shirt
-price: 15
+price: 18
 sku: t-shirtP
 image: "/uploads/purple-t-shirt.jpg"
 is-shippable: true
