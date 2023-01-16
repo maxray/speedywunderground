@@ -21,7 +21,7 @@ tracks:
   file: 
 - name: Go Savage (feat Guilty Simpson)
   file: 
-order: 2
+order: 6
 ---
 
 Savage Gary white label featuring Stephen Fretwell, Guilty Simpson, and Clams Baker. 12" pink vinyl, limited pressing of 500 for Love Record Stores 2020, released 26th June 2020.

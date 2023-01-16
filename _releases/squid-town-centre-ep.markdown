@@ -19,7 +19,7 @@ tracks:
   file: "/uploads/SWP01-03-Squid-The%20Cleaner.mp3"
 - name: Rodeo
   file: "/uploads/SWP01-04-Squid-Rodeo.mp3"
-order: 2
+order: 8
 extLink: https://speedywunderground.ochre.store/release/218724-squid-town-centre
 ---
 

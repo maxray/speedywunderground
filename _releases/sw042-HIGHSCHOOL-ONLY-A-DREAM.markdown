@@ -3,8 +3,6 @@ title: High School - Only a Dream
 date: 2022-10-17 08:31:00 Z
 categories:
 - single
-tags:
-- lead
 sku: SW042
 releaseprefix: SW
 cataloguenumber: '042'

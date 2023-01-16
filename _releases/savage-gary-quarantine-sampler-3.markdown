@@ -17,7 +17,7 @@ tracks:
   file: 
 - name: Pearl Elevator (feat. DEWEY)
   file: 
-order: 3
+order: 4
 ---
 
 Savage Gary white label featuring collaborations with Georgia (Side A) and DEWEY (Side B).

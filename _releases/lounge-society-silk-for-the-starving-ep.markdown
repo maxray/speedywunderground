@@ -3,7 +3,7 @@ title: THE LOUNGE SOCIETY – SILK FOR THE STARVING
 categories:
 - pias
 - ep
-order: 2
+order: 7
 price: 1
 sku: EP003
 releaseprefix: SWP
