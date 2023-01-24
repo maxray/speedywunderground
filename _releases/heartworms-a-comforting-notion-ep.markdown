@@ -9,7 +9,7 @@ order: 1
 price: 1
 sku: SWP010V
 releaseprefix: SWP
-cataloguenumber: '010V'
+cataloguenumber: 010V
 extLink: https://heartworms.ochre.store/
 image: "/uploads/swp010.png"
 tracks:
