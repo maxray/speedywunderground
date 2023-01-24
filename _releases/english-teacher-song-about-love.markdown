@@ -5,7 +5,7 @@ categories:
 - single
 tags:
 - lead
-price: 10.5
+price: 0
 sku: SW044
 releaseprefix: SW
 cataloguenumber: '044'
