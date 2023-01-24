@@ -5,8 +5,8 @@ categories:
 - single
 tags:
 - lead
-sku: SW044
 price: 10.5
+sku: SW044
 releaseprefix: SW
 cataloguenumber: '044'
 image: "/uploads/SW44.png"
@@ -19,7 +19,7 @@ order: 1
 
 7” single only release – limited to an edition of 500 worldwide.
  
-
+Released 10th March 2023
 
 
 
