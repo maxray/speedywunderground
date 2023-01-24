@@ -3,17 +3,14 @@ title: Honeyglaze - Honeyglaze
 categories:
 - album
 - pias
-tags:
-- lead
 price: 1
 sku: SWP005
 releaseprefix: SWP
 cataloguenumber: '005'
-order: 1
-extLink: https://ffm.to/honeyglaze_album
 image: "/uploads/honeyglaze-album.jpg"
 tracks:
 - name: Start
+  file: 
 - name: Shadows
 - name: Creative Jealousy
 - name: I Am Not Your Cushion
@@ -24,6 +21,8 @@ tracks:
 - name: Young Looking
 - name: Souvenir
 - name: Childish Things
+order: 1
+extLink: https://ffm.to/honeyglaze_album
 ---
 
 The debut album from London’s Honeyglaze.
