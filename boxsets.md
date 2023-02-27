@@ -6,5 +6,5 @@ nameclass: boxsets
 ---
 
 <div class="boxsets">
-
+BS
 </div>
