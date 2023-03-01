@@ -104,6 +104,57 @@
   }
 }
 
+.boxheader {
+  grid-column: 1 / -1;
+
+}
+
+.image-grid {
+  display: flex;
+  align-items: flex-end;
+  gap: 0 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 2rem;
+  scroll-snap-type: x mandatory;
+  grid-column: 1 / -1;
+
+  img {
+    max-width: 400px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    img {
+      max-width: 300px;
+    }
+  }
+
+}
+
+.boxset {
+  margin: 0 0 3rem 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-gap: 2rem;
+  grid-row-gap: 4rem;
+  grid-template-columns: 1fr 1fr;
+
+  @media only screen and (max-width: 768px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media only screen and (max-width: 500px) {
+    grid-template-columns: 1fr;
+  }
+
+  h4,
+  hr {
+    margin-bottom: 1rem;
+
+  }
+}
+
 .merch-list {
   margin: 0;
   padding: 0;
@@ -163,6 +214,7 @@
   line-height: calc(20px + 5vw);
   font-weight: 700;
   text-transform: uppercase;
+
   @media only screen and (max-width: 768px) {
     .shop-cats-item {
       margin-bottom: 2rem;
@@ -178,10 +230,10 @@
   }
 }
 
-.single-list + hr {
+.single-list+hr {
   margin: 4rem 0;
 }
 
-iframe + ul {
+iframe+ul {
   display: none;
 }
