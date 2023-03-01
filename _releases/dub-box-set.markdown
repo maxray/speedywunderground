@@ -14,46 +14,46 @@ image3: "/uploads/COVER.png"
 image4: "/uploads/BOX IMAGE.png"
 image5: "/uploads/BACK TRACKLISTING.png"
 tracks:
-- name: "1a – Archie Bronson Outfit - Mr Dan's Dead Duck Dub"
+- name: 1a – Archie Bronson Outfit - Mr Dan's Dead Duck Dub
   file: 
-- name: "1b – Toy & Natasha Khan - (Here Comes) Dub Bride"
+- name: 1b – Toy & Natasha Khan - (Here Comes) Dub Bride
   file: 
-- name: "2a – Scottibrains - Mr Dan's Shut Eye Dub"
+- name: 2a – Scottibrains - Mr Dan's Shut Eye Dub
   file: 
-- name: "2b - JUCE! - Mr Dan's No Brain Dub"
+- name: 2b - JUCE! - Mr Dan's No Brain Dub
   file: 
-- name: "3a – Kae Tempest & Loyle Carner - Guts - Mr Dan's Balloon Dub"
+- name: 3a – Kae Tempest & Loyle Carner - Guts - Mr Dan's Balloon Dub
   file: 
-- name: "3b – Telegram - Mr Dan's Inside Out Dub"
+- name: 3b – Telegram - Mr Dan's Inside Out Dub
   file: 
-- name: "4a – Teleman - Mr Dan's Strange Dubby Nations"
+- name: 4a – Teleman - Mr Dan's Strange Dubby Nations
   file: 
-- name: "4b – Peluché - Mr Dan's Gammy Eye Dub"
+- name: 4b – Peluché - Mr Dan's Gammy Eye Dub
   file: 
-- name: "5a – Melt Yourself Down - Mr Dan's Another Dub"
+- name: 5a – Melt Yourself Down - Mr Dan's Another Dub
   file: 
-- name: "5b – DEWEY - Mr Dan's Dub Me Over"
+- name: 5b – DEWEY - Mr Dan's Dub Me Over
   file: 
-- name: "6a – black midi - savage gary's dbdbdb"
+- name: 6a – black midi - savage gary's dbdbdb
   file: 
-- name: "6b – Black Country, New Road - Athen’s, France - Savage Gary’s Takedown dub"
+- name: 6b – Black Country, New Road - Athen’s, France - Savage Gary’s Takedown dub
   file: 
-- name: "7a – All We Are & Alex Kapranos - Heart Attack - Savage Gary’s Remix"
+- name: 7a – All We Are & Alex Kapranos - Heart Attack - Savage Gary’s Remix
   file: 
-- name: "7b – Tiña - Dicks In The Dub"
+- name: 7b – Tiña - Dicks In The Dub
   file: 
-- name: "8a – Pynch - Orla Carey’s Pynch Your Lights Out Dub"
-  file:
-- name: "8b – PVA - Savage Gary's Christmas Dub"
-  file:
-- name: "9a – Brodka & Scottibrains - Wrong Dub Party"
-  file:
-- name: "9b – moa moa - Savage Gary’s Candy Dub"
-  file:
-- name: "10a – deep tan - Savage Gary’s furry flash"
-  file:
-- name: "10b – Honeyglaze - Savage Gary's Robber Dub Dub Remix"
-  file:
+- name: 8a – Pynch - Orla Carey’s Pynch Your Lights Out Dub
+  file: 
+- name: 8b – PVA - Savage Gary's Christmas Dub
+  file: 
+- name: 9a – Brodka & Scottibrains - Wrong Dub Party
+  file: 
+- name: 9b – moa moa - Savage Gary’s Candy Dub
+  file: 
+- name: 10a – deep tan - Savage Gary’s furry flash
+  file: 
+- name: 10b – Honeyglaze - Savage Gary's Robber Dub Dub Remix
+  file: 
 ---
 
 Ten x 7” vinyl box set (20 tracks in total, one on each side, two on each disc) comprised of a selection of Savage Gary (Dan Carey) dub versions taken from the Speedy Wunderground single series.
