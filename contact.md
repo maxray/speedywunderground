@@ -16,5 +16,7 @@ All Speedy Wunderground releases are produced in house by Dan Carey. Please send
 #### Dan Carey: Threee
 <a href="mailto:dillon@threee.com">dillon@threee.com</a>
 
-#### Press Enquiries, One Beat PR: Liv Willars
-<a href="mailto:liv@onebeatpr.com">liv@onebeatpr.com</a>
+#### Press Enquiries
+<a href="mailto:liv@onebeatpr.com">liv@onebeatpr.com</a> (single series)
+
+<a href="mailto:james@prescriptionpr.co.uk">james@prescriptionpr.co.uk</a> (general enquiries)

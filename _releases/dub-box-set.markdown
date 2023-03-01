@@ -56,6 +56,8 @@ tracks:
   file: 
 ---
 
+Release Date: 4th August 2023
+
 Ten x 7” vinyl box set (20 tracks in total, one on each side, two on each disc) comprised of a selection of Savage Gary (Dan Carey) dub versions taken from the Speedy Wunderground single series.
 
 Individual discs come in limited edition inverted black Speedy single sleeves – each track side labelled with the original corresponding single release colour it originally featured on.
@@ -79,3 +81,4 @@ Outer measures: 21 x 21 x 12.5 cm
 Inner measures: 18.5  x 18.5 x 11 cm
 
 Weight: 0.7 kg
+

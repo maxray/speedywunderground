@@ -31,13 +31,15 @@
 
   {%- if release.price2 > 1 -%}
             <button class="snipcart-add-item add-cart" 
-              data-item-name="{{ release.title }} + Record Bag Bundle" 
-              data-item-id="{{ release.sku }} + Record Bag Bundle" 
+              data-item-name="{{ release.title }}" 
+              data-item-id="{{ release.sku }}" 
               data-item-weight="1"
               data-item-image="{{site.baseurl}}{{ release.image }}" 
               data-item-url="https://www.speedywunderground.com{{ page.url }}" 
               data-item-price="{{ release.price2 | round: 2 }}"  
-              data-item-file-guid = "{{ release.file-guid }}"  
+              data-item-file-guid = "{{ release.file-guid }}" 
+              data-item-custom1-name="Record Bag"
+              data-item-custom1-value="YES" 
               >
               {% assign price_split = release.price2 | round: 2 | split: "." %}
               {% assign integral = price_split[0] %}

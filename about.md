@@ -1,5 +1,5 @@
 ---
-title: About Speedy Wunderground
+title: Single Series
 permalink: "/about/"
 nameclass: about
 ---
