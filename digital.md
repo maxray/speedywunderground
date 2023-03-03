@@ -6,7 +6,7 @@ nameclass: digital
 ---
 
 <div class="singles">
-    <h3>Digital</h3><div class="shop-nav"><a href="{{site.baseurl}}/shop/compilations">Compilations</a> | <a href="{{site.baseurl}}/shop/albums">Albums</a> | <a href="{{site.baseurl}}/shop/eps">EPs</a> | <a href="{{site.baseurl}}/shop/singles">7" Singles</a></div>
+    <h3>Digital</h3><div class="shop-nav"><a href="{{site.baseurl}}/shop/compilations">Compilations</a> | <a href="{{site.baseurl}}/shop/albums">Albums</a> | <a href="{{site.baseurl}}/shop/eps">EPs</a> | <a href="{{site.baseurl}}/shop/singles">7" Singles</a> | <a href="{{site.baseurl}}/shop/boxsets">Box Sets</a></div>
      <h3>Digital Streams</h3>
      <ul class="single-list">
         {% assign ordered_releases = site.releases  | sort:"cataloguenumber" | reverse  %}
