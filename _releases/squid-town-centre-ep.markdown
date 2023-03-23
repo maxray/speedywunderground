@@ -5,7 +5,6 @@ categories:
 - squid
 - town
 - centre
-price: 17
 sku: EP001
 releaseprefix: SWP
 cataloguenumber: '001'
