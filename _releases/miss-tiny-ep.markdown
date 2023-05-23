@@ -9,7 +9,7 @@ order: 2
 price: 1
 sku: SWP009V
 releaseprefix: SWP
-cataloguenumber: 009V
+cataloguenumber: '009V'
 extLink: https://speedywunderground.ochre.store/release/385348-miss-tiny-den7
 image: "/uploads/swp012.png"
 tracks:
