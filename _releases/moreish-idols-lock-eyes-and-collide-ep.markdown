@@ -5,7 +5,6 @@ categories:
 - ep
 tags:
 - lead
-order: 1
 price: 1
 sku: SWP010V
 releaseprefix: SWP

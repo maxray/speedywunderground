@@ -3,8 +3,6 @@ title: THE LOUNGE SOCIETY – TIRED OF LIBERTY
 categories:
 - album
 - pias
-tags:
-- lead
 price: 1
 sku: SWP006
 releaseprefix: SWP

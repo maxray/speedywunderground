@@ -3,9 +3,6 @@ title: MOREISH IDOLS – FLOAT EP
 categories:
 - pias
 - ep
-tags:
-- lead
-order: 3
 price: 1
 sku: EP007
 releaseprefix: SWP
