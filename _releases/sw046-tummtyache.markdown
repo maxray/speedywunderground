@@ -15,7 +15,6 @@ tracks:
 - name: 'A-Side: Circling the Drain'
   file: 
 - name: 'B-Side: Circling the Dub'
-order: 1
 ---
 
 7” single only release – limited to an edition of 500 worldwide.
