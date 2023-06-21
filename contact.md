@@ -14,7 +14,7 @@ All Speedy Wunderground releases are produced in house by Dan Carey. Please send
 <a href="mailto:speedywundergrounddemos@gmail.com">speedywundergrounddemos@gmail.com</a>
 
 #### Dan Carey: Threee
-<a href="mailto:dillon@threee.com">dillon@threee.com</a>
+<a href="mailto:info@threee.com">info@threee.com</a>
 
 #### Press Enquiries
 <a href="mailto:liv@onebeatpr.com">liv@onebeatpr.com</a> (single series)
