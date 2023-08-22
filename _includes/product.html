@@ -21,11 +21,13 @@
           <option value="" disabled selected>Size</option>
           <option value="small">Small</option>
           <option value="medium">Medium</option>
-          {%- if product.title contains "Purple T-shirt" -%}
+          {%- if product.title contains "Purple T-shirt" or product.title contains "Long Sleeve T-shirt" -%}
          
           {%- else -%}
         <option value="large">Large</option>
         {%- endif -%}
+
+
           
           <option value="x-large">X-Large</option>
         </select>
