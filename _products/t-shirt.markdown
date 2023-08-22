@@ -1,5 +1,5 @@
 ---
-title: T-shirt
+title: Short Sleeve T-shirt
 date: 2019-09-07 11:09:00 Z
 categories:
 - clothes
