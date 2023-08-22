@@ -43,7 +43,11 @@
       <button class="snipcart-add-item add-cart"
         data-item-name="{{ product.title }}"
         data-item-id="{{ product.sku }}"
+        {% if product.title contains "Record Bag" %}
+        data-item-weight="501"
+        {% else %}
         data-item-weight="1"
+        {% endif %}
         data-item-image="{{site.baseurl}}{{ product.image }}"
         data-item-url="https://www.speedywunderground.com{{ page.url }}"
         data-item-price="{{ integral }}.{{ fractional }}"
