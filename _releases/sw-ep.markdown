@@ -4,7 +4,7 @@ categories:
 - ep
 sku: EP009
 releaseprefix: SWS
-cataloguenumber: 'XSW'
+cataloguenumber: XSW
 price: 15
 image: "/uploads/sxsw.png"
 tracks:
