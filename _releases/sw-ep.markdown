@@ -2,9 +2,9 @@
 title: SPEEDY WUNDERGROUND – SXSW EP
 categories:
 - ep
-sku: EP009
 tags:
 - lead
+sku: EP009
 releaseprefix: SWS
 cataloguenumber: XSW
 price: 15
