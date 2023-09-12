@@ -3,10 +3,10 @@ title: SPEEDY WUNDERGROUND – SXSW EP
 categories:
 - ep
 sku: EP009
-releaseprefix: SWP
-cataloguenumber: '009'
+releaseprefix: SWS
+cataloguenumber: 'XSW'
 price: 15
-image: "/uploads/swp010.png"
+image: "/uploads/sxsw.png"
 tracks:
 - name: Revival Season – Gold Teeth
 - name: Enumclaw – Spots
