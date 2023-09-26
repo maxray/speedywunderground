@@ -1,5 +1,5 @@
 ---
-title: 'O. – SLICE EP'
+title: O. – SLICE EP
 categories:
 - pias
 - ep
