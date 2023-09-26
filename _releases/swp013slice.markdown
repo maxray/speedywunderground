@@ -8,7 +8,7 @@ tags:
 price: 1
 sku: SWP013
 releaseprefix: SWP
-cataloguenumber: 013
+cataloguenumber: '013'
 extLink: https://speedywunderground.ochre.store/release/411390-o-slice
 image: "/uploads/swp013.jpeg"
 tracks:
