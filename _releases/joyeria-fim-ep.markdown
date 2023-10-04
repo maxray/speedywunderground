@@ -4,6 +4,7 @@ categories:
 - pias
 - ep
 price: 1
+order: 7
 sku: EP008
 releaseprefix: SWP
 cataloguenumber: '008'

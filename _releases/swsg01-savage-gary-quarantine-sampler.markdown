@@ -7,6 +7,7 @@ categories:
 - gary
 - sampler
 price: 15
+
 sku: SWSG01
 releaseprefix: SWSG
 cataloguenumber: '01'
@@ -21,7 +22,7 @@ tracks:
   file: 
 - name: Go Savage (feat Guilty Simpson)
   file: 
-order: 6
+order: 3
 ---
 
 Savage Gary white label featuring Stephen Fretwell, Guilty Simpson, and Clams Baker. 12" pink vinyl, limited pressing of 500 for Love Record Stores 2020, released 26th June 2020.

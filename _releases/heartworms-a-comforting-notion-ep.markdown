@@ -3,7 +3,7 @@ title: HEARTWORMS  - A COMFORTING NOTION EP
 categories:
 - pias
 - ep
-order: 2
+order: 9
 price: 1
 sku: SWP010V
 releaseprefix: SWP

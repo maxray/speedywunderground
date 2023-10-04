@@ -4,6 +4,7 @@ categories:
 - pias
 - ep
 price: 1
+order: 6
 sku: EP007
 releaseprefix: SWP
 cataloguenumber: '007'

@@ -6,6 +6,7 @@ categories:
 - town
 - centre
 sku: EP001
+order: 1
 releaseprefix: SWP
 cataloguenumber: '001'
 image: "/uploads/SQUID_Town%20Centre_350x350.png"
@@ -18,7 +19,6 @@ tracks:
   file: "/uploads/SWP01-03-Squid-The%20Cleaner.mp3"
 - name: Rodeo
   file: "/uploads/SWP01-04-Squid-Rodeo.mp3"
-order: 8
 extLink: https://speedywunderground.ochre.store/release/218724-squid-town-centre
 ---
 
