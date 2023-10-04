@@ -7,7 +7,6 @@ categories:
 - gary
 - sampler
 price: 15
-
 sku: SWSG01
 releaseprefix: SWSG
 cataloguenumber: '01'
