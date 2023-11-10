@@ -4,7 +4,6 @@ permalink: "/about/"
 nameclass: about
 ---
 
-### Speedy Wunderground is Dan Carey, Alexis Smith and Pierre Hall.
 
 ### Speedy Wunderground – A ten-point plan
 
