@@ -3,8 +3,6 @@ title: ENGLISH TEACHER – SONG ABOUT LOVE
 date: 2023-01-24 02:31:00 Z
 categories:
 - single
-tags:
-- lead
 sku: SW044
 releaseprefix: SW
 cataloguenumber: '044'
