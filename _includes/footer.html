@@ -105,6 +105,29 @@
       $(this).next().attr('data-item-custom2-value', this.value);
     });
 
+    $(".js-product-colour").on('change', function (e) {
+      e.preventDefault();
+      var selectedColor = $(this).val();
+      console.log(selectedColor);
+      // Remove all options from size dropdown
+      $('.js-product-size option').remove();
+      // Add default Size option back
+      $('.js-product-size').append('<option value="" disabled="" selected="">Size</option>');
+      if (selectedColor === 'red') {
+          $('.js-product-size').append('<option value="small">Small</option><option value="medium">Medium</option><option value="large">Large</option>');
+      } 
+      else if (selectedColor === 'blue') {
+        $('.js-product-size').append('<option value="small">Small</option><option value="medium">Medium</option><option value="x-large">X-Large</option>');
+      }
+      else {
+        $('.js-product-size').append('<option value="small">Small</option><option value="medium">Medium</option><option value="large">Large</option><option value="x-large">X-Large</option>');
+      }
+    });
+
+
+
+
+
 
   });
   TweenMax.from("#nav", .5, { opacity: 0 }).delay(.5);
