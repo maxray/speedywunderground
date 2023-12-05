@@ -3,8 +3,6 @@ title: MOREISH IDOLS – LOCK EYES AND COLLIDE EP
 categories:
 - pias
 - ep
-tags:
-- lead
 order: 10
 price: 1
 sku: SWP010V

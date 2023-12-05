@@ -3,8 +3,6 @@ title: MISS TINY – DEN7 EP
 categories:
 - pias
 - ep
-tags:
-- lead
 order: 8
 price: 1
 sku: SWP009V
