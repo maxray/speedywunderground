@@ -3,8 +3,6 @@ title: HOT FACE – DURA DURA
 date: 2023-05-02 08:31:00 Z
 categories:
 - single
-tags:
-- lead
 price: 10.5
 sku: SW045
 releaseprefix: SW
