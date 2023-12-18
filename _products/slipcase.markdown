@@ -1,9 +1,9 @@
 ---
 title: Slipcase
 date: 2019-09-07 11:09:00 Z
-name: slipcase
 categories:
 - merch
+name: slipcase
 price: 5
 sku: slipcase
 image: "/uploads/slipcase.png"
