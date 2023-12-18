@@ -77,6 +77,12 @@
         data-item-custom2-options="white|purple"
         data-item-custom2-value=""
         {% endif %}
+
+        {% if product.tags contains "beanie" %}
+        data-item-custom2-name="Colour"
+        data-item-custom2-options="black|burgundy"
+        data-item-custom2-value=""
+        {% endif %}
         >
         Buy it for £ {{ integral }}.{{ fractional }}
       </button>
