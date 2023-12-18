@@ -40,6 +40,13 @@
           <option value="purple">Purple</option>
         </select>
         {%- endif -%}
+        {%- if product.tags contains "beanie" -%}
+        <select class="js-product-beanie select-dd">
+          <option value="" disabled selected>Colour</option>
+          <option value="black">Black</option>
+          <option value="burgundy">Burgundy</option>
+        </select>
+        {%- endif -%}
         {%- if product.price -%}
       <button class="snipcart-add-item add-cart"
         data-item-name="{{ product.title }}"
