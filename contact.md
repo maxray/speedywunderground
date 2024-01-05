@@ -20,3 +20,6 @@ All Speedy Wunderground releases are produced in house by Dan Carey. Please send
 <a href="mailto:liv@onebeatpr.com">liv@onebeatpr.com</a> (single series)
 
 <a href="mailto:james@prescriptionpr.co.uk">james@prescriptionpr.co.uk</a> (general enquiries)
+
+#### Order enquiries: 
+<a href="orders@speedywunderground.com">orders@speedywunderground.com</a>
