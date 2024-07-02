@@ -36,7 +36,6 @@
         {%- if product.tags contains "cap" -%}
         <select class="js-product-cap select-dd">
           <option value="" disabled selected>Colour</option>
-          <option value="white">White</option>
           <option value="purple">Purple</option>
         </select>
         {%- endif -%}
@@ -74,7 +73,7 @@
 
         {% if product.tags contains "cap" %}
         data-item-custom2-name="Colour"
-        data-item-custom2-options="white|purple"
+        data-item-custom2-options="purple"
         data-item-custom2-value=""
         {% endif %}
 
