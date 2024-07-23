@@ -49,9 +49,13 @@
         {%- else   -%}
 
             {% if release.price == 1  %}
+            
+            {%- else   -%}
+            {% if release.paypal contains 'yes'  %}
             {%- else   -%}
             SOLD OUT
-        {%- endif -%}
+            {%- endif -%}
+            {%- endif -%}
         {%- endif -%}
     </div>
 </li>
