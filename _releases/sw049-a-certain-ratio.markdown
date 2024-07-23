@@ -7,7 +7,6 @@ tags:
 - lead
 order: 1
 price: 10.5
-
 sku: SW049
 releaseprefix: SW
 cataloguenumber: '049'
