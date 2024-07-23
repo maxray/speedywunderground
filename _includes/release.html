@@ -37,7 +37,7 @@
               data-item-id="{{ release.sku }}-vinyl" 
               data-item-weight="1"
               data-item-image="{{site.baseurl}}{{ release.image }}" 
-              data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+              data-item-url="{{ page.url }}" 
               data-item-price="{{ release.price | round: 2 }}"  
               data-item-file-guid = "{{ release.file-guid }}"  
               >
@@ -54,7 +54,7 @@
               data-item-id="{{ release.sku }}-cd" 
               data-item-weight="1"
               data-item-image="{{site.baseurl}}{{ release.image }}" 
-              data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+              data-item-url="{{ page.url }}" 
               data-item-price="{{ release.cd_price | round: 2 }}"  
               data-item-file-guid = "{{ release.file-guid }}" 
               
@@ -75,7 +75,7 @@
               data-item-id="{{ release.sku }}" 
               data-item-weight="1"
               data-item-image="{{site.baseurl}}{{ release.image }}" 
-              data-item-url="https://www.speedywunderground.com{{ page.url }}" 
+              data-item-url="{{ page.url }}" 
               data-item-price="{{ release.price | round: 2 }}"  
               data-item-file-guid = "{{ release.file-guid }}"  
               >
