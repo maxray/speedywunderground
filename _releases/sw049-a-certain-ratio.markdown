@@ -6,8 +6,8 @@ categories:
 tags:
 - lead
 order: 1
-price: 
-paypal: 'yes'
+price: 10.5
+
 sku: SW049
 releaseprefix: SW
 cataloguenumber: '049'
