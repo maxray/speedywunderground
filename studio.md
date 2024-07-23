@@ -14,7 +14,7 @@ layout: page
   data-item-price="10.50"
   data-item-weight="1"
   data-item-image="/uploads/SW49.png"
-data-item-url="https://www.speedywunderground.com/shop/singles"
+data-item-url="https://www.speedywunderground.com/studio"
   data-item-name="A certain ratio">
   Add to cart
 </button>
