@@ -28,7 +28,7 @@
             <a href="{{ release.extLink }}" target="_blank" class="add-cart">BUY ONLINE</a>
             {%- endif -%}
 
-            {%- if release.price > 1 and release.paypal != 'yes' -%}
+            {%- if release.price > 1 -%}
      
 
             {%- if release.categories contains 'album' -%}
@@ -96,23 +96,14 @@
 
         {% else %}
 
-        
+  
 
          {%- if release.categories contains 'digital' -%}
          {%- endif -%}
-         {%- if release.categories contains 'single' and release.paypal != 'yes'  -%}
+         {%- if release.categories contains 'single'   -%}
           SOLD OUT 
           {%- endif -%}
        
-         {%- endif -%}
-{%- if release.paypal contains 'yes' -%}
-<script src="https://www.paypal.com/sdk/js?client-id=BAAzj0C3GKqWHZElVOPnrOGPmLw5O6vh4BsPF9NFSk4gG5BKqhHQGZ1ALLfFCAuRgH8kxQMwhvPI1i8Q5k&components=hosted-buttons&disable-funding=venmo&currency=GBP"></script>
-<div id="paypal-container-UPSW4UYC77GDY"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "UPSW4UYC77GDY",
-  }).render("#paypal-container-UPSW4UYC77GDY")
-</script>
          {%- endif -%}
          
         </div>

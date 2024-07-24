@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include headv3.html -%}
+
+  <body class="{{page.layout}} {{ page.nameclass }}">
+    
+    <div class="background"  {% if page.image %} style="background-image: url({{ site.baseurl }}{{page.image }})" {% endif %}>
+        <div class="triangle"></div>
+        <div class="t-line"></div>
+        <div class="black"></div>
+    </div>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
