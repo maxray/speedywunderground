@@ -75,11 +75,11 @@
 
     myCartUpdate();
 
-    Snipcart.api.subscribe('cart.closed', function () {
+    Snipcart.store.subscribe('cart.closed', function () {
       myCartUpdate();
     });
 
-    Snipcart.api.subscribe('item.updated', function (item) {
+    Snipcart.store.subscribe('item.updated', function (item) {
       myCartUpdate();
     });
 
