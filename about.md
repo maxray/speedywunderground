@@ -17,7 +17,7 @@ nameclass: about
 
  5. Overdubs will be kept to a minimum allowing the recordings to be free of clutter.
 
- 6. The recordings will appear in limited runs of two hundred and fifty 7”s, which will be in the shops as soon as humanly possible following their completion.
+ 6. The recordings will appear in limited runs of five hundred  7”s, which will be in the shops as soon as humanly possible following their completion.
 
  7. The core of each song will be a live take recorded in the dark with smoke and lazers and somewhere on each record the Swarmatron will make an appearance.
 
