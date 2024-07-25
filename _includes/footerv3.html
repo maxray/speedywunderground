@@ -79,6 +79,14 @@
          myCartUpdate();
     });
 
+    Snipcart.events.on('item.updated', (cartItem) => {
+         myCartUpdate();
+    });
+
+    Snipcart.events.on('summary.checkout_clicked', () => {
+        myCartUpdate();
+    });
+
     Snipcart.events.on('cart.closed', (cartItem) => {
          myCartUpdate();
     });
