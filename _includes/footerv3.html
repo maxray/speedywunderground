@@ -48,7 +48,6 @@
 
     function myCartUpdate() {
       var count = Snipcart.store.getState().cart.items.count;
-      console.log(count);
       if (count != 0) {
         if ($(window).width() < 768) {
           $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> ' + count + ' Items</a>');
