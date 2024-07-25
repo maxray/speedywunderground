@@ -4,7 +4,6 @@ permalink: "/about/"
 nameclass: about
 ---
 
-
 ### Speedy Wunderground – A ten-point plan
 
  1. Speedy Wunderground is a label which started on February 25th 2013 with the release of “I Go Out” by Steve Mason & Emiliana Torrini.
