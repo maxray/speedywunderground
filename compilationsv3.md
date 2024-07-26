@@ -12,7 +12,7 @@ nameclass: compilations
             {% assign ordered_comps = site.releases | sort:"cataloguenumber" | reverse %}
             {% for release in ordered_comps  %}
             {% if release.categories contains "compilation" %}
-            {% include release.html %}
+            {% include releasev3.html %}
             {% endif %}
         {% endfor %} 
     </ul>
