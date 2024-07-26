@@ -9,7 +9,7 @@ order: 1
 price: 
 sku: SUSH
 releaseprefix: SU
-cataloguenumber: 'SH'
+cataloguenumber: SH
 image: "/uploads/SW49.png"
 tracks:
 - name: 'A-Side: Sush Test'
