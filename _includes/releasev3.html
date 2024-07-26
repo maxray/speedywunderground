@@ -39,7 +39,7 @@
               data-item-image="{{site.baseurl}}{{ release.image }}" 
               data-item-url="{{ page.url }}" 
               data-item-price="{{ release.price | round: 2 }}"  
-              data-item-file-guid = "{{ release.file-guid }}"  
+
               >
               {% assign price_split = release.price | round: 2 | split: "." %}
               {% assign integral = price_split[0] %}
@@ -56,7 +56,7 @@
               data-item-image="{{site.baseurl}}{{ release.image }}" 
               data-item-url="https://www.speedywunderground.com{{ page.url }}" 
               data-item-price="{{ release.cd_price | round: 2 }}"  
-              data-item-file-guid = "{{ release.file-guid }}" 
+
               
               >
               {% assign price_split = release.cd_price | round: 2 | split: "." %}
@@ -77,7 +77,7 @@
               data-item-image="{{site.baseurl}}{{ release.image }}" 
               data-item-url="https://www.speedywunderground.com{{ page.url }}" 
               data-item-price="{{ release.price | round: 2 }}"  
-              data-item-file-guid = "{{ release.file-guid }}"  
+ 
               >
               {% assign price_split = release.price | round: 2 | split: "." %}
               {% assign integral = price_split[0] %}
