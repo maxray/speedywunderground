@@ -6,7 +6,7 @@ categories:
 tags:
 - lead
 order: 1
-price: 
+price: 10
 sku: SUSH
 releaseprefix: SU
 cataloguenumber: SH
