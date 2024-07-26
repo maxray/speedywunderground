@@ -6,3 +6,6 @@
 
 /snipcart.js
   Cache-Control: max-age=0, must-revalidate
+
+/*  
+  Cache-Control: no-store
