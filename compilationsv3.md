@@ -1,6 +1,6 @@
 ---
 title: Shop - Compilations
-permalink: "/shop/compilations"
+permalink: "/shop/compilationsv3"
 layout: shop-innerv3
 nameclass: compilations
 ---

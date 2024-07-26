@@ -1,6 +1,6 @@
 ---
 title: Shop
-permalink: "/shop/albums"
+permalink: "/shop/albumsv3"
 layout: shop-innerv3
 nameclass: albums
 ---
