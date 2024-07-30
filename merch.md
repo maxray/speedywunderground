@@ -8,7 +8,7 @@ nameclass: merch
 <div class="merch">
     <h3> Merch</h3><div class="shop-nav"><a href="{{site.baseurl}}/shop/compilations">Compilations</a> | <a href="{{site.baseurl}}/shop/eps">EPs</a> | <a href="{{site.baseurl}}/shop/singles">Singles</a></div>
     <div class="merch-list">
-            {% assign ordered_merch = site.products | sort:"title"  %}
+            {% assign ordered_merch = site.products | sort:"title" | reverse %}
             {% for product in ordered_merch  %}
                 {% if product.categories contains "merch" %}
                     {% include product.html %}
