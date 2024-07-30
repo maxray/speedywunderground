@@ -1,6 +1,6 @@
 ---
 title: Speedy Wunderground VOL. 6 Compilation LP
-permalink: "/studio/"
+permalink: "/yr6-compilation/"
 layout: page
 ---
 
