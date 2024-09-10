@@ -28,7 +28,7 @@
             <a href="{{ release.extLink }}" target="_blank" class="add-cart">BUY ONLINE</a>
             {%- endif -%}
 
-            {%- if release.price > 1 and release.paypal != 'yes' -%}
+            {%- if release.price > 1 and release.preorder != 'yes' -%}
      
 
             {%- if release.categories contains 'album' -%}
@@ -105,14 +105,23 @@
           {%- endif -%}
        
          {%- endif -%}
-{%- if release.paypal contains 'yes' -%}
-<script src="https://www.paypal.com/sdk/js?client-id=BAAzj0C3GKqWHZElVOPnrOGPmLw5O6vh4BsPF9NFSk4gG5BKqhHQGZ1ALLfFCAuRgH8kxQMwhvPI1i8Q5k&components=hosted-buttons&disable-funding=venmo&currency=GBP"></script>
-<div id="paypal-container-UPSW4UYC77GDY"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "UPSW4UYC77GDY",
-  }).render("#paypal-container-UPSW4UYC77GDY")
-</script>
+{%- if release.preorder contains 'yes' -%}
+ <button class="snipcart-add-item add-cart" 
+              data-item-name="{{ release.title }}" 
+              data-item-id="{{ release.sku }}" 
+              data-item-weight="1"
+              data-item-image="{{site.baseurl}}{{ release.image }}" 
+              data-item-url="{{ page.url }}" 
+              data-item-price="{{ release.price | round: 2 }}"  
+               
+              >
+              {% assign price_split = release.price | round: 2 | split: "." %}
+              {% assign integral = price_split[0] %}
+              {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+            
+              Pre Order £{{ integral }}.{{ fractional }}
+              
+            </button>
          {%- endif -%}
 <!-- {%- if release.comp contains 'yes' -%}
 <a href="/yr6-compilation" class="add-cart">Buy Now</a>

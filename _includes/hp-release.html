@@ -21,7 +21,7 @@
       
       {%- endif -%}
       
-        {%- if release.price > 1 and release.paypal != 'yes' -%}
+        {%- if release.price > 1 and release.preorder != 'yes' -%}
 
         
 
@@ -51,12 +51,32 @@
             {% if release.price == 1  %}
             
             {%- else   -%}
-            {% if release.paypal contains 'yes'  %}
+            {% if release.preorder contains 'yes'  %}
+
+ <button class="snipcart-add-item add-cart" 
+              data-item-name="{{ release.title }}" 
+              data-item-id="{{ release.sku }}" 
+              data-item-weight="1"
+              data-item-image="{{site.baseurl}}{{ release.image }}" 
+              data-item-url="{{ page.url }}" 
+              data-item-price="{{ release.price | round: 2 }}"  
+               
+              >
+              {% assign price_split = release.price | round: 2 | split: "." %}
+              {% assign integral = price_split[0] %}
+              {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+            
+              Pre Order £{{ integral }}.{{ fractional }}
+              
+            </button>
+     
             {%- else   -%}
             SOLD OUT
             {%- endif -%}
             {%- endif -%}
         {%- endif -%}
+
+
     </div>
 </li>
 
