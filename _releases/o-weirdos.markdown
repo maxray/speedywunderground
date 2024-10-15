@@ -12,7 +12,7 @@ cataloguenumber: '014'
 image: "/uploads/o-weirdos.jpg"
 tracks:
 - name: Intro
-- name: 176 - UK5EV2400004
+- name: '176'
 - name: TV Dinners
 - name: Wheezy
 - name: Micro
