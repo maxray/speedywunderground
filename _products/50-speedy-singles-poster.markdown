@@ -1,5 +1,5 @@
 ---
-title: 50 Speedy Singles A3 Poster 
+title: 50 Speedy Singles A3 Poster
 date: 2019-09-07 11:09:00 Z
 categories:
 - merch
