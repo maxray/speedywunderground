@@ -3,8 +3,6 @@ title: VIJI – SO VANILLA
 categories:
 - album
 - pias
-tags:
-- latest
 price: 1
 sku: SWP012
 releaseprefix: SWP

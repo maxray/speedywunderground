@@ -6,6 +6,8 @@ categories:
 price: 20
 comp: 'yes'
 sku: Y6
+tags:
+- lead
 releaseprefix: SWY
 cataloguenumber: '6'
 image: "/uploads/SWY6.jpg"

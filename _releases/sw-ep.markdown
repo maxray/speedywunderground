@@ -2,8 +2,6 @@
 title: SPEEDY WUNDERGROUND – SXSW EP
 categories:
 - ep
-tags:
-- lead
 order: 11
 sku: EP009
 releaseprefix: SWS
