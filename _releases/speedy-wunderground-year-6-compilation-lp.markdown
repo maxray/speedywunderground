@@ -3,11 +3,11 @@ title: Speedy Wunderground VOL. 6 Compilation LP
 date: 2019-10-15 11:31:00 Z
 categories:
 - compilation
+tags:
+- lead
 price: 20
 comp: 'yes'
 sku: Y6
-tags:
-- lead
 releaseprefix: SWY
 cataloguenumber: '6'
 image: "/uploads/SWY6.jpg"
