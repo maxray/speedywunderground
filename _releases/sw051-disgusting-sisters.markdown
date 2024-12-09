@@ -7,7 +7,6 @@ tags:
 - lead
 order: 1
 price: 10.5
-preorder: 'yes'
 sku: SW051
 releaseprefix: SW
 cataloguenumber: '051'
