@@ -19,7 +19,7 @@ tracks:
 - name: Celebrate
 - name: Smuggler’s Adventure
 - name: Glutton For Punishment
-order: 1
+order: 2
 extLink: https://heartworms.ochre.store/
 ---
 
