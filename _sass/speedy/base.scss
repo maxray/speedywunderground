@@ -28,7 +28,7 @@ html , body {
     padding:2rem 2rem 0 2rem;
 }
 
-.wrapper {
+.wrapper:not(.wrapper--single) {
     
     @media only screen and (min-width: 768px) {
         display: grid;
