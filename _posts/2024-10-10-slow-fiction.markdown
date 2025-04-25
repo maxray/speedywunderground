@@ -14,7 +14,7 @@ Pre-order now for release 25th April 2025
 A Side: When
 B Side: Who Is The Dub
 
-<a href="https://speedywunderground.ffm.to/slowfiction-" class="add-cart" >Pre-order</a>
+<a href="https://speedywunderground.ffm.to/slowfiction-" class="add-cart" >Buy Now</a>
 
 Watch the video below:
 
