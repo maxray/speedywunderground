@@ -9,7 +9,7 @@ layout: post
 
 Limited Edition 7” Single Release
 
-Pre-order now for release 25th April 2025
+Released 25th April 2025
 
 A Side: When
 B Side: Who Is The Dub
