@@ -22,4 +22,4 @@ All Speedy Wunderground releases are produced in house by Dan Carey. Please send
 <a href="mailto:james@prescriptionpr.co.uk">james@prescriptionpr.co.uk</a> (general enquiries)
 
 #### Order enquiries: 
-<a href="orders@speedywunderground.com">orders@speedywunderground.com</a>
+<a href="mailto:support@musicglue.com">support@musicglue.com</a>
