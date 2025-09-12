@@ -43,98 +43,6 @@
 </div><!-- / Container-->
 
 <script>
-  document.addEventListener('snipcart.ready', function () {
-
-
-    function myCartUpdate() {
-      var count = Snipcart.api.items.count();
-      //console.log(count);
-      if (count != 0) {
-        if ($(window).width() < 768) {
-          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> ' + count + ' Items</a>');
-
-        } else {
-          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> ' + count + ' Items</a>');
-
-        }
-      } else {
-
-        if ($(window).width() < 768) {
-          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart-white.svg" alt="Your Cart"/> 0 Items</a>');
-
-        } else {
-          $("#my-cart").html('<a href="#" class="snipcart-checkout"><img src="{{site.baseurl}}/assets/images/cart.svg" alt="Your Cart"/> 0 Items</a>');
-
-        }
-      }
-    }
-
-    $(window).on('resize', function () {
-      myCartUpdate();
-    });
-
-    myCartUpdate();
-
-    Snipcart.subscribe('cart.closed', function () {
-      myCartUpdate();
-    });
-
-    Snipcart.subscribe('item.updated', function (item) {
-      myCartUpdate();
-    });
-
-    $(".js-product-size").on('change', function (e) {
-      e.preventDefault();
-      $(this).next().attr('data-item-custom1-value', this.value);
-    });
-
-
-    $(".js-album-size").on('change', function (e) {
-      e.preventDefault();
-      console.log(this);
-      $('button').attr('data-item-custom1-value', this.value);
-    });
-
-    $(".js-product-colour").on('change', function (e) {
-      e.preventDefault();
-      $(this).next().next().attr('data-item-custom2-value', this.value);
-    });
-
-    $(".js-product-cap").on('change', function (e) {
-      e.preventDefault();
-      $(this).next().attr('data-item-custom2-value', this.value);
-    });
-
-    $(".js-product-beanie").on('change', function (e) {
-      e.preventDefault();
-      $(this).next().attr('data-item-custom2-value', this.value);
-    });
-
-    $(".js-product-colour").on('change', function (e) {
-      e.preventDefault();
-      var selectedColor = $(this).val();
-      console.log(selectedColor);
-      // Remove all options from size dropdown
-      $('.js-product-size option').remove();
-      // Add default Size option back
-      $('.js-product-size').append('<option value="" disabled="" selected="">Size</option>');
-      if (selectedColor === 'red') {
-          $('.js-product-size').append('<option value="small">Small</option><option value="medium">Medium</option><option value="large">Large</option>');
-      } 
-      else if (selectedColor === 'blue') {
-        $('.js-product-size').append('<option value="small">Small</option><option value="medium">Medium</option><option value="x-large">X-Large</option>');
-      }
-      else {
-        $('.js-product-size').append('<option value="small">Small</option><option value="medium">Medium</option><option value="large">Large</option><option value="x-large">X-Large</option>');
-      }
-    });
-
-
-
-
-
-
-  });
   TweenMax.from("#nav", .5, { opacity: 0 }).delay(.5);
   TweenMax.from(".background", .5, { opacity: 0 }).delay(1);
   if ($('.triangle')) {
@@ -262,8 +170,6 @@
         playerinfo.html('Playing: ' + songname);
       }
 
-      // console.log(song.src);
-      //$(this).next().attr('data-item-custom1-value' , this.value);
     });
 
 

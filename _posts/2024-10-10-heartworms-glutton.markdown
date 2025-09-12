@@ -3,13 +3,13 @@ title: HEARTWORMS - GLUTTON FOR PUNISHMENT
 date: 2024-10-10 08:35:49 Z
 categories:
 - update
-order: 4
+order: 5
 layout: post
 ---
 
 The debut album from Heartworms. Available on black vinyl, limited edition black & white vinyl, CD and digital. 
 
-Buy it  <a href="https://heartworms.ochre.store/" >here</a>. 
+ <a href="https://heartworms.ochre.store/" class="add-cart">Buy it</a>
 
 Watch the video for 'Warplane' below:
  
