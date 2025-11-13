@@ -1,0 +1,16 @@
+---
+title: Hot Face - Pink Liquor 
+date: 2025-08-18 07:35:00 Z
+categories:
+- update
+order: 1
+layout: post
+---
+
+Stream the brand new single!
+[Button saying: LISTEN NOW]
+
+<a href="https://speedywunderground.ffm.to/hotface-pinkliquor" class="add-cart">Listen Now </a>
+
+<img src="uploads/hotface.png" alt="hot face" />
+ 
