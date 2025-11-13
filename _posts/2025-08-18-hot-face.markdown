@@ -8,7 +8,6 @@ layout: post
 ---
 
 Stream the brand new single!
-[Button saying: LISTEN NOW]
 
 <a href="https://speedywunderground.ffm.to/hotface-pinkliquor" class="add-cart">Listen Now </a>
 
