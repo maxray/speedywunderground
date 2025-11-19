@@ -3,7 +3,7 @@ title: Joyeria - Graceful Degradation EP
 date: 2025-08-18 07:35:00 Z
 categories:
 - update
-order: 2
+order: 3
 layout: post
 ---
 
