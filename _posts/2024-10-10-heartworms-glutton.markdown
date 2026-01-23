@@ -7,7 +7,8 @@ order: 9
 layout: post
 ---
 
-The debut album from Heartworms. Available on black vinyl, limited edition black & white vinyl, CD and digital. 
+The debut album from Heartworms. Available on black vinyl, limited edition black & white vinyl, CD and 
+digital. 
 
  <a href="https://heartworms.ochre.store/" class="add-cart">Buy it</a>
 
