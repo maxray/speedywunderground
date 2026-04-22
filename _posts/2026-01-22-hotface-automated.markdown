@@ -3,7 +3,7 @@ title: Hot Face - Automated Response
 date: 2026-01-22 07:35:00 Z
 categories:
 - update
-order: 1
+order: 2
 layout: post
 ---
 
