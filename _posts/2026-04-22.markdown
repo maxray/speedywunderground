@@ -1,5 +1,6 @@
 ---
-title: MORN - The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)
+title: MORN - The Standard Model / I Watched You as Your Mind Slipped Far (Away from
+  Me)
 date: 2026-04-22 07:35:00 Z
 categories:
 - update
