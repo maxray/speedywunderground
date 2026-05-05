@@ -10,7 +10,7 @@ layout: post
 
 Stream the latest singles and watch the video now! 
 
-<a href="https://speedywunderground.ffm.to/morn-tsm-msf" class="add-cart">Listen and Pre Order Now </a>
+<a href="https://speedywunderground.ffm.to/morn-tsm-msf" class="add-cart">Listen and Order Now </a>
 
 Watch the video below:
 
